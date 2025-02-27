@@ -10,7 +10,7 @@ BASE_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
 models = {
     "Wheat Seeds Prediction": load_model(os.path.join(BASE_DIR, "xinrui/models/final_wheat_seeds_model")),
     "Melbourne House Price Prediction": load_model(os.path.join(BASE_DIR, "dekai/models/final_melbourne_model")),
-    # "Used Car Price Prediction": load_model(os.path.join(BASE_DIR, "jet/models/final_used_car_model"))
+    "Used Car Price Prediction": load_model(os.path.join(BASE_DIR, "jet/models/final_used_car_model"))
 }
 
 # Define feature sets
@@ -55,12 +55,12 @@ if model_type:
                 predicted_price = round(prediction_df["prediction_label"].iloc[0], 2)
                 st.success(f"Predicted House Price: ${predicted_price}")
                 
-            # elif model_type == "Used Car Price Prediction":
-            #     form_data = {feature: float(inputs[feature]) if feature in ["Mileage", "Power"] else int(inputs[feature]) if feature in ["Year", "Kilometers_Driven", "Engine", "Seats"] else inputs[feature] for feature in feature_sets[model_type]}
-            #     input_df = pd.DataFrame([form_data])
-            #     prediction_df = predict_model(models[model_type], data=input_df)
-            #     predicted_price = round(prediction_df["prediction_label"].iloc[0], 2)
-            #     st.success(f"Predicted Car Price: ${predicted_price}")
+            elif model_type == "Used Car Price Prediction":
+                form_data = {feature: float(inputs[feature]) if feature in ["Mileage", "Power"] else int(inputs[feature]) if feature in ["Year", "Kilometers_Driven", "Engine", "Seats"] else inputs[feature] for feature in feature_sets[model_type]}
+                input_df = pd.DataFrame([form_data])
+                prediction_df = predict_model(models[model_type], data=input_df)
+                predicted_price = round(prediction_df["prediction_label"].iloc[0], 2)
+                st.success(f"Predicted Car Price: ${predicted_price}")
         
         except Exception as e:
             st.error(f"Error: {str(e)}")

@@ -1,0 +1,7 @@
+streamlit
+pycaret==3.3.2
+pandas
+scikit-learn
+numpy
+joblib
+omegaconf

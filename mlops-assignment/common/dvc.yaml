@@ -87,4 +87,4 @@ stages:
       - jet/app/final_used_car_model.pkl
       - dekai/app/final_melbourne_model.pkl
       - app/app.py
-      - app/templates/base.html
+      - app/templates/index.html

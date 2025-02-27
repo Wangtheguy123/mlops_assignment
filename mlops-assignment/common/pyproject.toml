@@ -6,7 +6,7 @@ authors = ["dekai", "xinrui", "jet"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "^3.9"
+python = ">=3.11,<3.12"
 pandas = "^1.5.3"
 numpy = "^1.23.5"
 scikit-learn = "^1.2.1"

@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{% block title %}ML Model Selection{% endblock %}</title>
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background: linear-gradient(to bottom right, #2c3e50, #1c2833);
+            color: white;
+            margin: 0;
+        }
+        .navbar {
+            background: black;
+            padding: 10px 0;
+            text-align: center;
+            position: fixed;
+            top: 0;
+            width: 100%;
+            z-index: 1000;
+        }
+        .navbar a {
+            color: white;
+            text-decoration: none;
+            padding: 8px 15px; /* Reduced padding to bring URLs closer */
+            font-size: 16px;
+            display: inline-block;
+        }
+        .navbar a:hover {
+            color: #f1c40f;
+        }
+        .content {
+            padding-top: 60px; /* Adjusted to keep content below navbar */
+        }
+    </style>
+</head>
+<body>
+
+    <div class="navbar">
+        <a href="{{ url_for('home') }}">Home</a> |
+        <a href="{{ url_for('predict_xr') }}">Wheat Seeds Prediction</a> |
+        <a href="{{ url_for('predict_dk') }}">Melbourne House Price</a>
+    </div>
+
+    <div class="content">
+        {% block content %}{% endblock %}
+    </div>
+
+</body>
+</html>

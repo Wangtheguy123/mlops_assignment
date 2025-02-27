@@ -1,0 +1,921 @@
+2025-02-21 01:35:10,222:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-21 01:35:10,222:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-21 01:35:10,222:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-21 01:35:10,222:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-21 01:35:12,140:WARNING:C:\Users\Jupyter Files Only\Downloads\mlops-assignment\xinrui\src\train.py:7: UserWarning: 
+The version_base parameter is not specified.
+Please specify a compatability version level, or None.
+Will assume defaults for version 1.1
+  @hydra.main(config_path=".", config_name="config")
+
+2025-02-21 01:35:12,530:WARNING:C:\Users\Jupyter Files Only\anaconda3\envs\mlops-env\Lib\site-packages\hydra\_internal\hydra.py:119: UserWarning: Future Hydra versions will no longer change working directory at job runtime by default.
+See https://hydra.cc/docs/1.2/upgrades/1.1_to_1.2/changes_to_job_working_dir/ for more information.
+  ret = run_job(
+
+2025-02-21 01:40:03,476:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-21 01:40:03,492:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-21 01:40:03,492:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-21 01:40:03,492:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-21 01:40:05,530:WARNING:C:\Users\Jupyter Files Only\Downloads\mlops-assignment\xinrui\src\train.py:7: UserWarning: 
+The version_base parameter is not specified.
+Please specify a compatability version level, or None.
+Will assume defaults for version 1.1
+  @hydra.main(config_path=".", config_name="config")
+
+2025-02-21 01:40:05,940:WARNING:C:\Users\Jupyter Files Only\anaconda3\envs\mlops-env\Lib\site-packages\hydra\_internal\hydra.py:119: UserWarning: Future Hydra versions will no longer change working directory at job runtime by default.
+See https://hydra.cc/docs/1.2/upgrades/1.1_to_1.2/changes_to_job_working_dir/ for more information.
+  ret = run_job(
+
+2025-02-21 01:50:03,617:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-21 01:50:03,617:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-21 01:50:03,617:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-21 01:50:03,617:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-21 01:50:05,835:WARNING:C:\Users\Jupyter Files Only\Downloads\mlops-assignment\xinrui\src\train.py:7: UserWarning: 
+The version_base parameter is not specified.
+Please specify a compatability version level, or None.
+Will assume defaults for version 1.1
+  @hydra.main(config_path=".", config_name="config")
+
+2025-02-21 01:50:06,157:WARNING:C:\Users\Jupyter Files Only\anaconda3\envs\mlops-env\Lib\site-packages\hydra\_internal\hydra.py:119: UserWarning: Future Hydra versions will no longer change working directory at job runtime by default.
+See https://hydra.cc/docs/1.2/upgrades/1.1_to_1.2/changes_to_job_working_dir/ for more information.
+  ret = run_job(
+
+2025-02-21 01:54:22,239:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-21 01:54:22,239:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-21 01:54:22,239:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-21 01:54:22,239:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-21 01:57:15,251:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-21 01:57:15,251:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-21 01:57:15,260:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-21 01:57:15,260:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-21 01:58:27,205:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-21 01:58:27,209:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-21 01:58:27,209:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-21 01:58:27,209:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-21 01:59:00,493:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-21 01:59:00,501:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-21 01:59:00,501:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-21 01:59:00,501:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-21 01:59:01,835:WARNING:C:\Users\Jupyter Files Only\Downloads\mlops-assignment\xinrui\src\train.py:10: UserWarning: 
+The version_base parameter is not specified.
+Please specify a compatability version level, or None.
+Will assume defaults for version 1.1
+  @hydra.main(config_path=".", config_name="config")
+
+2025-02-21 01:59:02,031:WARNING:C:\Users\Jupyter Files Only\anaconda3\envs\mlops-env\Lib\site-packages\hydra\_internal\hydra.py:119: UserWarning: Future Hydra versions will no longer change working directory at job runtime by default.
+See https://hydra.cc/docs/1.2/upgrades/1.1_to_1.2/changes_to_job_working_dir/ for more information.
+  ret = run_job(
+
+2025-02-21 02:00:28,761:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-21 02:00:28,761:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-21 02:00:28,761:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-21 02:00:28,761:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-21 02:04:13,011:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-21 02:04:13,011:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-21 02:04:13,011:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-21 02:04:13,011:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-21 02:08:43,886:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-21 02:08:43,886:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-21 02:08:43,886:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-21 02:08:43,886:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-21 02:08:45,738:INFO:Initializing load_model()
+2025-02-21 02:08:45,738:INFO:load_model(model_name=model/final_wheat_seeds_model, platform=None, authentication=None, verbose=True)
+2025-02-21 02:09:26,695:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-21 02:09:26,695:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-21 02:09:26,695:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-21 02:09:26,695:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-21 02:09:28,751:INFO:Initializing load_model()
+2025-02-21 02:09:28,751:INFO:load_model(model_name=models/final_wheat_seeds_model, platform=None, authentication=None, verbose=True)
+2025-02-21 02:10:39,091:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-21 02:10:39,091:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-21 02:10:39,091:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-21 02:10:39,091:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-21 02:10:40,495:INFO:Initializing load_model()
+2025-02-21 02:10:40,495:INFO:load_model(model_name=final_wheat_seeds_model, platform=None, authentication=None, verbose=True)
+2025-02-21 02:14:33,368:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-21 02:14:33,368:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-21 02:14:33,368:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-21 02:14:33,368:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-21 02:14:55,674:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-21 02:14:55,674:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-21 02:14:55,674:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-21 02:14:55,674:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-21 02:14:57,454:INFO:Initializing load_model()
+2025-02-21 02:14:57,454:INFO:load_model(model_name=C:\Users\Jupyter Files Only\Downloads\mlops-assignment\xinrui\app\final_wheat_seeds_model.pkl, platform=None, authentication=None, verbose=True)
+2025-02-21 02:15:23,682:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-21 02:15:23,682:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-21 02:15:23,682:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-21 02:15:23,682:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-21 02:16:09,252:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-21 02:16:09,252:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-21 02:16:09,252:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-21 02:16:09,252:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-21 02:16:11,047:INFO:Initializing load_model()
+2025-02-21 02:16:11,047:INFO:load_model(model_name=C:\Users\Jupyter Files Only\Downloads\mlops-assignment\xinrui\app\final_wheat_seeds_model.pkl, platform=None, authentication=None, verbose=True)
+2025-02-21 02:17:34,158:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-21 02:17:34,158:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-21 02:17:34,158:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-21 02:17:34,158:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-21 02:17:35,645:INFO:Initializing load_model()
+2025-02-21 02:17:35,645:INFO:load_model(model_name=C:\Users\Jupyter Files Only\Downloads\mlops-assignment\xinrui\app\final_wheat_seeds_model, platform=None, authentication=None, verbose=True)
+2025-02-21 02:17:35,739:WARNING:C:\Users\Jupyter Files Only\anaconda3\envs\mlops-env\Lib\site-packages\pycaret\internal\pipeline.py:148: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '25.0', 'setuptools': '75.8.0', 'pycaret': '3.3.2', 'IPython': '8.32.0', 'ipywidgets': '8.1.5', 'tqdm': '4.67.1', 'numpy': '1.24.4', 'pandas': '1.5.3', 'jinja2': '3.1.5', 'scipy': '1.11.4', 'joblib': '1.3.2', 'sklearn': '1.4.2', 'pyod': '2.0.3', 'imblearn': '0.13.0', 'category_encoders': '2.7.0', 'lightgbm': '4.6.0', 'numba': '0.61.0', 'requests': '2.32.3', 'matplotlib': '3.7.5', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.24.1', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.14.4', 'sktime': '0.26.0', 'tbats': '1.1.3', 'pmdarima': '2.0.4', 'psutil': '7.0.0', 'markupsafe': '3.0.2', 'pickle5': 'Not installed', 'cloudpickle': '3.1.1', 'deprecation': '2.1.0', 'xxhash': '3.5.0', 'wurlitzer': 'Not installed'}, 'python': {'version': '3.11.11', 'machine': 'AMD64'}}
+pickle: {'deps_info': {'pip': '25.0', 'setuptools': '75.8.0', 'pycaret': '3.3.2', 'IPython': '8.15.0', 'ipywidgets': '8.1.5', 'tqdm': '4.67.1', 'numpy': '1.26.4', 'pandas': '2.1.4', 'jinja2': '3.1.5', 'scipy': '1.11.4', 'joblib': '1.3.2', 'sklearn': '1.4.2', 'pyod': '2.0.3', 'imblearn': '0.12.4', 'category_encoders': '2.6.4', 'lightgbm': '4.6.0', 'numba': '0.60.0', 'requests': '2.32.3', 'matplotlib': '3.7.5', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.24.1', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.14.4', 'sktime': '0.26.0', 'tbats': '1.1.3', 'pmdarima': '2.0.4', 'psutil': '5.9.0', 'markupsafe': '3.0.2', 'pickle5': 'Not installed', 'cloudpickle': '3.1.1', 'deprecation': '2.1.0', 'xxhash': '3.5.0', 'wurlitzer': 'Not installed'}, 'python': {'version': '3.9.21', 'machine': 'AMD64'}}
+  warnings.warn(
+
+2025-02-21 02:17:39,259:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-21 02:17:39,259:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-21 02:17:39,259:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-21 02:17:39,259:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-21 02:17:40,750:INFO:Initializing load_model()
+2025-02-21 02:17:40,750:INFO:load_model(model_name=C:\Users\Jupyter Files Only\Downloads\mlops-assignment\xinrui\app\final_wheat_seeds_model, platform=None, authentication=None, verbose=True)
+2025-02-21 02:17:40,807:WARNING:C:\Users\Jupyter Files Only\anaconda3\envs\mlops-env\Lib\site-packages\pycaret\internal\pipeline.py:148: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '25.0', 'setuptools': '75.8.0', 'pycaret': '3.3.2', 'IPython': '8.32.0', 'ipywidgets': '8.1.5', 'tqdm': '4.67.1', 'numpy': '1.24.4', 'pandas': '1.5.3', 'jinja2': '3.1.5', 'scipy': '1.11.4', 'joblib': '1.3.2', 'sklearn': '1.4.2', 'pyod': '2.0.3', 'imblearn': '0.13.0', 'category_encoders': '2.7.0', 'lightgbm': '4.6.0', 'numba': '0.61.0', 'requests': '2.32.3', 'matplotlib': '3.7.5', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.24.1', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.14.4', 'sktime': '0.26.0', 'tbats': '1.1.3', 'pmdarima': '2.0.4', 'psutil': '7.0.0', 'markupsafe': '3.0.2', 'pickle5': 'Not installed', 'cloudpickle': '3.1.1', 'deprecation': '2.1.0', 'xxhash': '3.5.0', 'wurlitzer': 'Not installed'}, 'python': {'version': '3.11.11', 'machine': 'AMD64'}}
+pickle: {'deps_info': {'pip': '25.0', 'setuptools': '75.8.0', 'pycaret': '3.3.2', 'IPython': '8.15.0', 'ipywidgets': '8.1.5', 'tqdm': '4.67.1', 'numpy': '1.26.4', 'pandas': '2.1.4', 'jinja2': '3.1.5', 'scipy': '1.11.4', 'joblib': '1.3.2', 'sklearn': '1.4.2', 'pyod': '2.0.3', 'imblearn': '0.12.4', 'category_encoders': '2.6.4', 'lightgbm': '4.6.0', 'numba': '0.60.0', 'requests': '2.32.3', 'matplotlib': '3.7.5', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.24.1', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.14.4', 'sktime': '0.26.0', 'tbats': '1.1.3', 'pmdarima': '2.0.4', 'psutil': '5.9.0', 'markupsafe': '3.0.2', 'pickle5': 'Not installed', 'cloudpickle': '3.1.1', 'deprecation': '2.1.0', 'xxhash': '3.5.0', 'wurlitzer': 'Not installed'}, 'python': {'version': '3.9.21', 'machine': 'AMD64'}}
+  warnings.warn(
+
+2025-02-21 02:18:07,756:INFO:Initializing predict_model()
+2025-02-21 02:18:07,756:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x000002BE7F8E97D0>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('label_encoding',
+                 TransformerWrapperWithInverse(transformer=LabelEncoder())),
+                ('numerical_imputer',
+                 TransformerWrapper(include=['Area', 'Perimeter', 'Compactness',
+                                             'Length', 'Width',
+                                             'AsymmetryCoeff', 'Groove'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=[],
+                                    transformer=SimpleI...
+                 TransformerWrapper(include=['Area', 'Perimeter', 'Length',
+                                             'Width', 'Groove'],
+                                    transformer=KBinsDiscretizer(encode='ordinal',
+                                                                 strategy='kmeans'))),
+                ('normalize', TransformerWrapper(transformer=StandardScaler())),
+                ('feature_selection',
+                 TransformerWrapper(exclude=[],
+                                    transformer=SelectFromModel(estimator=LGBMClassifier(),
+                                                                max_features=1,
+                                                                threshold=-inf))),
+                ('actual_estimator', GaussianNB())]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x000002BE7F8E5B20>)
+2025-02-21 02:18:07,756:INFO:Checking exceptions
+2025-02-21 02:18:07,756:INFO:Preloading libraries
+2025-02-21 02:18:07,757:INFO:Set up data.
+2025-02-21 02:18:07,768:INFO:Set up index.
+2025-02-21 02:19:57,330:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-21 02:19:57,330:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-21 02:19:57,330:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-21 02:19:57,330:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-21 02:19:59,199:INFO:Initializing load_model()
+2025-02-21 02:19:59,199:INFO:load_model(model_name=C:\Users\Jupyter Files Only\Downloads\mlops-assignment\xinrui\app\final_wheat_seeds_model, platform=None, authentication=None, verbose=True)
+2025-02-21 02:19:59,269:WARNING:C:\Users\Jupyter Files Only\anaconda3\envs\mlops-env\Lib\site-packages\pycaret\internal\pipeline.py:148: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '25.0', 'setuptools': '75.8.0', 'pycaret': '3.3.2', 'IPython': '8.32.0', 'ipywidgets': '8.1.5', 'tqdm': '4.67.1', 'numpy': '1.24.4', 'pandas': '1.5.3', 'jinja2': '3.1.5', 'scipy': '1.11.4', 'joblib': '1.3.2', 'sklearn': '1.4.2', 'pyod': '2.0.3', 'imblearn': '0.13.0', 'category_encoders': '2.7.0', 'lightgbm': '4.6.0', 'numba': '0.61.0', 'requests': '2.32.3', 'matplotlib': '3.7.5', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.24.1', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.14.4', 'sktime': '0.26.0', 'tbats': '1.1.3', 'pmdarima': '2.0.4', 'psutil': '7.0.0', 'markupsafe': '3.0.2', 'pickle5': 'Not installed', 'cloudpickle': '3.1.1', 'deprecation': '2.1.0', 'xxhash': '3.5.0', 'wurlitzer': 'Not installed'}, 'python': {'version': '3.11.11', 'machine': 'AMD64'}}
+pickle: {'deps_info': {'pip': '25.0', 'setuptools': '75.8.0', 'pycaret': '3.3.2', 'IPython': '8.15.0', 'ipywidgets': '8.1.5', 'tqdm': '4.67.1', 'numpy': '1.26.4', 'pandas': '2.1.4', 'jinja2': '3.1.5', 'scipy': '1.11.4', 'joblib': '1.3.2', 'sklearn': '1.4.2', 'pyod': '2.0.3', 'imblearn': '0.12.4', 'category_encoders': '2.6.4', 'lightgbm': '4.6.0', 'numba': '0.60.0', 'requests': '2.32.3', 'matplotlib': '3.7.5', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.24.1', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.14.4', 'sktime': '0.26.0', 'tbats': '1.1.3', 'pmdarima': '2.0.4', 'psutil': '5.9.0', 'markupsafe': '3.0.2', 'pickle5': 'Not installed', 'cloudpickle': '3.1.1', 'deprecation': '2.1.0', 'xxhash': '3.5.0', 'wurlitzer': 'Not installed'}, 'python': {'version': '3.9.21', 'machine': 'AMD64'}}
+  warnings.warn(
+
+2025-02-21 02:20:03,850:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-21 02:20:03,850:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-21 02:20:03,850:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-21 02:20:03,850:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-21 02:20:05,869:INFO:Initializing load_model()
+2025-02-21 02:20:05,869:INFO:load_model(model_name=C:\Users\Jupyter Files Only\Downloads\mlops-assignment\xinrui\app\final_wheat_seeds_model, platform=None, authentication=None, verbose=True)
+2025-02-21 02:20:05,931:WARNING:C:\Users\Jupyter Files Only\anaconda3\envs\mlops-env\Lib\site-packages\pycaret\internal\pipeline.py:148: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '25.0', 'setuptools': '75.8.0', 'pycaret': '3.3.2', 'IPython': '8.32.0', 'ipywidgets': '8.1.5', 'tqdm': '4.67.1', 'numpy': '1.24.4', 'pandas': '1.5.3', 'jinja2': '3.1.5', 'scipy': '1.11.4', 'joblib': '1.3.2', 'sklearn': '1.4.2', 'pyod': '2.0.3', 'imblearn': '0.13.0', 'category_encoders': '2.7.0', 'lightgbm': '4.6.0', 'numba': '0.61.0', 'requests': '2.32.3', 'matplotlib': '3.7.5', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.24.1', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.14.4', 'sktime': '0.26.0', 'tbats': '1.1.3', 'pmdarima': '2.0.4', 'psutil': '7.0.0', 'markupsafe': '3.0.2', 'pickle5': 'Not installed', 'cloudpickle': '3.1.1', 'deprecation': '2.1.0', 'xxhash': '3.5.0', 'wurlitzer': 'Not installed'}, 'python': {'version': '3.11.11', 'machine': 'AMD64'}}
+pickle: {'deps_info': {'pip': '25.0', 'setuptools': '75.8.0', 'pycaret': '3.3.2', 'IPython': '8.15.0', 'ipywidgets': '8.1.5', 'tqdm': '4.67.1', 'numpy': '1.26.4', 'pandas': '2.1.4', 'jinja2': '3.1.5', 'scipy': '1.11.4', 'joblib': '1.3.2', 'sklearn': '1.4.2', 'pyod': '2.0.3', 'imblearn': '0.12.4', 'category_encoders': '2.6.4', 'lightgbm': '4.6.0', 'numba': '0.60.0', 'requests': '2.32.3', 'matplotlib': '3.7.5', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.24.1', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.14.4', 'sktime': '0.26.0', 'tbats': '1.1.3', 'pmdarima': '2.0.4', 'psutil': '5.9.0', 'markupsafe': '3.0.2', 'pickle5': 'Not installed', 'cloudpickle': '3.1.1', 'deprecation': '2.1.0', 'xxhash': '3.5.0', 'wurlitzer': 'Not installed'}, 'python': {'version': '3.9.21', 'machine': 'AMD64'}}
+  warnings.warn(
+
+2025-02-21 02:30:42,704:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-21 02:30:42,704:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-21 02:30:42,704:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-21 02:30:42,704:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-21 02:31:48,991:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-21 02:31:48,991:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-21 02:31:48,991:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-21 02:31:48,991:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-21 03:10:08,043:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-21 03:10:08,043:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-21 03:10:08,043:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-21 03:10:08,043:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-21 03:10:08,750:INFO:Initializing load_model()
+2025-02-21 03:10:08,750:INFO:load_model(model_name=C:\Users\Jupyter Files Only\Downloads\mlops-assignment\xinrui\app\final_wheat_seeds_model, platform=None, authentication=None, verbose=True)
+2025-02-21 03:10:08,784:WARNING:C:\Users\Jupyter Files Only\anaconda3\envs\mlops-env\Lib\site-packages\pycaret\internal\pipeline.py:148: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '25.0', 'setuptools': '75.8.0', 'pycaret': '3.3.2', 'IPython': '8.32.0', 'ipywidgets': '8.1.5', 'tqdm': '4.67.1', 'numpy': '1.24.4', 'pandas': '1.5.3', 'jinja2': '3.1.5', 'scipy': '1.11.4', 'joblib': '1.3.2', 'sklearn': '1.4.2', 'pyod': '2.0.3', 'imblearn': '0.13.0', 'category_encoders': '2.7.0', 'lightgbm': '4.6.0', 'numba': '0.61.0', 'requests': '2.32.3', 'matplotlib': '3.7.5', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.24.1', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.14.4', 'sktime': '0.26.0', 'tbats': '1.1.3', 'pmdarima': '2.0.4', 'psutil': '7.0.0', 'markupsafe': '3.0.2', 'pickle5': 'Not installed', 'cloudpickle': '3.1.1', 'deprecation': '2.1.0', 'xxhash': '3.5.0', 'wurlitzer': 'Not installed'}, 'python': {'version': '3.11.11', 'machine': 'AMD64'}}
+pickle: {'deps_info': {'pip': '25.0', 'setuptools': '75.8.0', 'pycaret': '3.3.2', 'IPython': '8.15.0', 'ipywidgets': '8.1.5', 'tqdm': '4.67.1', 'numpy': '1.26.4', 'pandas': '2.1.4', 'jinja2': '3.1.5', 'scipy': '1.11.4', 'joblib': '1.3.2', 'sklearn': '1.4.2', 'pyod': '2.0.3', 'imblearn': '0.12.4', 'category_encoders': '2.6.4', 'lightgbm': '4.6.0', 'numba': '0.60.0', 'requests': '2.32.3', 'matplotlib': '3.7.5', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.24.1', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.14.4', 'sktime': '0.26.0', 'tbats': '1.1.3', 'pmdarima': '2.0.4', 'psutil': '5.9.0', 'markupsafe': '3.0.2', 'pickle5': 'Not installed', 'cloudpickle': '3.1.1', 'deprecation': '2.1.0', 'xxhash': '3.5.0', 'wurlitzer': 'Not installed'}, 'python': {'version': '3.9.21', 'machine': 'AMD64'}}
+  warnings.warn(
+
+2025-02-21 03:10:10,409:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-21 03:10:10,409:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-21 03:10:10,409:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-21 03:10:10,409:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-21 03:10:11,090:INFO:Initializing load_model()
+2025-02-21 03:10:11,090:INFO:load_model(model_name=C:\Users\Jupyter Files Only\Downloads\mlops-assignment\xinrui\app\final_wheat_seeds_model, platform=None, authentication=None, verbose=True)
+2025-02-21 03:10:11,117:WARNING:C:\Users\Jupyter Files Only\anaconda3\envs\mlops-env\Lib\site-packages\pycaret\internal\pipeline.py:148: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '25.0', 'setuptools': '75.8.0', 'pycaret': '3.3.2', 'IPython': '8.32.0', 'ipywidgets': '8.1.5', 'tqdm': '4.67.1', 'numpy': '1.24.4', 'pandas': '1.5.3', 'jinja2': '3.1.5', 'scipy': '1.11.4', 'joblib': '1.3.2', 'sklearn': '1.4.2', 'pyod': '2.0.3', 'imblearn': '0.13.0', 'category_encoders': '2.7.0', 'lightgbm': '4.6.0', 'numba': '0.61.0', 'requests': '2.32.3', 'matplotlib': '3.7.5', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.24.1', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.14.4', 'sktime': '0.26.0', 'tbats': '1.1.3', 'pmdarima': '2.0.4', 'psutil': '7.0.0', 'markupsafe': '3.0.2', 'pickle5': 'Not installed', 'cloudpickle': '3.1.1', 'deprecation': '2.1.0', 'xxhash': '3.5.0', 'wurlitzer': 'Not installed'}, 'python': {'version': '3.11.11', 'machine': 'AMD64'}}
+pickle: {'deps_info': {'pip': '25.0', 'setuptools': '75.8.0', 'pycaret': '3.3.2', 'IPython': '8.15.0', 'ipywidgets': '8.1.5', 'tqdm': '4.67.1', 'numpy': '1.26.4', 'pandas': '2.1.4', 'jinja2': '3.1.5', 'scipy': '1.11.4', 'joblib': '1.3.2', 'sklearn': '1.4.2', 'pyod': '2.0.3', 'imblearn': '0.12.4', 'category_encoders': '2.6.4', 'lightgbm': '4.6.0', 'numba': '0.60.0', 'requests': '2.32.3', 'matplotlib': '3.7.5', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.24.1', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.14.4', 'sktime': '0.26.0', 'tbats': '1.1.3', 'pmdarima': '2.0.4', 'psutil': '5.9.0', 'markupsafe': '3.0.2', 'pickle5': 'Not installed', 'cloudpickle': '3.1.1', 'deprecation': '2.1.0', 'xxhash': '3.5.0', 'wurlitzer': 'Not installed'}, 'python': {'version': '3.9.21', 'machine': 'AMD64'}}
+  warnings.warn(
+
+2025-02-21 03:10:50,813:INFO:Initializing predict_model()
+2025-02-21 03:10:50,813:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x0000013C2E49A310>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('label_encoding',
+                 TransformerWrapperWithInverse(transformer=LabelEncoder())),
+                ('numerical_imputer',
+                 TransformerWrapper(include=['Area', 'Perimeter', 'Compactness',
+                                             'Length', 'Width',
+                                             'AsymmetryCoeff', 'Groove'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=[],
+                                    transformer=SimpleI...
+                 TransformerWrapper(include=['Area', 'Perimeter', 'Length',
+                                             'Width', 'Groove'],
+                                    transformer=KBinsDiscretizer(encode='ordinal',
+                                                                 strategy='kmeans'))),
+                ('normalize', TransformerWrapper(transformer=StandardScaler())),
+                ('feature_selection',
+                 TransformerWrapper(exclude=[],
+                                    transformer=SelectFromModel(estimator=LGBMClassifier(),
+                                                                max_features=1,
+                                                                threshold=-inf))),
+                ('actual_estimator', GaussianNB())]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x0000013C2E495F80>)
+2025-02-21 03:10:50,813:INFO:Checking exceptions
+2025-02-21 03:10:50,813:INFO:Preloading libraries
+2025-02-21 03:10:50,813:INFO:Set up data.
+2025-02-21 03:10:50,820:INFO:Set up index.
+2025-02-21 03:12:28,081:INFO:Initializing predict_model()
+2025-02-21 03:12:28,081:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x0000013C2E5C3A50>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('label_encoding',
+                 TransformerWrapperWithInverse(transformer=LabelEncoder())),
+                ('numerical_imputer',
+                 TransformerWrapper(include=['Area', 'Perimeter', 'Compactness',
+                                             'Length', 'Width',
+                                             'AsymmetryCoeff', 'Groove'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=[],
+                                    transformer=SimpleI...
+                 TransformerWrapper(include=['Area', 'Perimeter', 'Length',
+                                             'Width', 'Groove'],
+                                    transformer=KBinsDiscretizer(encode='ordinal',
+                                                                 strategy='kmeans'))),
+                ('normalize', TransformerWrapper(transformer=StandardScaler())),
+                ('feature_selection',
+                 TransformerWrapper(exclude=[],
+                                    transformer=SelectFromModel(estimator=LGBMClassifier(),
+                                                                max_features=1,
+                                                                threshold=-inf))),
+                ('actual_estimator', GaussianNB())]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x0000013C2E495620>)
+2025-02-21 03:12:28,081:INFO:Checking exceptions
+2025-02-21 03:12:28,081:INFO:Preloading libraries
+2025-02-21 03:12:28,081:INFO:Set up data.
+2025-02-21 03:12:28,089:INFO:Set up index.
+2025-02-21 03:21:37,374:INFO:Initializing predict_model()
+2025-02-21 03:21:37,374:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x0000013C2E5C7490>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('label_encoding',
+                 TransformerWrapperWithInverse(transformer=LabelEncoder())),
+                ('numerical_imputer',
+                 TransformerWrapper(include=['Area', 'Perimeter', 'Compactness',
+                                             'Length', 'Width',
+                                             'AsymmetryCoeff', 'Groove'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=[],
+                                    transformer=SimpleI...
+                 TransformerWrapper(include=['Area', 'Perimeter', 'Length',
+                                             'Width', 'Groove'],
+                                    transformer=KBinsDiscretizer(encode='ordinal',
+                                                                 strategy='kmeans'))),
+                ('normalize', TransformerWrapper(transformer=StandardScaler())),
+                ('feature_selection',
+                 TransformerWrapper(exclude=[],
+                                    transformer=SelectFromModel(estimator=LGBMClassifier(),
+                                                                max_features=1,
+                                                                threshold=-inf))),
+                ('actual_estimator', GaussianNB())]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x0000013C2E496FC0>)
+2025-02-21 03:21:37,374:INFO:Checking exceptions
+2025-02-21 03:21:37,374:INFO:Preloading libraries
+2025-02-21 03:21:37,376:INFO:Set up data.
+2025-02-21 03:21:37,378:INFO:Set up index.
+2025-02-21 03:21:46,594:INFO:Initializing predict_model()
+2025-02-21 03:21:46,594:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x0000013C2E5C3710>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('label_encoding',
+                 TransformerWrapperWithInverse(transformer=LabelEncoder())),
+                ('numerical_imputer',
+                 TransformerWrapper(include=['Area', 'Perimeter', 'Compactness',
+                                             'Length', 'Width',
+                                             'AsymmetryCoeff', 'Groove'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=[],
+                                    transformer=SimpleI...
+                 TransformerWrapper(include=['Area', 'Perimeter', 'Length',
+                                             'Width', 'Groove'],
+                                    transformer=KBinsDiscretizer(encode='ordinal',
+                                                                 strategy='kmeans'))),
+                ('normalize', TransformerWrapper(transformer=StandardScaler())),
+                ('feature_selection',
+                 TransformerWrapper(exclude=[],
+                                    transformer=SelectFromModel(estimator=LGBMClassifier(),
+                                                                max_features=1,
+                                                                threshold=-inf))),
+                ('actual_estimator', GaussianNB())]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x0000013C2E495E40>)
+2025-02-21 03:21:46,595:INFO:Checking exceptions
+2025-02-21 03:21:46,595:INFO:Preloading libraries
+2025-02-21 03:21:46,595:INFO:Set up data.
+2025-02-21 03:21:46,597:INFO:Set up index.
+2025-02-21 03:23:01,852:INFO:Initializing predict_model()
+2025-02-21 03:23:01,852:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x0000013C2E4A63D0>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('label_encoding',
+                 TransformerWrapperWithInverse(transformer=LabelEncoder())),
+                ('numerical_imputer',
+                 TransformerWrapper(include=['Area', 'Perimeter', 'Compactness',
+                                             'Length', 'Width',
+                                             'AsymmetryCoeff', 'Groove'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=[],
+                                    transformer=SimpleI...
+                 TransformerWrapper(include=['Area', 'Perimeter', 'Length',
+                                             'Width', 'Groove'],
+                                    transformer=KBinsDiscretizer(encode='ordinal',
+                                                                 strategy='kmeans'))),
+                ('normalize', TransformerWrapper(transformer=StandardScaler())),
+                ('feature_selection',
+                 TransformerWrapper(exclude=[],
+                                    transformer=SelectFromModel(estimator=LGBMClassifier(),
+                                                                max_features=1,
+                                                                threshold=-inf))),
+                ('actual_estimator', GaussianNB())]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x0000013C2E497880>)
+2025-02-21 03:23:01,852:INFO:Checking exceptions
+2025-02-21 03:23:01,852:INFO:Preloading libraries
+2025-02-21 03:23:01,852:INFO:Set up data.
+2025-02-21 03:23:01,860:INFO:Set up index.
+2025-02-21 03:25:49,215:INFO:Initializing predict_model()
+2025-02-21 03:25:49,215:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x0000013C2E5C3B50>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('label_encoding',
+                 TransformerWrapperWithInverse(transformer=LabelEncoder())),
+                ('numerical_imputer',
+                 TransformerWrapper(include=['Area', 'Perimeter', 'Compactness',
+                                             'Length', 'Width',
+                                             'AsymmetryCoeff', 'Groove'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=[],
+                                    transformer=SimpleI...
+                 TransformerWrapper(include=['Area', 'Perimeter', 'Length',
+                                             'Width', 'Groove'],
+                                    transformer=KBinsDiscretizer(encode='ordinal',
+                                                                 strategy='kmeans'))),
+                ('normalize', TransformerWrapper(transformer=StandardScaler())),
+                ('feature_selection',
+                 TransformerWrapper(exclude=[],
+                                    transformer=SelectFromModel(estimator=LGBMClassifier(),
+                                                                max_features=1,
+                                                                threshold=-inf))),
+                ('actual_estimator', GaussianNB())]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x0000013C2E497D80>)
+2025-02-21 03:25:49,215:INFO:Checking exceptions
+2025-02-21 03:25:49,215:INFO:Preloading libraries
+2025-02-21 03:25:49,215:INFO:Set up data.
+2025-02-21 03:25:49,215:INFO:Set up index.
+2025-02-21 03:26:36,818:INFO:Initializing predict_model()
+2025-02-21 03:26:36,818:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x0000013C2E5C2690>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('label_encoding',
+                 TransformerWrapperWithInverse(transformer=LabelEncoder())),
+                ('numerical_imputer',
+                 TransformerWrapper(include=['Area', 'Perimeter', 'Compactness',
+                                             'Length', 'Width',
+                                             'AsymmetryCoeff', 'Groove'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=[],
+                                    transformer=SimpleI...
+                 TransformerWrapper(include=['Area', 'Perimeter', 'Length',
+                                             'Width', 'Groove'],
+                                    transformer=KBinsDiscretizer(encode='ordinal',
+                                                                 strategy='kmeans'))),
+                ('normalize', TransformerWrapper(transformer=StandardScaler())),
+                ('feature_selection',
+                 TransformerWrapper(exclude=[],
+                                    transformer=SelectFromModel(estimator=LGBMClassifier(),
+                                                                max_features=1,
+                                                                threshold=-inf))),
+                ('actual_estimator', GaussianNB())]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x0000013C2E497100>)
+2025-02-21 03:26:36,818:INFO:Checking exceptions
+2025-02-21 03:26:36,818:INFO:Preloading libraries
+2025-02-21 03:26:36,818:INFO:Set up data.
+2025-02-21 03:26:36,819:INFO:Set up index.
+2025-02-21 03:27:14,661:INFO:Initializing predict_model()
+2025-02-21 03:27:14,661:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x0000013C2E5C1D50>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('label_encoding',
+                 TransformerWrapperWithInverse(transformer=LabelEncoder())),
+                ('numerical_imputer',
+                 TransformerWrapper(include=['Area', 'Perimeter', 'Compactness',
+                                             'Length', 'Width',
+                                             'AsymmetryCoeff', 'Groove'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=[],
+                                    transformer=SimpleI...
+                 TransformerWrapper(include=['Area', 'Perimeter', 'Length',
+                                             'Width', 'Groove'],
+                                    transformer=KBinsDiscretizer(encode='ordinal',
+                                                                 strategy='kmeans'))),
+                ('normalize', TransformerWrapper(transformer=StandardScaler())),
+                ('feature_selection',
+                 TransformerWrapper(exclude=[],
+                                    transformer=SelectFromModel(estimator=LGBMClassifier(),
+                                                                max_features=1,
+                                                                threshold=-inf))),
+                ('actual_estimator', GaussianNB())]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x0000013C2E495F80>)
+2025-02-21 03:27:14,662:INFO:Checking exceptions
+2025-02-21 03:27:14,662:INFO:Preloading libraries
+2025-02-21 03:27:14,662:INFO:Set up data.
+2025-02-21 03:27:14,665:INFO:Set up index.
+2025-02-21 03:30:22,885:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-21 03:30:22,885:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-21 03:30:22,885:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-21 03:30:22,885:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-21 03:30:38,938:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-21 03:30:38,938:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-21 03:30:38,938:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-21 03:30:38,938:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-21 03:31:47,826:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-21 03:31:47,826:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-21 03:31:47,826:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-21 03:31:47,826:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-21 03:32:32,930:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-21 03:32:32,930:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-21 03:32:32,930:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-21 03:32:32,930:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-21 03:33:20,435:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-21 03:33:20,436:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-21 03:33:20,436:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-21 03:33:20,436:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-21 03:33:21,001:INFO:Initializing load_model()
+2025-02-21 03:33:21,001:INFO:load_model(model_name=C:\Users\Jupyter Files Only\Downloads\mlops-assignment\xinrui\app\final_wheat_seeds_model.pkl, platform=None, authentication=None, verbose=True)
+2025-02-21 03:34:30,437:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-21 03:34:30,437:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-21 03:34:30,437:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-21 03:34:30,437:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-21 03:34:30,997:INFO:Initializing load_model()
+2025-02-21 03:34:30,997:INFO:load_model(model_name=C:\Users\Jupyter Files Only\Downloads\mlops-assignment\xinrui\app\final_wheat_seeds_model.pkl, platform=None, authentication=None, verbose=True)
+2025-02-21 03:35:40,840:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-21 03:35:40,840:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-21 03:35:40,840:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-21 03:35:40,840:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-21 03:35:41,399:INFO:Initializing load_model()
+2025-02-21 03:35:41,399:INFO:load_model(model_name=C:\Users\Jupyter Files Only\Downloads\mlops-assignment\xinrui\app\final_wheat_seeds_model, platform=None, authentication=None, verbose=True)
+2025-02-21 03:35:41,423:WARNING:C:\Users\Jupyter Files Only\anaconda3\envs\mlops-env\Lib\site-packages\pycaret\internal\pipeline.py:148: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '25.0', 'setuptools': '75.8.0', 'pycaret': '3.3.2', 'IPython': '8.32.0', 'ipywidgets': '8.1.5', 'tqdm': '4.67.1', 'numpy': '1.24.4', 'pandas': '1.5.3', 'jinja2': '3.1.5', 'scipy': '1.11.4', 'joblib': '1.3.2', 'sklearn': '1.4.2', 'pyod': '2.0.3', 'imblearn': '0.13.0', 'category_encoders': '2.7.0', 'lightgbm': '4.6.0', 'numba': '0.61.0', 'requests': '2.32.3', 'matplotlib': '3.7.5', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.24.1', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.14.4', 'sktime': '0.26.0', 'tbats': '1.1.3', 'pmdarima': '2.0.4', 'psutil': '7.0.0', 'markupsafe': '3.0.2', 'pickle5': 'Not installed', 'cloudpickle': '3.1.1', 'deprecation': '2.1.0', 'xxhash': '3.5.0', 'wurlitzer': 'Not installed'}, 'python': {'version': '3.11.11', 'machine': 'AMD64'}}
+pickle: {'deps_info': {'pip': '25.0', 'setuptools': '75.8.0', 'pycaret': '3.3.2', 'IPython': '8.15.0', 'ipywidgets': '8.1.5', 'tqdm': '4.67.1', 'numpy': '1.26.4', 'pandas': '2.1.4', 'jinja2': '3.1.5', 'scipy': '1.11.4', 'joblib': '1.3.2', 'sklearn': '1.4.2', 'pyod': '2.0.3', 'imblearn': '0.12.4', 'category_encoders': '2.6.4', 'lightgbm': '4.6.0', 'numba': '0.60.0', 'requests': '2.32.3', 'matplotlib': '3.7.5', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.24.1', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.14.4', 'sktime': '0.26.0', 'tbats': '1.1.3', 'pmdarima': '2.0.4', 'psutil': '5.9.0', 'markupsafe': '3.0.2', 'pickle5': 'Not installed', 'cloudpickle': '3.1.1', 'deprecation': '2.1.0', 'xxhash': '3.5.0', 'wurlitzer': 'Not installed'}, 'python': {'version': '3.9.21', 'machine': 'AMD64'}}
+  warnings.warn(
+
+2025-02-21 03:35:42,752:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-21 03:35:42,752:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-21 03:35:42,752:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-21 03:35:42,752:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-21 03:35:43,310:INFO:Initializing load_model()
+2025-02-21 03:35:43,310:INFO:load_model(model_name=C:\Users\Jupyter Files Only\Downloads\mlops-assignment\xinrui\app\final_wheat_seeds_model, platform=None, authentication=None, verbose=True)
+2025-02-21 03:35:43,334:WARNING:C:\Users\Jupyter Files Only\anaconda3\envs\mlops-env\Lib\site-packages\pycaret\internal\pipeline.py:148: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '25.0', 'setuptools': '75.8.0', 'pycaret': '3.3.2', 'IPython': '8.32.0', 'ipywidgets': '8.1.5', 'tqdm': '4.67.1', 'numpy': '1.24.4', 'pandas': '1.5.3', 'jinja2': '3.1.5', 'scipy': '1.11.4', 'joblib': '1.3.2', 'sklearn': '1.4.2', 'pyod': '2.0.3', 'imblearn': '0.13.0', 'category_encoders': '2.7.0', 'lightgbm': '4.6.0', 'numba': '0.61.0', 'requests': '2.32.3', 'matplotlib': '3.7.5', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.24.1', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.14.4', 'sktime': '0.26.0', 'tbats': '1.1.3', 'pmdarima': '2.0.4', 'psutil': '7.0.0', 'markupsafe': '3.0.2', 'pickle5': 'Not installed', 'cloudpickle': '3.1.1', 'deprecation': '2.1.0', 'xxhash': '3.5.0', 'wurlitzer': 'Not installed'}, 'python': {'version': '3.11.11', 'machine': 'AMD64'}}
+pickle: {'deps_info': {'pip': '25.0', 'setuptools': '75.8.0', 'pycaret': '3.3.2', 'IPython': '8.15.0', 'ipywidgets': '8.1.5', 'tqdm': '4.67.1', 'numpy': '1.26.4', 'pandas': '2.1.4', 'jinja2': '3.1.5', 'scipy': '1.11.4', 'joblib': '1.3.2', 'sklearn': '1.4.2', 'pyod': '2.0.3', 'imblearn': '0.12.4', 'category_encoders': '2.6.4', 'lightgbm': '4.6.0', 'numba': '0.60.0', 'requests': '2.32.3', 'matplotlib': '3.7.5', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.24.1', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.14.4', 'sktime': '0.26.0', 'tbats': '1.1.3', 'pmdarima': '2.0.4', 'psutil': '5.9.0', 'markupsafe': '3.0.2', 'pickle5': 'Not installed', 'cloudpickle': '3.1.1', 'deprecation': '2.1.0', 'xxhash': '3.5.0', 'wurlitzer': 'Not installed'}, 'python': {'version': '3.9.21', 'machine': 'AMD64'}}
+  warnings.warn(
+
+2025-02-21 03:36:31,351:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-21 03:36:31,351:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-21 03:36:31,351:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-21 03:36:31,351:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-21 03:36:31,880:INFO:Initializing load_model()
+2025-02-21 03:36:31,880:INFO:load_model(model_name=C:\Users\Jupyter Files Only\Downloads\mlops-assignment\xinrui\app\final_wheat_seeds_model, platform=None, authentication=None, verbose=True)
+2025-02-21 03:36:31,905:WARNING:C:\Users\Jupyter Files Only\anaconda3\envs\mlops-env\Lib\site-packages\pycaret\internal\pipeline.py:148: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '25.0', 'setuptools': '75.8.0', 'pycaret': '3.3.2', 'IPython': '8.32.0', 'ipywidgets': '8.1.5', 'tqdm': '4.67.1', 'numpy': '1.24.4', 'pandas': '1.5.3', 'jinja2': '3.1.5', 'scipy': '1.11.4', 'joblib': '1.3.2', 'sklearn': '1.4.2', 'pyod': '2.0.3', 'imblearn': '0.13.0', 'category_encoders': '2.7.0', 'lightgbm': '4.6.0', 'numba': '0.61.0', 'requests': '2.32.3', 'matplotlib': '3.7.5', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.24.1', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.14.4', 'sktime': '0.26.0', 'tbats': '1.1.3', 'pmdarima': '2.0.4', 'psutil': '7.0.0', 'markupsafe': '3.0.2', 'pickle5': 'Not installed', 'cloudpickle': '3.1.1', 'deprecation': '2.1.0', 'xxhash': '3.5.0', 'wurlitzer': 'Not installed'}, 'python': {'version': '3.11.11', 'machine': 'AMD64'}}
+pickle: {'deps_info': {'pip': '25.0', 'setuptools': '75.8.0', 'pycaret': '3.3.2', 'IPython': '8.15.0', 'ipywidgets': '8.1.5', 'tqdm': '4.67.1', 'numpy': '1.26.4', 'pandas': '2.1.4', 'jinja2': '3.1.5', 'scipy': '1.11.4', 'joblib': '1.3.2', 'sklearn': '1.4.2', 'pyod': '2.0.3', 'imblearn': '0.12.4', 'category_encoders': '2.6.4', 'lightgbm': '4.6.0', 'numba': '0.60.0', 'requests': '2.32.3', 'matplotlib': '3.7.5', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.24.1', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.14.4', 'sktime': '0.26.0', 'tbats': '1.1.3', 'pmdarima': '2.0.4', 'psutil': '5.9.0', 'markupsafe': '3.0.2', 'pickle5': 'Not installed', 'cloudpickle': '3.1.1', 'deprecation': '2.1.0', 'xxhash': '3.5.0', 'wurlitzer': 'Not installed'}, 'python': {'version': '3.9.21', 'machine': 'AMD64'}}
+  warnings.warn(
+
+2025-02-21 03:36:58,721:INFO:Initializing predict_model()
+2025-02-21 03:36:58,721:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x00000286BEB1B310>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('label_encoding',
+                 TransformerWrapperWithInverse(transformer=LabelEncoder())),
+                ('numerical_imputer',
+                 TransformerWrapper(include=['Area', 'Perimeter', 'Compactness',
+                                             'Length', 'Width',
+                                             'AsymmetryCoeff', 'Groove'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=[],
+                                    transformer=SimpleI...
+                 TransformerWrapper(include=['Area', 'Perimeter', 'Length',
+                                             'Width', 'Groove'],
+                                    transformer=KBinsDiscretizer(encode='ordinal',
+                                                                 strategy='kmeans'))),
+                ('normalize', TransformerWrapper(transformer=StandardScaler())),
+                ('feature_selection',
+                 TransformerWrapper(exclude=[],
+                                    transformer=SelectFromModel(estimator=LGBMClassifier(),
+                                                                max_features=1,
+                                                                threshold=-inf))),
+                ('actual_estimator', GaussianNB())]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x00000286BEB05A80>)
+2025-02-21 03:36:58,721:INFO:Checking exceptions
+2025-02-21 03:36:58,721:INFO:Preloading libraries
+2025-02-21 03:36:58,721:INFO:Set up data.
+2025-02-21 03:36:58,728:INFO:Set up index.
+2025-02-21 03:38:10,379:INFO:Initializing predict_model()
+2025-02-21 03:38:10,379:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x00000286BEB15710>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('label_encoding',
+                 TransformerWrapperWithInverse(transformer=LabelEncoder())),
+                ('numerical_imputer',
+                 TransformerWrapper(include=['Area', 'Perimeter', 'Compactness',
+                                             'Length', 'Width',
+                                             'AsymmetryCoeff', 'Groove'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=[],
+                                    transformer=SimpleI...
+                 TransformerWrapper(include=['Area', 'Perimeter', 'Length',
+                                             'Width', 'Groove'],
+                                    transformer=KBinsDiscretizer(encode='ordinal',
+                                                                 strategy='kmeans'))),
+                ('normalize', TransformerWrapper(transformer=StandardScaler())),
+                ('feature_selection',
+                 TransformerWrapper(exclude=[],
+                                    transformer=SelectFromModel(estimator=LGBMClassifier(),
+                                                                max_features=1,
+                                                                threshold=-inf))),
+                ('actual_estimator', GaussianNB())]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x00000286BEB06200>)
+2025-02-21 03:38:10,379:INFO:Checking exceptions
+2025-02-21 03:38:10,379:INFO:Preloading libraries
+2025-02-21 03:38:10,379:INFO:Set up data.
+2025-02-21 03:38:10,386:INFO:Set up index.
+2025-02-21 03:39:17,168:INFO:Initializing predict_model()
+2025-02-21 03:39:17,168:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x00000286BEB08DD0>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('label_encoding',
+                 TransformerWrapperWithInverse(transformer=LabelEncoder())),
+                ('numerical_imputer',
+                 TransformerWrapper(include=['Area', 'Perimeter', 'Compactness',
+                                             'Length', 'Width',
+                                             'AsymmetryCoeff', 'Groove'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=[],
+                                    transformer=SimpleI...
+                 TransformerWrapper(include=['Area', 'Perimeter', 'Length',
+                                             'Width', 'Groove'],
+                                    transformer=KBinsDiscretizer(encode='ordinal',
+                                                                 strategy='kmeans'))),
+                ('normalize', TransformerWrapper(transformer=StandardScaler())),
+                ('feature_selection',
+                 TransformerWrapper(exclude=[],
+                                    transformer=SelectFromModel(estimator=LGBMClassifier(),
+                                                                max_features=1,
+                                                                threshold=-inf))),
+                ('actual_estimator', GaussianNB())]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x00000286BEB07560>)
+2025-02-21 03:39:17,168:INFO:Checking exceptions
+2025-02-21 03:39:17,168:INFO:Preloading libraries
+2025-02-21 03:39:17,169:INFO:Set up data.
+2025-02-21 03:39:17,175:INFO:Set up index.
+2025-02-21 03:40:22,231:INFO:Initializing predict_model()
+2025-02-21 03:40:22,231:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x00000286BEC30850>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('label_encoding',
+                 TransformerWrapperWithInverse(transformer=LabelEncoder())),
+                ('numerical_imputer',
+                 TransformerWrapper(include=['Area', 'Perimeter', 'Compactness',
+                                             'Length', 'Width',
+                                             'AsymmetryCoeff', 'Groove'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=[],
+                                    transformer=SimpleI...
+                 TransformerWrapper(include=['Area', 'Perimeter', 'Length',
+                                             'Width', 'Groove'],
+                                    transformer=KBinsDiscretizer(encode='ordinal',
+                                                                 strategy='kmeans'))),
+                ('normalize', TransformerWrapper(transformer=StandardScaler())),
+                ('feature_selection',
+                 TransformerWrapper(exclude=[],
+                                    transformer=SelectFromModel(estimator=LGBMClassifier(),
+                                                                max_features=1,
+                                                                threshold=-inf))),
+                ('actual_estimator', GaussianNB())]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x00000286BEB077E0>)
+2025-02-21 03:40:22,231:INFO:Checking exceptions
+2025-02-21 03:40:22,231:INFO:Preloading libraries
+2025-02-21 03:40:22,231:INFO:Set up data.
+2025-02-21 03:40:22,247:INFO:Set up index.
+2025-02-21 03:42:04,442:INFO:Initializing predict_model()
+2025-02-21 03:42:04,442:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x00000286BEC317D0>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('label_encoding',
+                 TransformerWrapperWithInverse(transformer=LabelEncoder())),
+                ('numerical_imputer',
+                 TransformerWrapper(include=['Area', 'Perimeter', 'Compactness',
+                                             'Length', 'Width',
+                                             'AsymmetryCoeff', 'Groove'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=[],
+                                    transformer=SimpleI...
+                 TransformerWrapper(include=['Area', 'Perimeter', 'Length',
+                                             'Width', 'Groove'],
+                                    transformer=KBinsDiscretizer(encode='ordinal',
+                                                                 strategy='kmeans'))),
+                ('normalize', TransformerWrapper(transformer=StandardScaler())),
+                ('feature_selection',
+                 TransformerWrapper(exclude=[],
+                                    transformer=SelectFromModel(estimator=LGBMClassifier(),
+                                                                max_features=1,
+                                                                threshold=-inf))),
+                ('actual_estimator', GaussianNB())]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x00000286BEC3C0E0>)
+2025-02-21 03:42:04,442:INFO:Checking exceptions
+2025-02-21 03:42:04,442:INFO:Preloading libraries
+2025-02-21 03:42:04,442:INFO:Set up data.
+2025-02-21 03:42:04,446:INFO:Set up index.
+2025-02-21 03:42:28,534:INFO:Initializing predict_model()
+2025-02-21 03:42:28,534:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x00000286BEC36A10>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('label_encoding',
+                 TransformerWrapperWithInverse(transformer=LabelEncoder())),
+                ('numerical_imputer',
+                 TransformerWrapper(include=['Area', 'Perimeter', 'Compactness',
+                                             'Length', 'Width',
+                                             'AsymmetryCoeff', 'Groove'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=[],
+                                    transformer=SimpleI...
+                 TransformerWrapper(include=['Area', 'Perimeter', 'Length',
+                                             'Width', 'Groove'],
+                                    transformer=KBinsDiscretizer(encode='ordinal',
+                                                                 strategy='kmeans'))),
+                ('normalize', TransformerWrapper(transformer=StandardScaler())),
+                ('feature_selection',
+                 TransformerWrapper(exclude=[],
+                                    transformer=SelectFromModel(estimator=LGBMClassifier(),
+                                                                max_features=1,
+                                                                threshold=-inf))),
+                ('actual_estimator', GaussianNB())]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x00000286BEB074C0>)
+2025-02-21 03:42:28,549:INFO:Checking exceptions
+2025-02-21 03:42:28,549:INFO:Preloading libraries
+2025-02-21 03:42:28,549:INFO:Set up data.
+2025-02-21 03:42:28,549:INFO:Set up index.
+2025-02-21 03:42:32,867:INFO:Initializing predict_model()
+2025-02-21 03:42:32,867:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x00000286BEC38E10>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('label_encoding',
+                 TransformerWrapperWithInverse(transformer=LabelEncoder())),
+                ('numerical_imputer',
+                 TransformerWrapper(include=['Area', 'Perimeter', 'Compactness',
+                                             'Length', 'Width',
+                                             'AsymmetryCoeff', 'Groove'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=[],
+                                    transformer=SimpleI...
+                 TransformerWrapper(include=['Area', 'Perimeter', 'Length',
+                                             'Width', 'Groove'],
+                                    transformer=KBinsDiscretizer(encode='ordinal',
+                                                                 strategy='kmeans'))),
+                ('normalize', TransformerWrapper(transformer=StandardScaler())),
+                ('feature_selection',
+                 TransformerWrapper(exclude=[],
+                                    transformer=SelectFromModel(estimator=LGBMClassifier(),
+                                                                max_features=1,
+                                                                threshold=-inf))),
+                ('actual_estimator', GaussianNB())]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x00000286BEB06C00>)
+2025-02-21 03:42:32,867:INFO:Checking exceptions
+2025-02-21 03:42:32,867:INFO:Preloading libraries
+2025-02-21 03:42:32,867:INFO:Set up data.
+2025-02-21 03:42:32,874:INFO:Set up index.
+2025-02-21 03:43:19,935:INFO:Initializing predict_model()
+2025-02-21 03:43:19,935:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x00000286BEC377D0>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('label_encoding',
+                 TransformerWrapperWithInverse(transformer=LabelEncoder())),
+                ('numerical_imputer',
+                 TransformerWrapper(include=['Area', 'Perimeter', 'Compactness',
+                                             'Length', 'Width',
+                                             'AsymmetryCoeff', 'Groove'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=[],
+                                    transformer=SimpleI...
+                 TransformerWrapper(include=['Area', 'Perimeter', 'Length',
+                                             'Width', 'Groove'],
+                                    transformer=KBinsDiscretizer(encode='ordinal',
+                                                                 strategy='kmeans'))),
+                ('normalize', TransformerWrapper(transformer=StandardScaler())),
+                ('feature_selection',
+                 TransformerWrapper(exclude=[],
+                                    transformer=SelectFromModel(estimator=LGBMClassifier(),
+                                                                max_features=1,
+                                                                threshold=-inf))),
+                ('actual_estimator', GaussianNB())]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x00000286BEB06C00>)
+2025-02-21 03:43:19,935:INFO:Checking exceptions
+2025-02-21 03:43:19,935:INFO:Preloading libraries
+2025-02-21 03:43:19,935:INFO:Set up data.
+2025-02-21 03:43:19,935:INFO:Set up index.
+2025-02-21 03:43:23,573:INFO:Initializing predict_model()
+2025-02-21 03:43:23,573:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x00000286BEC3A910>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('label_encoding',
+                 TransformerWrapperWithInverse(transformer=LabelEncoder())),
+                ('numerical_imputer',
+                 TransformerWrapper(include=['Area', 'Perimeter', 'Compactness',
+                                             'Length', 'Width',
+                                             'AsymmetryCoeff', 'Groove'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=[],
+                                    transformer=SimpleI...
+                 TransformerWrapper(include=['Area', 'Perimeter', 'Length',
+                                             'Width', 'Groove'],
+                                    transformer=KBinsDiscretizer(encode='ordinal',
+                                                                 strategy='kmeans'))),
+                ('normalize', TransformerWrapper(transformer=StandardScaler())),
+                ('feature_selection',
+                 TransformerWrapper(exclude=[],
+                                    transformer=SelectFromModel(estimator=LGBMClassifier(),
+                                                                max_features=1,
+                                                                threshold=-inf))),
+                ('actual_estimator', GaussianNB())]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x00000286BEB05C60>)
+2025-02-21 03:43:23,573:INFO:Checking exceptions
+2025-02-21 03:43:23,573:INFO:Preloading libraries
+2025-02-21 03:43:23,579:INFO:Set up data.
+2025-02-21 03:43:23,586:INFO:Set up index.
+2025-02-21 03:43:48,261:INFO:Initializing predict_model()
+2025-02-21 03:43:48,270:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x00000286BEC34710>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('label_encoding',
+                 TransformerWrapperWithInverse(transformer=LabelEncoder())),
+                ('numerical_imputer',
+                 TransformerWrapper(include=['Area', 'Perimeter', 'Compactness',
+                                             'Length', 'Width',
+                                             'AsymmetryCoeff', 'Groove'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=[],
+                                    transformer=SimpleI...
+                 TransformerWrapper(include=['Area', 'Perimeter', 'Length',
+                                             'Width', 'Groove'],
+                                    transformer=KBinsDiscretizer(encode='ordinal',
+                                                                 strategy='kmeans'))),
+                ('normalize', TransformerWrapper(transformer=StandardScaler())),
+                ('feature_selection',
+                 TransformerWrapper(exclude=[],
+                                    transformer=SelectFromModel(estimator=LGBMClassifier(),
+                                                                max_features=1,
+                                                                threshold=-inf))),
+                ('actual_estimator', GaussianNB())]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x00000286BEB07880>)
+2025-02-21 03:43:48,270:INFO:Checking exceptions
+2025-02-21 03:43:48,270:INFO:Preloading libraries
+2025-02-21 03:43:48,270:INFO:Set up data.
+2025-02-21 03:43:48,270:INFO:Set up index.
+2025-02-21 03:49:33,655:INFO:Initializing predict_model()
+2025-02-21 03:49:33,655:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x00000286BEB1B7D0>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('label_encoding',
+                 TransformerWrapperWithInverse(transformer=LabelEncoder())),
+                ('numerical_imputer',
+                 TransformerWrapper(include=['Area', 'Perimeter', 'Compactness',
+                                             'Length', 'Width',
+                                             'AsymmetryCoeff', 'Groove'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=[],
+                                    transformer=SimpleI...
+                 TransformerWrapper(include=['Area', 'Perimeter', 'Length',
+                                             'Width', 'Groove'],
+                                    transformer=KBinsDiscretizer(encode='ordinal',
+                                                                 strategy='kmeans'))),
+                ('normalize', TransformerWrapper(transformer=StandardScaler())),
+                ('feature_selection',
+                 TransformerWrapper(exclude=[],
+                                    transformer=SelectFromModel(estimator=LGBMClassifier(),
+                                                                max_features=1,
+                                                                threshold=-inf))),
+                ('actual_estimator', GaussianNB())]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x00000286BEC44040>)
+2025-02-21 03:49:33,655:INFO:Checking exceptions
+2025-02-21 03:49:33,655:INFO:Preloading libraries
+2025-02-21 03:49:33,655:INFO:Set up data.
+2025-02-21 03:49:33,662:INFO:Set up index.

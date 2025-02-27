@@ -1,0 +1,136 @@
+2025-02-21 11:24:08,035:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-21 11:24:08,035:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-21 11:24:08,035:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-21 11:24:08,035:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-21 11:24:08,161:WARNING:C:\Users\forwo\Downloads\dekai-mlops-assignment\mlops-assignment\dekai\src\preprocess.py:7: UserWarning: 
+The version_base parameter is not specified.
+Please specify a compatability version level, or None.
+Will assume defaults for version 1.1
+  @hydra.main(config_path="configs", config_name="config")
+
+2025-02-21 11:25:53,128:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-21 11:25:53,128:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-21 11:25:53,128:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-21 11:25:53,128:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-21 11:25:53,246:WARNING:C:\Users\forwo\Downloads\dekai-mlops-assignment\mlops-assignment\dekai\src\preprocess.py:7: UserWarning: 
+The version_base parameter is not specified.
+Please specify a compatability version level, or None.
+Will assume defaults for version 1.1
+  @hydra.main(config_path="configs.yaml", config_name="config")
+
+2025-02-21 11:27:56,833:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-21 11:27:56,834:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-21 11:27:56,834:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-21 11:27:56,834:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-21 11:27:56,952:WARNING:C:\Users\forwo\Downloads\dekai-mlops-assignment\mlops-assignment\dekai\src\preprocess.py:7: UserWarning: 
+The version_base parameter is not specified.
+Please specify a compatability version level, or None.
+Will assume defaults for version 1.1
+  @hydra.main(config_path="configs", config_name="config")
+
+2025-02-21 11:27:57,194:WARNING:C:\Users\forwo\Downloads\dekai-mlops-assignment\venv\lib\site-packages\hydra\_internal\hydra.py:119: UserWarning: Future Hydra versions will no longer change working directory at job runtime by default.
+See https://hydra.cc/docs/1.2/upgrades/1.1_to_1.2/changes_to_job_working_dir/ for more information.
+  ret = run_job(
+
+2025-02-21 11:29:13,342:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-21 11:29:13,342:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-21 11:29:13,342:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-21 11:29:13,342:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-21 11:29:13,461:WARNING:C:\Users\forwo\Downloads\dekai-mlops-assignment\mlops-assignment\dekai\src\preprocess.py:7: UserWarning: 
+The version_base parameter is not specified.
+Please specify a compatability version level, or None.
+Will assume defaults for version 1.1
+  @hydra.main(config_path="configs", config_name="config")
+
+2025-02-21 11:29:13,717:WARNING:C:\Users\forwo\Downloads\dekai-mlops-assignment\venv\lib\site-packages\hydra\_internal\hydra.py:119: UserWarning: Future Hydra versions will no longer change working directory at job runtime by default.
+See https://hydra.cc/docs/1.2/upgrades/1.1_to_1.2/changes_to_job_working_dir/ for more information.
+  ret = run_job(
+
+2025-02-21 11:30:41,174:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-21 11:30:41,174:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-21 11:30:41,174:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-21 11:30:41,174:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-21 11:30:41,297:WARNING:C:\Users\forwo\Downloads\dekai-mlops-assignment\mlops-assignment\dekai\src\preprocess.py:7: UserWarning: 
+The version_base parameter is not specified.
+Please specify a compatability version level, or None.
+Will assume defaults for version 1.1
+  @hydra.main(config_path="configs", config_name="config")
+
+2025-02-21 11:30:41,530:WARNING:C:\Users\forwo\Downloads\dekai-mlops-assignment\venv\lib\site-packages\hydra\_internal\hydra.py:119: UserWarning: Future Hydra versions will no longer change working directory at job runtime by default.
+See https://hydra.cc/docs/1.2/upgrades/1.1_to_1.2/changes_to_job_working_dir/ for more information.
+  ret = run_job(
+
+2025-02-21 11:32:23,427:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-21 11:32:23,428:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-21 11:32:23,428:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-21 11:32:23,428:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-21 11:32:23,534:WARNING:C:\Users\forwo\Downloads\dekai-mlops-assignment\mlops-assignment\dekai\src\preprocess.py:7: UserWarning: 
+The version_base parameter is not specified.
+Please specify a compatability version level, or None.
+Will assume defaults for version 1.1
+  @hydra.main(config_path="configs", config_name="config")
+
+2025-02-21 11:32:23,750:WARNING:C:\Users\forwo\Downloads\dekai-mlops-assignment\venv\lib\site-packages\hydra\_internal\hydra.py:119: UserWarning: Future Hydra versions will no longer change working directory at job runtime by default.
+See https://hydra.cc/docs/1.2/upgrades/1.1_to_1.2/changes_to_job_working_dir/ for more information.
+  ret = run_job(
+
+2025-02-21 11:32:43,272:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-21 11:32:43,272:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-21 11:32:43,272:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-21 11:32:43,273:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-21 11:32:43,380:WARNING:C:\Users\forwo\Downloads\dekai-mlops-assignment\mlops-assignment\dekai\src\preprocess.py:7: UserWarning: 
+The version_base parameter is not specified.
+Please specify a compatability version level, or None.
+Will assume defaults for version 1.1
+  @hydra.main(config_path="configs", config_name="config")
+
+2025-02-21 11:32:43,589:WARNING:C:\Users\forwo\Downloads\dekai-mlops-assignment\venv\lib\site-packages\hydra\_internal\hydra.py:119: UserWarning: Future Hydra versions will no longer change working directory at job runtime by default.
+See https://hydra.cc/docs/1.2/upgrades/1.1_to_1.2/changes_to_job_working_dir/ for more information.
+  ret = run_job(
+
+2025-02-21 11:34:01,525:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-21 11:34:01,525:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-21 11:34:01,525:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-21 11:34:01,525:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-21 11:34:01,631:WARNING:C:\Users\forwo\Downloads\dekai-mlops-assignment\mlops-assignment\dekai\src\preprocess.py:7: UserWarning: 
+The version_base parameter is not specified.
+Please specify a compatability version level, or None.
+Will assume defaults for version 1.1
+  @hydra.main(config_path="configs", config_name="config")
+
+2025-02-21 11:34:01,840:WARNING:C:\Users\forwo\Downloads\dekai-mlops-assignment\venv\lib\site-packages\hydra\_internal\hydra.py:119: UserWarning: Future Hydra versions will no longer change working directory at job runtime by default.
+See https://hydra.cc/docs/1.2/upgrades/1.1_to_1.2/changes_to_job_working_dir/ for more information.
+  ret = run_job(
+

@@ -1,0 +1,133 @@
+{% extends "base.html" %}
+
+{% block title %}Wheat Seeds Prediction{% endblock %}
+
+{% block content %}
+<style>
+    body {
+        display: flex;
+        height: 100vh;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .form-container {
+        background: rgba(0, 0, 0, 0.7);
+        padding: 30px;
+        border-radius: 10px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+        width: 100%;
+        max-width: 600px;
+        text-align: center;
+    }
+
+    .form-container h2 {
+        margin-bottom: 20px;
+        font-weight: bold;
+        color: white;
+    }
+
+    .form-group input {
+        background-color: #2c3e50;
+        color: white;
+        border: 1px solid #555;
+        padding: 10px;
+        border-radius: 5px;
+    }
+
+    .form-group input::placeholder {
+        color: #bbb;
+    }
+
+    .btn-primary {
+        background-color: #2980b9;
+        border: none;
+        padding: 10px;
+        font-size: 16px;
+        border-radius: 5px;
+    }
+
+    .btn-primary:hover {
+        background-color: #1f618d;
+    }
+
+    .table-container {
+        margin-top: 20px;
+    }
+
+    .table {
+        background-color: white;
+        color: black;
+        border-radius: 5px;
+    }
+
+    .table thead {
+        background-color: green;
+        color: white;
+    }
+
+    .result-text {
+        margin-top: 20px;
+        font-size: 18px;
+        font-weight: bold;
+        color: #f1c40f;
+    }
+</style>
+
+<div class="form-container"
+   style="{% if prediction_table %} margin-top: 110%; {% else %} margin-top: 0; {% endif %}">
+    <h2>Wheat Seeds Type Prediction</h2>
+    <form action="/predict" method="post">
+        <input type="hidden" name="model" value="predict_xr"> <!-- Hidden field to identify model -->
+
+        <div class="form-group">
+            <input type="text" class="form-control" name="Area" placeholder="Enter Area" required>
+        </div>
+        <div class="form-group">
+            <input type="text" class="form-control" name="Perimeter" placeholder="Enter Perimeter" required>
+        </div>
+        <div class="form-group">
+            <input type="text" class="form-control" name="Compactness" placeholder="Enter Compactness" required>
+        </div>
+        <div class="form-group">
+            <input type="text" class="form-control" name="Length" placeholder="Enter Length" required>
+        </div>
+        <div class="form-group">
+            <input type="text" class="form-control" name="Width" placeholder="Enter Width" required>
+        </div>
+        <div class="form-group">
+            <input type="text" class="form-control" name="AsymmetryCoeff" placeholder="Enter Asymmetry Coefficient" required>
+        </div>
+        <div class="form-group">
+            <input type="text" class="form-control" name="Groove" placeholder="Enter Groove" required>
+        </div>
+        <button type="submit" class="btn btn-primary btn-block">Predict</button>
+    </form>
+
+    {% if prediction_text %}
+    <div class="result-text">{{ prediction_text }}</div>
+    {% endif %}
+
+    {% if prediction_table %}
+    <div class="table-container">
+        <h4 class="text-center">Prediction Results</h4>
+        <table class="table table-bordered">
+            <thead>
+                <tr>
+                    <th>Parameter</th>
+                    <th>Value</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for row in prediction_table %}
+                <tr>
+                    <td>{{ row['Parameter'] }}</td>
+                    <td>{{ row['Value'] }}</td>
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+    </div>
+    {% endif %}
+</div>
+{% endblock %}

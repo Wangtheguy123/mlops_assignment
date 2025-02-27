@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ML Model Selection</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background: linear-gradient(to bottom right, #2c3e50, #1c2833);
+            color: white;
+            text-align: center;
+            margin: 0;
+        }
+        .navbar {
+            background: black;
+            padding: 10px;
+            text-align: center;
+        }
+        .navbar a {
+            color: white;
+            text-decoration: none;
+            padding: 10px 20px;
+        }
+        .navbar a:hover {
+            color: #f1c40f;
+        }
+        .form-container {
+            margin-top: 50px;
+        }
+    </style>
+</head>
+<body>
+    <div class="navbar">
+        <a href="{{ url_for('home') }}">Home</a>
+        <a href="{{ url_for('predict_xr') }}">Wheat Seeds Prediction</a>
+        <a href="{{ url_for('predict_dk') }}">Melbourne House Price</a>
+    </div>
+
+    <div class="form-container">
+        <h2>Select a Model</h2>
+        <form action="/select_model" method="post">
+            <label for="model">Choose a Model:</label>
+            <select name="model" required>
+                {% for key, value in model_mapping.items() %}
+                    <option value="{{ key }}">{{ value }}</option>
+                {% endfor %}
+            </select>
+            <button type="submit">Go to Model Page</button>
+        </form>
+    </div>
+</body>
+</html>

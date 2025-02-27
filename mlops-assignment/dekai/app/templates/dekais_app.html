@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Predict Melbourne House Price</title>
+</head>
+<body>
+    <h2>Predict Melbourne House Price</h2>
+    <form action="/predict" method="post">
+        <label for="rooms">Rooms:</label>
+        <input type="number" name="Rooms" required><br>
+
+        <label for="type">Type:</label>
+        <select name="Type" required>
+            <option value="t">Townhouse (t)</option>
+            <option value="h">House (h)</option>
+            <option value="u">Unit (u)</option>
+        </select><br>
+
+        <label for="distance">Distance (km):</label>
+        <input type="number" name="Distance" step="0.1" required><br>
+
+        <label for="bathroom">Bathroom:</label>
+        <input type="number" name="Bathroom" required><br>
+
+        <label for="car">Car:</label>
+        <input type="number" name="Car" required><br>
+
+        <label for="landsize">Landsize (sqm):</label>
+        <input type="number" name="Landsize" required><br>
+
+        <label for="CouncilArea">Council Area:</label>
+        <select name="CouncilArea" required>
+            <option value="Moonee Valley">Moonee Valley</option>
+            <option value="Port Phillip">Port Phillip</option>
+            <option value="Darebin">Darebin</option>
+            <option value="Yarra">Yarra</option>
+            <option value="Hobsons Bay">Hobsons Bay</option>
+            <option value="Stonnington">Stonnington</option>
+            <option value="Boroondara">Boroondara</option>
+            <option value="Monash">Monash</option>
+            <option value="Glen Eira">Glen Eira</option>
+            <option value="Whitehorse">Whitehorse</option>
+            <option value="Maribyrnong">Maribyrnong</option>
+            <option value="Bayside">Bayside</option>
+            <option value="Moreland">Moreland</option>
+            <option value="Manningham">Manningham</option>
+            <option value="Banyule">Banyule</option>
+            <option value="Melbourne">Melbourne</option>
+            <option value="Kingston">Kingston</option>
+            <option value="Brimbank">Brimbank</option>
+            <option value="Hume">Hume</option>
+            <option value="Knox">Knox</option>
+            <option value="Maroondah">Maroondah</option>
+            <option value="Casey">Casey</option>
+            <option value="Melton">Melton</option>
+            <option value="Greater Dandenong">Greater Dandenong</option>
+            <option value="Nillumbik">Nillumbik</option>
+            <option value="Whittlesea">Whittlesea</option>
+            <option value="Frankston">Frankston</option>
+            <option value="Macedon Ranges">Macedon Ranges</option>
+            <option value="Yarra Ranges">Yarra Ranges</option>
+            <option value="Wyndham">Wyndham</option>
+            <option value="Moorabool">Moorabool</option>
+            <option value="Cardinia">Cardinia</option>
+            <option value="Unavailable">Unavailable</option>
+        </select><br>
+
+        <label for="region">Region:</label>
+        <select name="Region" required>
+            <option value="Western Metropolitan">Western Metropolitan</option>
+            <option value="Southern Metropolitan">Southern Metropolitan</option>
+            <option value="Northern Metropolitan">Northern Metropolitan</option>
+            <option value="Eastern Metropolitan">Eastern Metropolitan</option>
+            <option value="South-Eastern Metropolitan">South-Eastern Metropolitan</option>
+            <option value="Eastern Victoria">Eastern Victoria</option>
+            <option value="Northern Victoria">Northern Victoria</option>
+            <option value="Western Victoria">Western Victoria</option>
+        </select><br>
+
+        <label for="Age">Age:</label>
+        <input type="number" name="Age" required><br>
+
+        <button type="submit">Predict</button>
+    </form>
+
+    {% if predicted_price %}
+        <h3>Predicted Price: ${{ predicted_price }}</h3>
+    {% endif %}
+</body>
+</html>

@@ -1,0 +1,9 @@
+[2025-02-25 19:24:06,231][root][INFO] - Checking dataset path: C:\Users\forwo\Downloads\dekai-mlops-assignment\mlops-assignment\dekai\processed\train.csv
+[2025-02-25 19:24:07,950][root][INFO] - Auto-selecting best regression model...
+[2025-02-25 19:24:36,496][root][INFO] - Tuning model hyperparameters...
+[2025-02-25 19:25:18,720][root][INFO] - Evaluating model performance...
+[2025-02-25 20:18:59,544][root][INFO] - Residuals Plot saved: plots/residuals.png
+[2025-02-25 20:18:59,544][root][INFO] - Prediction Error Plot saved: plots/error.png
+[2025-02-25 20:18:59,544][root][INFO] - Feature Importance saved: plots/feature.png
+[2025-02-25 20:18:59,738][root][INFO] - Model saved to dekai/models/Dekai_Melbourne_Residential_price_predictions_without_mlfow
+[2025-02-25 20:18:59,739][root][INFO] - Training completed successfully.

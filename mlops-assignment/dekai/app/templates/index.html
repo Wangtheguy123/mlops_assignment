@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ML Model Selection</title>
+    <style>
+    body {
+        font-family: 'Arial', sans-serif;
+        background: linear-gradient(to bottom right, #2c3e50, #1c2833);
+        color: white;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        margin: 0;
+    }
+
+    .form-container {
+        background: rgba(0, 0, 0, 0.7);
+        padding: 40px;
+        border-radius: 10px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+        text-align: center;
+        width: 100%;
+        max-width: 500px;
+    }
+
+    h2 {
+        margin-bottom: 20px;
+        font-weight: bold;
+        color: #f1c40f;
+    }
+
+    /* Model Selection Section */
+    .model-selection {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 10px; /* Adds spacing between label and dropdown */
+        margin-bottom: 20px;
+    }
+
+    label {
+        font-size: 18px;
+        white-space: nowrap;
+    }
+
+    select {
+        flex: 1;
+        padding: 10px;
+        font-size: 16px;
+        background-color: #2c3e50;
+        color: white;
+        border: 1px solid #555;
+        border-radius: 5px;
+        cursor: pointer;
+        max-width: 250px;
+    }
+
+    select:hover {
+        border-color: #f1c40f;
+    }
+
+    button {
+        background-color: #2980b9;
+        border: none;
+        padding: 12px;
+        font-size: 16px;
+        color: white;
+        width: 100%;
+        border-radius: 5px;
+        cursor: pointer;
+        margin-top: 20px;
+        transition: background 0.3s ease-in-out;
+    }
+
+    button:hover {
+        background-color: #1f618d;
+    }
+
+    @media (max-width: 600px) {
+        .form-container {
+            width: 90%;
+        }
+
+        .model-selection {
+            flex-direction: column;
+            gap: 5px;
+        }
+    }
+
+    </style>
+</head>
+<body>
+    <div class="form-container">
+        <h2>Select a Model</h2>
+        <form action="/predict" method="post">
+            <div class="model-selection">
+                <label for="model">Choose a Model:</label>
+                <select name="model" required>
+                    {% for key, value in model_mapping.items() %}
+                        <option value="{{ key }}" {% if key == selected_model %}selected{% endif %}>{{ value }}</option>
+                    {% endfor %}
+                </select>
+
+            </div>
+            <button type="submit">Go to Model Page</button>
+        </form>
+    </div>
+</body>
+</html>

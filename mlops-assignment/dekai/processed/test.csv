@@ -1,0 +1,2717 @@
+Rooms,Type,Price,Distance,Bathroom,Car,Landsize,CouncilArea,Region,Age
+4,h,625000,28.5,2,2.0,669,Casey,South-Eastern Metropolitan,44
+3,h,720000,13.5,1,1.0,585,Moonee Valley,Western Metropolitan,54
+3,h,1012000,11.4,2,1.0,323,Banyule,Eastern Metropolitan,8
+3,h,1712000,4.6,1,1.0,342,Boroondara,Southern Metropolitan,123
+3,t,967000,3.4,2,2.0,0,Melbourne,Northern Metropolitan,25
+2,h,1575000,13.8,1,5.0,587,,Southern Metropolitan,54
+3,h,420500,14.0,1,1.0,650,Hume,Northern Metropolitan,54
+3,h,1050000,7.0,1,2.0,442,Maribyrnong,Western Metropolitan,83
+3,h,982500,6.3,2,2.0,444,Maribyrnong,Western Metropolitan,79
+2,h,825000,9.3,1,1.0,367,Glen Eira,Southern Metropolitan,93
+2,u,820000,6.4,1,1.0,183,Darebin,Northern Metropolitan,54
+5,h,835500,27.0,5,4.0,570,Kingston,South-Eastern Metropolitan,34
+5,h,5510000,5.3,2,5.0,820,Boroondara,Southern Metropolitan,53
+5,h,2100000,9.2,3,2.0,696,Boroondara,Southern Metropolitan,34
+3,t,705000,12.8,2,1.0,440,Moonee Valley,Western Metropolitan,28
+3,u,1520000,1.8,2,2.0,214,Melbourne,Northern Metropolitan,31
+2,h,635000,11.2,2,2.0,654,Darebin,Northern Metropolitan,53
+1,u,335000,6.1,1,0.0,0,Port Phillip,Southern Metropolitan,10
+3,h,1425000,5.3,1,1.0,333,Boroondara,Southern Metropolitan,94
+3,h,1902000,8.4,2,2.0,728,,Southern Metropolitan,54
+3,h,1500000,9.2,2,1.0,778,Boroondara,Southern Metropolitan,73
+3,h,745000,12.1,1,2.0,586,,Northern Metropolitan,54
+3,h,2400000,11.2,2,2.0,835,Bayside,Southern Metropolitan,113
+4,h,1115000,8.4,1,1.0,0,Hobsons Bay,Western Metropolitan,144
+4,h,1200000,13.9,2,2.0,619,Glen Eira,Southern Metropolitan,63
+2,t,930000,3.5,3,0.0,2778,Yarra,Northern Metropolitan,53
+1,u,510000,7.7,1,1.0,0,Port Phillip,Southern Metropolitan,22
+2,u,610000,11.2,1,1.0,0,Bayside,Southern Metropolitan,18
+4,h,732000,12.8,2,2.0,544,Moonee Valley,Western Metropolitan,43
+2,u,812000,10.4,1,1.0,0,Glen Eira,Southern Metropolitan,28
+4,h,1370000,13.9,1,2.0,684,Glen Eira,Southern Metropolitan,54
+3,h,600000,14.8,1,3.0,406,Melton,Western Metropolitan,19
+3,h,1490000,9.7,1,2.0,703,Boroondara,Southern Metropolitan,54
+3,h,490000,14.7,2,2.0,536,,Western Metropolitan,34
+3,h,1310000,15.4,1,2.0,717,Whitehorse,Eastern Metropolitan,54
+4,t,1950000,7.2,3,2.0,142,Port Phillip,Southern Metropolitan,11
+1,u,400000,4.6,1,1.0,0,Boroondara,Southern Metropolitan,73
+3,h,790000,13.3,1,2.0,568,Brimbank,Western Metropolitan,54
+2,h,1250000,11.2,2,1.0,323,Boroondara,Southern Metropolitan,44
+1,h,911000,2.6,1,0.0,126,Yarra,Northern Metropolitan,124
+3,h,1375000,7.0,2,3.0,530,,Northern Metropolitan,74
+2,u,875000,7.7,1,1.0,0,Port Phillip,Southern Metropolitan,93
+4,h,1500000,17.9,2,3.0,724,Bayside,Southern Metropolitan,54
+2,u,805000,11.2,1,2.0,297,Boroondara,Southern Metropolitan,53
+2,h,1460000,6.3,1,1.0,181,,Southern Metropolitan,94
+3,h,1075000,1.6,1,0.0,183,Yarra,Northern Metropolitan,143
+3,h,680000,10.8,1,1.0,565,Maribyrnong,Western Metropolitan,53
+2,h,1060000,4.4,1,0.0,209,Moonee Valley,Northern Metropolitan,134
+3,u,819000,4.3,2,1.0,166,Moonee Valley,Western Metropolitan,54
+4,h,950000,9.2,2,2.0,298,Moreland,Northern Metropolitan,10
+2,h,677200,7.8,2,1.0,180,Maribyrnong,Western Metropolitan,12
+4,h,905000,23.0,2,2.0,731,Maroondah,Eastern Metropolitan,39
+3,h,756000,8.2,1,1.0,353,Maribyrnong,Western Metropolitan,98
+2,h,940000,2.3,1,0.0,89,Melbourne,Northern Metropolitan,134
+4,h,1670000,8.0,2,1.0,291,Moonee Valley,Western Metropolitan,104
+2,t,915500,13.7,2,1.0,0,Bayside,Southern Metropolitan,53
+3,h,591500,12.6,1,2.0,427,Brimbank,Western Metropolitan,53
+4,h,1150000,9.1,2,2.0,578,Moonee Valley,Western Metropolitan,14
+3,h,990000,11.8,2,1.0,585,Manningham,Eastern Metropolitan,73
+2,u,550000,4.5,1,1.0,72,Stonnington,Southern Metropolitan,48
+3,h,1220000,8.4,2,0.0,311,Hobsons Bay,Western Metropolitan,103
+4,h,925000,14.7,3,4.0,534,,Eastern Metropolitan,49
+3,h,1825000,9.2,1,2.0,652,Boroondara,Southern Metropolitan,53
+3,t,468000,13.6,2,2.0,178,Moreland,Western Metropolitan,23
+4,h,1281000,22.2,2,2.0,566,,South-Eastern Metropolitan,24
+3,t,1385000,9.7,2,2.0,190,Boroondara,Southern Metropolitan,54
+2,h,905000,2.6,1,0.0,139,Yarra,Northern Metropolitan,103
+2,h,1310000,4.6,2,1.0,78,Stonnington,Southern Metropolitan,54
+3,h,1170000,11.4,1,2.0,461,Glen Eira,Southern Metropolitan,53
+2,h,1851000,2.6,1,1.0,172,Melbourne,Northern Metropolitan,123
+2,h,1310000,3.6,1,2.0,146,,Northern Metropolitan,134
+3,h,1300000,16.7,2,3.0,733,,Eastern Metropolitan,54
+2,u,690000,2.1,2,2.0,0,Port Phillip,Southern Metropolitan,53
+2,u,430000,11.8,1,1.0,0,Glen Eira,Southern Metropolitan,54
+3,t,700000,7.9,2,1.0,189,Banyule,Eastern Metropolitan,33
+3,h,1450000,3.5,2,1.0,118,Yarra,Northern Metropolitan,118
+3,h,900000,12.9,2,2.0,453,Moreland,Western Metropolitan,54
+4,h,1032000,14.7,2,2.0,599,Whitehorse,Eastern Metropolitan,64
+3,u,732000,6.3,2,2.0,0,Stonnington,Southern Metropolitan,53
+3,u,665000,6.4,2,1.0,0,Maribyrnong,Western Metropolitan,53
+2,h,855000,8.9,1,1.0,562,Banyule,Eastern Metropolitan,54
+2,u,650000,2.1,1,0.0,438,Port Phillip,Southern Metropolitan,124
+3,h,1200000,6.5,2,1.0,332,Darebin,Northern Metropolitan,53
+1,u,460000,4.6,1,1.0,0,Stonnington,Southern Metropolitan,53
+4,h,1825000,9.2,3,2.0,366,Boroondara,Southern Metropolitan,24
+4,h,930000,11.2,1,3.0,635,Darebin,Northern Metropolitan,54
+2,h,955000,6.6,1,0.0,148,Maribyrnong,Western Metropolitan,111
+4,h,1211000,16.7,3,4.0,653,,South-Eastern Metropolitan,54
+2,u,495000,9.9,1,2.0,205,Moreland,Northern Metropolitan,53
+3,h,2250000,6.3,3,1.0,301,Stonnington,Southern Metropolitan,53
+2,h,1100000,5.2,1,0.0,153,Moreland,Northern Metropolitan,123
+1,u,240000,4.5,1,1.0,0,Stonnington,Southern Metropolitan,53
+3,h,1070000,16.7,2,1.0,839,Monash,Eastern Metropolitan,54
+3,h,1410000,13.8,2,3.0,722,Glen Eira,Southern Metropolitan,54
+1,u,312000,5.5,1,1.0,0,Darebin,Northern Metropolitan,63
+3,h,730000,13.5,2,1.0,0,Moonee Valley,Western Metropolitan,58
+5,h,1041000,17.2,3,2.0,724,Whitehorse,Eastern Metropolitan,54
+3,h,1305000,9.9,1,1.0,735,Moreland,Northern Metropolitan,53
+4,h,1700000,5.3,3,4.0,422,,Northern Metropolitan,54
+3,h,1100000,5.2,1,1.0,193,Moreland,Northern Metropolitan,54
+3,h,892500,10.5,1,1.0,586,Moonee Valley,Western Metropolitan,58
+2,u,655000,13.9,1,1.0,154,Glen Eira,Southern Metropolitan,23
+2,h,855000,13.0,1,1.0,296,Glen Eira,Southern Metropolitan,83
+4,t,1175000,14.3,2,2.0,723,,Eastern Metropolitan,15
+4,h,3400000,9.0,1,4.0,845,Boroondara,Southern Metropolitan,15
+3,h,2210000,3.2,2,1.0,190,Yarra,Northern Metropolitan,53
+4,h,1620000,2.1,2,0.0,163,Port Phillip,Southern Metropolitan,133
+3,h,955000,5.9,1,1.0,263,Moonee Valley,Western Metropolitan,113
+2,u,591000,3.6,1,1.0,0,Yarra,Northern Metropolitan,54
+2,h,855000,1.6,1,0.0,130,Yarra,Northern Metropolitan,133
+4,h,915000,11.4,3,2.0,0,Banyule,Eastern Metropolitan,15
+2,h,849000,6.9,1,1.0,345,Moonee Valley,Western Metropolitan,93
+3,h,710000,8.8,1,1.0,577,Banyule,Eastern Metropolitan,54
+3,t,1750000,11.2,2,2.0,352,Bayside,Southern Metropolitan,53
+3,h,1045000,14.0,1,2.0,643,Monash,Southern Metropolitan,53
+4,h,1345000,5.9,1,1.0,552,Moonee Valley,Western Metropolitan,104
+3,h,1450000,5.2,1,2.0,304,Moreland,Northern Metropolitan,54
+2,h,1340000,2.6,1,0.0,178,Yarra,Northern Metropolitan,53
+3,h,1025000,14.0,1,2.0,543,Monash,Southern Metropolitan,84
+4,h,535000,31.7,2,2.0,808,Hume,Western Metropolitan,54
+2,u,665000,4.6,1,3.0,0,Boroondara,Southern Metropolitan,58
+3,h,1095000,5.9,1,1.0,411,Moreland,Northern Metropolitan,88
+4,h,447000,14.8,2,2.0,704,Brimbank,Western Metropolitan,54
+2,u,490000,2.1,1,1.0,0,Port Phillip,Southern Metropolitan,10
+3,h,1100000,5.3,1,2.0,449,Darebin,Northern Metropolitan,84
+3,h,803000,26.0,1,2.0,862,,Eastern Metropolitan,54
+3,h,890000,5.9,1,1.0,242,Moonee Valley,Western Metropolitan,103
+4,h,900000,12.0,1,2.0,836,Darebin,Northern Metropolitan,54
+4,h,3400000,3.5,2,1.0,445,Yarra,Northern Metropolitan,133
+3,h,900000,2.7,1,1.0,119,Stonnington,Southern Metropolitan,54
+3,h,646000,12.1,1,2.0,574,Moreland,Northern Metropolitan,53
+3,h,631000,15.3,1,2.0,584,Whittlesea,Northern Metropolitan,59
+2,h,920000,4.3,1,1.0,575,Maribyrnong,Western Metropolitan,54
+4,h,1520000,8.9,2,3.0,560,Hobsons Bay,Western Metropolitan,54
+3,h,750000,8.8,1,2.0,409,Darebin,Northern Metropolitan,53
+3,h,1540000,5.1,2,1.0,138,Stonnington,Southern Metropolitan,23
+3,h,488000,13.5,1,2.0,538,Brimbank,Western Metropolitan,53
+2,u,400000,41.0,1,1.0,196,Frankston,Eastern Victoria,12
+2,u,715000,2.4,1,2.0,2427,Yarra,Northern Metropolitan,54
+2,u,580000,13.8,1,1.0,225,Hobsons Bay,Western Metropolitan,35
+2,u,602000,6.1,1,0.0,0,Port Phillip,Southern Metropolitan,93
+2,h,706000,7.8,1,1.0,95,Boroondara,Southern Metropolitan,63
+4,h,4525000,7.4,4,2.0,716,Stonnington,Southern Metropolitan,98
+2,h,1962000,13.9,1,2.0,848,Glen Eira,Southern Metropolitan,54
+4,h,2216000,7.8,2,0.0,670,Boroondara,Southern Metropolitan,94
+2,u,605000,11.4,1,1.0,0,Glen Eira,Southern Metropolitan,50
+5,h,1387000,16.1,3,3.0,1348,Banyule,Eastern Metropolitan,19
+3,h,2151000,7.5,1,2.0,780,Boroondara,Southern Metropolitan,53
+4,h,1160000,14.6,2,2.0,588,Kingston,Southern Metropolitan,12
+2,u,555000,7.7,1,1.0,2685,Boroondara,Southern Metropolitan,54
+3,h,1175000,13.8,1,2.0,700,Glen Eira,Southern Metropolitan,54
+3,h,1385000,14.2,1,2.0,807,Monash,Eastern Metropolitan,54
+3,h,1900000,3.5,1,0.0,204,Yarra,Northern Metropolitan,114
+4,h,602000,18.4,2,2.0,603,,Western Metropolitan,39
+4,h,886000,11.7,2,4.0,5750,,Western Metropolitan,54
+3,h,915000,2.6,3,1.0,140,Yarra,Northern Metropolitan,53
+4,h,1430000,13.0,2,2.0,611,Glen Eira,Southern Metropolitan,53
+2,h,960000,3.6,1,0.0,121,Yarra,Northern Metropolitan,54
+4,h,1540000,10.1,2,2.0,589,Glen Eira,Southern Metropolitan,104
+2,h,1630000,4.1,1,0.0,152,Port Phillip,Southern Metropolitan,108
+3,h,2220000,7.8,2,2.0,850,Boroondara,Southern Metropolitan,53
+3,h,1100000,8.0,1,2.0,0,Moonee Valley,Western Metropolitan,108
+3,u,347000,8.2,1,1.0,0,Maribyrnong,Western Metropolitan,58
+2,u,296000,6.4,1,1.0,0,Maribyrnong,Western Metropolitan,53
+3,h,1850000,3.0,2,1.0,321,Port Phillip,Southern Metropolitan,54
+4,h,2820000,10.7,4,4.0,509,Bayside,Southern Metropolitan,63
+3,t,940000,7.7,1,1.0,0,Port Phillip,Southern Metropolitan,53
+3,h,1050000,4.5,2,1.0,8216,Stonnington,Southern Metropolitan,29
+3,h,1300000,16.7,1,2.0,725,Monash,South-Eastern Metropolitan,54
+3,h,941000,12.8,1,1.0,703,Moonee Valley,Western Metropolitan,59
+2,h,1470000,7.8,1,2.0,400,Boroondara,Southern Metropolitan,54
+3,h,1251000,13.9,1,1.0,612,Glen Eira,Southern Metropolitan,54
+3,h,975000,17.9,2,2.0,595,,Southern Metropolitan,54
+2,h,1225000,9.3,1,2.0,284,Glen Eira,Southern Metropolitan,83
+3,h,2500000,5.9,2,2.0,395,,Southern Metropolitan,144
+2,u,790000,2.1,1,2.0,6367,Yarra,Northern Metropolitan,94
+3,u,1221000,11.2,2,2.0,0,Bayside,Southern Metropolitan,49
+2,u,520000,7.2,1,1.0,3256,Port Phillip,Southern Metropolitan,54
+3,h,1650000,10.3,2,2.0,623,,Southern Metropolitan,104
+4,h,850000,10.8,2,2.0,606,Maribyrnong,Western Metropolitan,21
+4,h,1330000,13.8,2,2.0,566,Glen Eira,Southern Metropolitan,74
+3,h,923000,8.8,1,0.0,333,Darebin,Northern Metropolitan,103
+4,h,1590000,8.0,3,1.0,475,Moonee Valley,Western Metropolitan,16
+4,h,1330000,2.3,2,1.0,246,Melbourne,Northern Metropolitan,53
+2,h,1315000,5.2,1,1.0,234,Moreland,Northern Metropolitan,114
+3,h,1470000,12.1,1,2.0,701,Glen Eira,Southern Metropolitan,54
+1,t,580000,2.1,1,1.0,782,,Northern Metropolitan,26
+3,t,899000,4.5,2,1.0,116,Moreland,Northern Metropolitan,16
+2,h,860000,5.2,1,0.0,153,Moreland,Northern Metropolitan,53
+3,h,1720000,2.1,1,0.0,130,Port Phillip,Southern Metropolitan,54
+3,h,730000,10.5,2,2.0,705,Moonee Valley,Western Metropolitan,54
+3,h,1450000,11.2,1,1.0,650,Moonee Valley,Western Metropolitan,54
+3,h,283000,31.7,1,0.0,362,,Western Victoria,48
+3,h,1042500,14.7,1,4.0,658,Monash,South-Eastern Metropolitan,74
+3,h,1400000,21.3,2,4.0,941,Maroondah,Eastern Metropolitan,74
+3,h,703000,11.2,2,1.0,597,Darebin,Northern Metropolitan,63
+2,h,910000,13.0,1,2.0,274,Glen Eira,Southern Metropolitan,53
+2,t,565000,5.9,2,1.0,103,Moonee Valley,Western Metropolitan,54
+3,h,762700,13.0,1,4.0,597,Moreland,Northern Metropolitan,64
+3,h,1630000,6.9,2,0.0,408,Moonee Valley,Western Metropolitan,123
+1,t,780000,1.8,1,0.0,37,Melbourne,Northern Metropolitan,54
+2,h,1110000,4.2,1,0.0,155,Melbourne,Northern Metropolitan,54
+4,h,548000,20.6,2,2.0,400,Hume,Northern Metropolitan,14
+2,u,725000,13.4,2,2.0,311,Whitehorse,Eastern Metropolitan,54
+2,h,365000,11.2,1,1.0,360,Darebin,Northern Metropolitan,63
+1,h,405000,9.4,1,2.0,374,Banyule,Eastern Metropolitan,53
+3,h,1500000,3.4,1,2.0,241,,Northern Metropolitan,54
+4,h,810000,20.4,2,3.0,990,Hume,Northern Metropolitan,54
+3,h,1010000,16.1,2,2.0,582,Banyule,Northern Metropolitan,54
+3,h,680000,13.1,2,2.0,588,,Northern Metropolitan,54
+2,u,692000,5.2,1,1.0,0,Moreland,Northern Metropolitan,54
+2,t,620000,13.0,2,1.0,0,Glen Eira,Southern Metropolitan,12
+3,h,1286000,13.0,1,2.0,614,Glen Eira,Southern Metropolitan,54
+4,h,890000,10.5,2,4.0,585,Moonee Valley,Western Metropolitan,63
+4,h,1750000,9.2,3,3.0,667,Boroondara,Southern Metropolitan,53
+3,h,1500000,11.0,2,2.0,710,Boroondara,Southern Metropolitan,78
+3,h,2450000,16.7,1,0.0,984,,Eastern Metropolitan,54
+3,h,855000,8.8,1,2.0,584,Darebin,Northern Metropolitan,53
+3,h,875000,12.3,2,2.0,295,Monash,Southern Metropolitan,18
+2,t,751000,8.5,2,1.0,0,Glen Eira,Southern Metropolitan,53
+3,t,959000,4.0,2,1.0,138,,Northern Metropolitan,26
+5,h,1850000,7.5,3,4.0,787,Boroondara,Southern Metropolitan,53
+4,h,2905000,13.8,2,2.0,630,Bayside,Southern Metropolitan,54
+2,h,1322500,10.4,1,1.0,731,,Southern Metropolitan,74
+4,h,1306000,13.9,2,1.0,651,Glen Eira,Southern Metropolitan,53
+3,h,1285000,2.6,2,1.0,123,Yarra,Northern Metropolitan,53
+3,h,1270000,6.4,1,1.0,452,Maribyrnong,Western Metropolitan,111
+3,h,816000,12.6,1,1.0,511,Brimbank,Western Metropolitan,65
+6,h,5600000,3.0,4,2.0,472,Port Phillip,Southern Metropolitan,109
+1,h,800000,5.2,1,4.0,330,Moreland,Northern Metropolitan,54
+3,t,1472000,9.7,2,2.0,306,Boroondara,Southern Metropolitan,28
+3,h,725000,16.1,2,2.0,672,Nillumbik,Northern Metropolitan,54
+3,h,651500,12.6,1,1.0,555,Brimbank,Western Metropolitan,54
+3,u,956000,4.6,2,2.0,189,Boroondara,Southern Metropolitan,53
+3,h,798000,16.3,1,2.0,806,Whittlesea,Northern Metropolitan,60
+3,h,1001000,18.8,1,2.0,727,Monash,South-Eastern Metropolitan,54
+4,h,660000,19.6,1,3.0,558,Whittlesea,Northern Metropolitan,44
+3,h,1287000,11.4,1,1.0,620,Glen Eira,Southern Metropolitan,54
+3,h,511000,13.5,2,2.0,519,Brimbank,Western Metropolitan,54
+2,u,536000,8.1,1,1.0,771,Glen Eira,Southern Metropolitan,64
+3,h,592500,11.2,2,1.0,215,Darebin,Northern Metropolitan,53
+3,u,690000,10.6,2,2.0,4497,Banyule,Eastern Metropolitan,54
+3,t,1015000,11.2,2,2.0,0,Stonnington,Southern Metropolitan,10
+3,h,760000,12.3,1,1.0,692,,Southern Metropolitan,84
+3,h,528000,14.0,1,3.0,588,Hume,Northern Metropolitan,64
+3,h,750000,11.1,1,2.0,534,Hobsons Bay,Western Metropolitan,54
+2,h,903000,4.2,1,0.0,184,Melbourne,Northern Metropolitan,54
+3,h,770000,6.7,1,1.0,520,Moreland,Northern Metropolitan,54
+3,u,570000,4.5,1,1.0,0,Moreland,Northern Metropolitan,53
+3,h,605000,8.8,1,2.0,377,Banyule,Eastern Metropolitan,64
+1,u,435000,7.2,1,1.0,1192,Port Phillip,Southern Metropolitan,15
+3,h,750000,11.1,1,3.0,554,Hobsons Bay,Western Metropolitan,54
+4,h,2920000,7.3,3,3.0,1064,Boroondara,Southern Metropolitan,54
+2,u,795250,2.6,1,2.0,0,Yarra,Northern Metropolitan,26
+2,h,780000,10.5,1,1.0,433,Banyule,Eastern Metropolitan,54
+2,u,551000,3.3,1,0.0,0,Stonnington,Southern Metropolitan,53
+3,h,940000,4.4,1,1.0,320,Moonee Valley,Northern Metropolitan,84
+3,h,990000,6.6,1,0.0,371,Maribyrnong,Western Metropolitan,113
+4,h,492000,20.6,2,2.0,479,Hume,Northern Metropolitan,15
+3,h,1750000,4.6,1,4.0,368,Boroondara,Southern Metropolitan,54
+4,h,145000,7.8,1,1.0,536,Moreland,Northern Metropolitan,113
+2,u,806000,9.7,1,1.0,122,Boroondara,Southern Metropolitan,46
+2,t,710000,10.4,1,1.0,0,Glen Eira,Southern Metropolitan,54
+2,u,805000,5.3,1,1.0,0,Boroondara,Southern Metropolitan,59
+1,u,490000,2.1,1,1.0,0,Yarra,Northern Metropolitan,11
+5,h,2100000,3.3,2,1.0,237,Port Phillip,Southern Metropolitan,53
+3,h,1065000,5.8,1,2.0,630,Darebin,Northern Metropolitan,93
+3,h,1158000,13.0,1,1.0,1011,Moreland,Northern Metropolitan,54
+2,u,751000,4.6,1,1.0,711,Boroondara,Southern Metropolitan,53
+3,h,825000,12.8,3,1.0,318,Moonee Valley,Western Metropolitan,53
+4,t,1465000,13.9,2,2.0,319,Glen Eira,Southern Metropolitan,8
+3,u,645000,11.2,1,2.0,280,Darebin,Northern Metropolitan,22
+3,h,870000,8.5,1,2.0,654,Moreland,Northern Metropolitan,54
+2,u,460000,5.2,1,1.0,54,Moreland,Northern Metropolitan,54
+3,h,771000,10.8,1,0.0,556,Maribyrnong,Western Metropolitan,54
+2,h,900000,8.5,1,1.0,198,Glen Eira,Southern Metropolitan,53
+5,h,2840000,6.4,4,4.0,809,Darebin,Northern Metropolitan,113
+3,h,1272000,6.5,1,0.0,297,Darebin,Northern Metropolitan,103
+4,h,1900000,9.2,2,4.0,587,Boroondara,Southern Metropolitan,63
+3,h,867000,15.3,1,3.0,819,Whittlesea,Northern Metropolitan,54
+2,u,450000,2.6,1,1.0,0,Yarra,Northern Metropolitan,24
+3,h,1940000,8.5,2,2.0,439,Glen Eira,Southern Metropolitan,112
+2,h,844000,5.5,1,1.0,174,Darebin,Northern Metropolitan,28
+4,h,514000,14.7,2,2.0,639,Wyndham,Western Metropolitan,24
+2,u,590000,0.7,2,1.0,0,Melbourne,Southern Metropolitan,15
+2,h,775000,9.9,1,2.0,527,Moreland,Northern Metropolitan,73
+3,u,825000,4.3,2,2.0,2905,Moonee Valley,Western Metropolitan,19
+2,u,1100000,1.6,2,2.0,0,Melbourne,Northern Metropolitan,16
+3,h,670000,13.0,1,1.0,652,Moreland,Northern Metropolitan,53
+3,h,705000,17.9,2,2.0,840,Whittlesea,Northern Metropolitan,54
+3,h,525000,13.0,1,1.0,665,Moreland,Northern Metropolitan,73
+2,h,399000,8.7,1,1.0,904,Maribyrnong,Western Metropolitan,38
+3,h,1605000,8.5,1,1.0,418,Glen Eira,Southern Metropolitan,133
+2,h,440000,5.9,1,1.0,0,Moreland,Northern Metropolitan,63
+1,h,351000,12.0,1,1.0,168,Darebin,Northern Metropolitan,74
+3,h,1800000,16.7,1,1.0,729,Monash,Eastern Metropolitan,54
+2,h,640000,13.9,2,2.0,298,Glen Eira,Southern Metropolitan,18
+3,h,578000,34.9,2,2.0,673,,South-Eastern Metropolitan,54
+4,h,362000,31.7,2,2.0,685,Melton,Northern Victoria,54
+4,h,1880000,13.9,2,2.0,814,Manningham,Eastern Metropolitan,54
+3,h,535000,18.4,1,2.0,603,Wyndham,Western Metropolitan,54
+3,h,1030000,13.9,1,1.0,827,Manningham,Eastern Metropolitan,63
+3,h,1320000,14.7,1,1.0,620,Whitehorse,Eastern Metropolitan,54
+2,u,450000,5.9,1,1.0,0,Moonee Valley,Western Metropolitan,13
+3,u,580000,13.9,2,2.0,250,Brimbank,Western Metropolitan,11
+3,h,1080000,8.8,1,1.0,487,Darebin,Northern Metropolitan,98
+4,h,1460000,13.7,2,2.0,487,Bayside,Southern Metropolitan,53
+3,h,740000,5.2,2,1.0,4676,Moreland,Northern Metropolitan,13
+3,h,1000000,6.2,1,3.0,399,Hobsons Bay,Western Metropolitan,54
+3,h,1975000,11.2,1,2.0,432,Bayside,Southern Metropolitan,93
+3,t,1225000,13.9,2,2.0,372,Glen Eira,Southern Metropolitan,16
+4,h,1346000,9.1,2,2.0,559,Moonee Valley,Western Metropolitan,28
+1,u,330000,4.5,1,1.0,0,Stonnington,Southern Metropolitan,53
+4,h,700500,12.4,2,2.0,467,Moreland,Northern Metropolitan,26
+2,h,921000,6.3,1,2.0,161,,Western Metropolitan,54
+2,u,495000,6.1,1,1.0,0,Port Phillip,Southern Metropolitan,54
+3,h,1302000,7.8,1,1.0,427,Boroondara,Southern Metropolitan,85
+2,h,980000,3.6,1,1.0,189,,Northern Metropolitan,54
+2,h,662000,14.9,1,2.0,605,Banyule,Northern Metropolitan,63
+3,h,1470000,2.3,1,0.0,232,Melbourne,Northern Metropolitan,93
+4,h,1461400,13.1,2,2.0,780,Whitehorse,Eastern Metropolitan,96
+2,u,580000,1.2,1,1.0,0,Melbourne,Southern Metropolitan,14
+2,h,1110000,21.5,1,1.0,709,Kingston,South-Eastern Metropolitan,54
+2,h,600000,13.9,1,1.0,534,Brimbank,Western Metropolitan,73
+2,h,922000,8.4,1,0.0,301,Hobsons Bay,Western Metropolitan,53
+3,h,1072500,8.4,1,2.0,588,,Northern Metropolitan,54
+3,h,1035000,7.7,1,2.0,675,Hobsons Bay,Western Metropolitan,53
+1,u,346000,11.4,1,1.0,60,Glen Eira,Southern Metropolitan,54
+3,h,630000,12.1,1,1.0,604,Moreland,Northern Metropolitan,53
+5,h,1915000,11.4,2,2.0,590,,Southern Metropolitan,54
+3,h,660000,12.9,1,3.0,467,,Western Metropolitan,54
+4,h,1955000,5.3,2,1.0,5,Darebin,Northern Metropolitan,54
+2,h,1000000,11.2,1,1.0,742,,Northern Metropolitan,54
+2,u,570000,8.1,1,1.0,0,Glen Eira,Southern Metropolitan,53
+5,h,4250000,4.6,4,3.0,1275,Boroondara,Southern Metropolitan,93
+2,u,729000,7.8,1,1.0,137,Boroondara,Southern Metropolitan,53
+4,h,500000,20.6,2,2.0,383,Hume,Northern Metropolitan,18
+3,h,495000,10.8,1,1.0,158,Maribyrnong,Western Metropolitan,18
+2,h,1465000,13.7,1,2.0,581,Bayside,Southern Metropolitan,54
+2,u,340000,13.9,1,1.0,0,Glen Eira,Southern Metropolitan,11
+3,h,1555000,2.6,1,0.0,250,Yarra,Northern Metropolitan,123
+2,u,520000,6.2,1,1.0,0,Boroondara,Southern Metropolitan,54
+5,h,2400000,7.7,2,0.0,633,Boroondara,Southern Metropolitan,85
+4,h,500000,25.9,2,2.0,550,Whittlesea,Northern Victoria,54
+3,h,1070000,8.0,1,2.0,363,Moonee Valley,Western Metropolitan,54
+2,h,1780000,10.7,3,2.0,635,Bayside,Southern Metropolitan,88
+1,u,300000,5.8,1,1.0,0,Yarra,Northern Metropolitan,54
+4,h,920000,14.7,2,2.0,601,,Eastern Metropolitan,54
+2,h,780000,8.8,1,1.0,588,Banyule,Eastern Metropolitan,54
+3,h,2150000,3.5,2,0.0,202,Yarra,Northern Metropolitan,125
+3,h,2350000,10.2,2,0.0,843,,Southern Metropolitan,54
+2,h,1150000,2.1,1,0.0,113,Port Phillip,Southern Metropolitan,53
+3,h,981000,14.6,1,2.0,601,Kingston,Southern Metropolitan,53
+3,h,925000,11.5,1,4.0,815,Moreland,Northern Metropolitan,26
+2,u,630000,4.6,1,1.0,71,Boroondara,Southern Metropolitan,53
+2,t,1230000,11.2,2,2.0,201,Bayside,Southern Metropolitan,54
+2,u,535000,3.4,2,1.0,0,Melbourne,Northern Metropolitan,26
+2,u,730000,3.8,1,1.0,0,Port Phillip,Southern Metropolitan,53
+3,h,1100000,4.4,2,0.0,179,Moonee Valley,Northern Metropolitan,123
+2,h,850000,12.0,1,2.0,494,Darebin,Northern Metropolitan,54
+3,h,1905000,7.8,1,2.0,400,Boroondara,Southern Metropolitan,134
+2,u,495000,8.7,2,2.0,37000,Maribyrnong,Western Metropolitan,54
+6,h,2350000,11.8,3,3.0,2026,Whitehorse,Eastern Metropolitan,53
+3,h,1121000,5.5,1,0.0,0,Darebin,Northern Metropolitan,53
+2,h,1960000,11.8,1,1.0,719,Glen Eira,Southern Metropolitan,53
+3,h,1750000,7.8,2,3.0,780,Boroondara,Southern Metropolitan,54
+4,h,2900000,9.7,3,2.0,596,Boroondara,Southern Metropolitan,53
+3,h,632000,24.7,1,2.0,544,,South-Eastern Metropolitan,54
+2,u,620000,10.1,1,2.0,158,Glen Eira,Southern Metropolitan,54
+3,h,1040000,21.3,1,1.0,756,Maroondah,Eastern Metropolitan,63
+3,t,805000,13.9,2,1.0,268,Glen Eira,Southern Metropolitan,23
+3,h,320000,15.0,2,1.0,119,Brimbank,Western Metropolitan,53
+3,h,850000,10.5,1,1.0,593,Moonee Valley,Western Metropolitan,53
+4,h,800000,16.1,2,2.0,626,Banyule,Northern Metropolitan,64
+3,u,988000,13.6,2,2.0,286,Monash,Southern Metropolitan,16
+3,u,922500,4.6,1,2.0,4657,Stonnington,Southern Metropolitan,44
+3,h,520000,18.4,1,2.0,538,,Western Metropolitan,44
+4,h,750000,16.3,2,4.0,544,Whittlesea,Northern Metropolitan,16
+2,u,485000,8.4,1,1.0,0,Hobsons Bay,Western Metropolitan,17
+3,h,780000,11.2,1,2.0,457,Darebin,Northern Metropolitan,53
+2,h,1630000,5.4,1,0.0,284,,Southern Metropolitan,104
+3,h,796000,7.0,1,1.0,464,Maribyrnong,Western Metropolitan,63
+4,h,1925000,7.4,2,3.0,485,Port Phillip,Southern Metropolitan,53
+4,h,3050000,7.9,4,2.0,613,Boroondara,Southern Metropolitan,15
+2,u,609000,21.3,1,2.0,190,Maroondah,Eastern Metropolitan,54
+3,h,556000,14.0,1,1.0,627,Hume,Northern Metropolitan,54
+3,h,652000,16.3,1,2.0,533,,Northern Metropolitan,54
+1,h,885000,3.2,1,0.0,93,Yarra,Northern Metropolitan,54
+2,h,1611000,7.4,1,2.0,277,Stonnington,Southern Metropolitan,53
+5,h,1825000,10.2,3,2.0,368,,Southern Metropolitan,54
+5,h,1500000,9.4,3,2.0,1068,Hobsons Bay,Western Metropolitan,54
+5,h,1900000,7.5,3,3.0,0,Boroondara,Southern Metropolitan,53
+3,h,670000,13.0,1,3.0,705,Moreland,Northern Metropolitan,73
+3,h,1625000,7.7,2,1.0,246,Port Phillip,Southern Metropolitan,73
+4,h,2150000,10.7,3,2.0,614,Bayside,Southern Metropolitan,53
+3,u,670000,10.4,1,2.0,169,Moonee Valley,Western Metropolitan,24
+3,h,1635000,2.3,1,0.0,517,Melbourne,Northern Metropolitan,53
+1,u,323000,8.9,1,1.0,820,Glen Eira,Southern Metropolitan,54
+2,h,440500,9.4,1,1.0,368,Banyule,Eastern Metropolitan,68
+3,h,797000,8.6,1,2.0,694,Maribyrnong,Western Metropolitan,64
+3,h,821000,11.2,1,1.0,656,Moreland,Northern Metropolitan,54
+4,h,795000,35.4,2,2.0,631,Frankston,South-Eastern Metropolitan,64
+3,u,690000,5.3,1,1.0,1396,Boroondara,Southern Metropolitan,59
+3,h,510000,20.6,2,2.0,523,Hume,Northern Metropolitan,24
+3,t,1235000,15.4,3,2.0,338,Whitehorse,Eastern Metropolitan,54
+4,h,1370000,9.7,2,2.0,908,Moonee Valley,Western Metropolitan,63
+2,u,725000,3.8,2,2.0,0,Port Phillip,Southern Metropolitan,13
+4,h,600000,18.0,2,3.0,715,Melton,Western Metropolitan,25
+3,h,1590000,10.7,3,2.0,481,Bayside,Southern Metropolitan,11
+3,h,834500,8.6,1,4.0,685,,Western Metropolitan,54
+3,h,1000000,6.4,2,2.0,275,,Western Metropolitan,84
+3,h,1122000,15.5,1,2.0,732,Monash,South-Eastern Metropolitan,54
+3,h,1050000,17.9,1,2.0,539,Kingston,Southern Metropolitan,54
+2,u,753000,4.6,1,2.0,0,Boroondara,Southern Metropolitan,63
+4,h,1300000,13.9,2,2.0,872,Manningham,Eastern Metropolitan,54
+3,h,1395000,6.6,1,2.0,467,Maribyrnong,Western Metropolitan,77
+3,h,580000,12.6,1,1.0,469,Brimbank,Western Metropolitan,53
+2,h,1290000,3.4,1,0.0,164,Yarra,Northern Metropolitan,133
+4,h,1920000,13.0,2,2.0,650,Glen Eira,Southern Metropolitan,28
+4,h,931000,13.8,2,3.0,532,Hobsons Bay,Western Metropolitan,53
+2,u,546000,8.9,1,1.0,2023,Hobsons Bay,Western Metropolitan,45
+5,h,870000,23.5,2,2.0,733,Knox,South-Eastern Metropolitan,38
+2,u,520000,7.4,1,1.0,0,Port Phillip,Southern Metropolitan,52
+3,h,605000,12.6,1,1.0,462,Brimbank,Western Metropolitan,67
+5,h,750000,14.7,2,2.0,1014,Wyndham,Western Metropolitan,54
+3,h,502500,11.2,1,2.0,491,Darebin,Northern Metropolitan,53
+4,h,550000,17.9,2,1.0,531,Whittlesea,Northern Metropolitan,54
+3,t,851000,10.5,3,1.0,557,Moonee Valley,Western Metropolitan,6
+4,h,1520000,13.9,3,2.0,657,Manningham,Eastern Metropolitan,13
+2,h,570000,10.5,1,3.0,428,Banyule,Eastern Metropolitan,53
+2,h,860000,8.8,2,1.0,415,Darebin,Northern Metropolitan,98
+4,h,2600000,5.6,3,2.0,700,Boroondara,Southern Metropolitan,31
+5,h,2620000,16.1,4,3.0,4077,Manningham,Eastern Metropolitan,54
+3,t,1011000,8.7,2,2.0,225,Maribyrnong,Western Metropolitan,54
+3,h,730000,9.4,1,1.0,276,Hobsons Bay,Western Metropolitan,54
+4,h,695000,38.0,1,3.0,713,,South-Eastern Metropolitan,74
+4,h,3900000,11.8,2,6.0,2187,Whitehorse,Eastern Metropolitan,121
+3,h,1652000,11.2,2,2.0,368,Boroondara,Southern Metropolitan,54
+3,h,1370000,10.1,1,2.0,485,Glen Eira,Southern Metropolitan,54
+2,h,1020000,5.5,1,2.0,347,Darebin,Northern Metropolitan,88
+2,h,1007000,11.2,1,1.0,646,Moonee Valley,Western Metropolitan,53
+3,h,812000,7.8,1,1.0,370,Moreland,Northern Metropolitan,93
+2,h,1101000,3.8,1,0.0,152,Melbourne,Southern Metropolitan,113
+2,h,1506000,2.6,2,1.0,220,Yarra,Northern Metropolitan,103
+2,h,815000,10.5,1,2.0,589,Banyule,Eastern Metropolitan,93
+3,h,1848000,8.2,1,3.0,824,,Western Metropolitan,89
+4,h,1290000,17.2,2,2.0,407,Whitehorse,Eastern Metropolitan,21
+3,h,787000,10.5,1,3.0,716,Brimbank,Western Metropolitan,69
+2,u,395000,4.4,1,1.0,0,Moonee Valley,Northern Metropolitan,53
+4,h,525000,18.4,2,2.0,452,,Western Metropolitan,31
+5,h,1150000,13.0,3,2.0,700,Moreland,Northern Metropolitan,53
+4,h,950000,12.5,3,2.0,541,Moonee Valley,Western Metropolitan,53
+3,h,1500000,13.1,1,2.0,664,Whitehorse,Eastern Metropolitan,93
+3,h,685000,12.0,1,3.0,494,Darebin,Northern Metropolitan,64
+4,h,1040000,13.9,2,2.0,643,Glen Eira,Southern Metropolitan,53
+3,h,1300000,14.5,2,2.0,586,Bayside,Southern Metropolitan,73
+5,h,1880000,7.2,2,2.0,538,Glen Eira,Southern Metropolitan,54
+3,u,1100000,5.6,1,1.0,0,Boroondara,Southern Metropolitan,88
+3,h,2030000,11.2,2,2.0,366,Bayside,Southern Metropolitan,53
+1,u,385000,2.6,1,1.0,0,Yarra,Northern Metropolitan,18
+3,h,1290000,13.8,1,2.0,537,Glen Eira,Southern Metropolitan,54
+2,h,1100000,3.4,1,1.0,193,,Northern Metropolitan,54
+1,u,537000,3.3,1,1.0,0,Stonnington,Southern Metropolitan,24
+3,h,1740000,3.3,2,2.0,147,Port Phillip,Southern Metropolitan,133
+2,u,930000,8.5,1,1.0,295,Glen Eira,Southern Metropolitan,53
+2,t,710000,7.9,1,1.0,134,Banyule,Eastern Metropolitan,11
+4,h,2620000,4.6,2,2.0,516,Stonnington,Southern Metropolitan,98
+2,h,745000,8.0,1,1.0,342,Moonee Valley,Western Metropolitan,54
+4,h,1125000,14.3,3,2.0,284,Manningham,Eastern Metropolitan,18
+3,h,910000,19.9,2,2.0,651,Maroondah,Eastern Metropolitan,47
+4,h,770000,8.8,1,1.0,494,Darebin,Northern Metropolitan,54
+2,u,300000,9.1,1,1.0,0,Hobsons Bay,Western Metropolitan,54
+4,h,2090000,7.9,3,2.0,608,Banyule,Eastern Metropolitan,44
+4,h,1430000,13.9,2,2.0,655,Manningham,Eastern Metropolitan,53
+3,h,1200000,5.5,1,1.0,215,Darebin,Northern Metropolitan,103
+4,h,1605000,9.4,2,2.0,607,Moonee Valley,Western Metropolitan,83
+4,h,1800000,9.2,2,2.0,868,Boroondara,Southern Metropolitan,93
+3,h,900000,5.1,1,1.0,252,Maribyrnong,Western Metropolitan,54
+2,h,800000,1.6,2,1.0,64,Yarra,Northern Metropolitan,28
+2,t,680000,13.0,1,1.0,83,Glen Eira,Southern Metropolitan,25
+4,h,1780000,13.8,3,6.0,1057,Hobsons Bay,Western Metropolitan,61
+2,u,750000,6.1,2,1.0,0,Port Phillip,Southern Metropolitan,14
+3,h,1465000,9.9,1,2.0,956,Moreland,Northern Metropolitan,54
+3,h,810000,5.2,2,3.0,177,Moreland,Northern Metropolitan,54
+3,h,1152500,13.9,2,2.0,648,Manningham,Eastern Metropolitan,43
+4,h,525000,25.5,2,2.0,415,Whittlesea,Northern Metropolitan,54
+3,h,1005000,7.0,1,1.0,438,Maribyrnong,Western Metropolitan,63
+3,h,578000,16.5,2,1.0,308,Hume,Northern Metropolitan,54
+2,h,1360000,11.8,1,1.0,690,Glen Eira,Southern Metropolitan,93
+4,h,630000,13.0,1,2.0,630,Moreland,Northern Metropolitan,63
+2,h,915000,6.5,1,1.0,502,Darebin,Northern Metropolitan,54
+3,h,1095000,13.0,2,1.0,581,Glen Eira,Southern Metropolitan,58
+3,u,560000,11.4,1,1.0,213,Banyule,Eastern Metropolitan,23
+2,h,957000,5.1,1,0.0,148,Maribyrnong,Western Metropolitan,54
+3,h,1602500,7.8,1,1.0,405,Boroondara,Southern Metropolitan,94
+4,h,646000,15.0,2,2.0,658,Brimbank,Western Metropolitan,44
+5,h,2800000,7.7,2,2.0,768,,Southern Metropolitan,34
+3,h,1535000,13.0,2,2.0,572,Glen Eira,Southern Metropolitan,93
+2,h,1100000,5.5,1,1.0,189,Darebin,Northern Metropolitan,54
+3,u,772000,13.9,2,1.0,203,Manningham,Eastern Metropolitan,37
+3,h,900000,8.8,1,1.0,472,Darebin,Northern Metropolitan,58
+2,h,780000,7.0,1,1.0,435,Maribyrnong,Western Metropolitan,73
+1,t,895000,5.2,1,0.0,0,Moreland,Northern Metropolitan,54
+3,u,931000,14.6,1,2.0,313,Kingston,Southern Metropolitan,53
+4,h,2610000,4.6,2,7.0,0,Boroondara,Southern Metropolitan,53
+2,t,745000,17.9,1,2.0,359,Kingston,Southern Metropolitan,33
+2,h,1260000,11.2,1,0.0,269,Boroondara,Southern Metropolitan,114
+4,h,645000,14.7,2,2.0,702,Wyndham,Western Metropolitan,54
+1,u,526000,2.6,1,1.0,0,Melbourne,Northern Metropolitan,28
+5,h,1900000,13.0,2,2.0,567,Glen Eira,Southern Metropolitan,98
+3,h,2575000,11.2,2,2.0,517,Bayside,Southern Metropolitan,104
+2,h,855000,2.5,1,0.0,117,Yarra,Northern Metropolitan,54
+3,h,2770000,5.6,3,4.0,1197,Boroondara,Southern Metropolitan,96
+3,h,913000,8.2,1,3.0,448,Maribyrnong,Western Metropolitan,98
+3,h,1600000,4.5,1,2.0,812,Moreland,Northern Metropolitan,103
+4,h,977500,18.0,2,3.0,1004,Nillumbik,Eastern Metropolitan,39
+3,h,580000,13.0,1,2.0,650,Moreland,Northern Metropolitan,63
+4,h,908000,14.7,2,1.0,815,Knox,Eastern Metropolitan,54
+3,t,1160000,7.3,2,2.0,203,,Southern Metropolitan,54
+2,u,490000,6.4,1,1.0,0,Maribyrnong,Western Metropolitan,53
+4,h,950000,15.4,2,3.0,587,,Eastern Metropolitan,54
+3,h,467000,17.4,1,1.0,565,Hume,Northern Metropolitan,49
+4,h,2200000,11.8,2,2.0,931,Whitehorse,Eastern Metropolitan,93
+4,h,930000,12.0,1,5.0,700,Darebin,Northern Metropolitan,54
+2,h,1200000,2.3,2,1.0,146,Melbourne,Northern Metropolitan,53
+4,h,2110000,11.2,2,2.0,645,Stonnington,Southern Metropolitan,53
+3,h,970000,14.7,2,2.0,674,,Eastern Metropolitan,54
+4,h,2600000,8.5,2,2.0,527,Glen Eira,Southern Metropolitan,143
+5,h,650500,18.0,2,2.0,615,Melton,Western Metropolitan,17
+1,u,265000,5.9,1,1.0,0,Moreland,Northern Metropolitan,23
+3,h,1620000,14.3,2,1.0,848,,Eastern Metropolitan,54
+3,h,530000,18.4,2,2.0,530,Wyndham,Western Metropolitan,54
+4,h,1660000,9.0,2,2.0,830,Banyule,Eastern Metropolitan,73
+5,h,2855000,6.2,3,2.0,572,Boroondara,Southern Metropolitan,24
+3,h,930000,6.9,1,1.0,305,Moonee Valley,Western Metropolitan,123
+3,h,810000,8.8,1,3.0,619,Banyule,Eastern Metropolitan,84
+2,u,593000,2.1,2,1.0,0,Port Phillip,Southern Metropolitan,11
+3,h,1870000,6.3,1,1.0,217,Stonnington,Southern Metropolitan,136
+3,h,1550000,11.2,2,2.0,663,Bayside,Southern Metropolitan,83
+3,h,1070000,14.5,1,3.0,583,Bayside,Southern Metropolitan,53
+2,u,860000,1.6,2,1.0,0,Yarra,Northern Metropolitan,103
+2,h,1515000,4.1,1,0.0,98,Port Phillip,Southern Metropolitan,53
+4,h,2100000,9.2,2,2.0,645,Boroondara,Southern Metropolitan,93
+2,u,606000,2.3,1,2.0,0,Melbourne,Northern Metropolitan,23
+3,h,687000,12.1,1,3.0,559,Banyule,Northern Metropolitan,54
+4,h,1209000,13.8,2,2.0,770,Manningham,Eastern Metropolitan,58
+3,h,600000,19.6,1,2.0,555,,Northern Metropolitan,54
+3,h,782000,9.2,1,3.0,576,Moreland,Northern Metropolitan,54
+3,h,725000,11.2,1,1.0,547,Darebin,Northern Metropolitan,54
+2,u,460000,8.9,1,1.0,0,Hobsons Bay,Western Metropolitan,45
+3,h,1421000,3.8,2,1.0,215,Port Phillip,Southern Metropolitan,33
+2,u,570000,2.4,2,1.0,0,Yarra,Northern Metropolitan,17
+5,h,1550000,21.1,3,4.0,4221,Nillumbik,Eastern Metropolitan,44
+2,u,525500,9.3,1,1.0,831,Glen Eira,Southern Metropolitan,53
+4,h,2410000,10.5,3,4.0,569,,Southern Metropolitan,54
+2,u,556000,4.4,2,1.0,0,Moonee Valley,Northern Metropolitan,14
+3,t,650000,18.8,2,1.0,145,,South-Eastern Metropolitan,9
+4,h,1255000,12.4,2,1.0,670,,Eastern Metropolitan,54
+4,h,1272000,16.7,2,2.0,733,Monash,South-Eastern Metropolitan,54
+3,h,875000,27.0,1,3.0,694,,South-Eastern Metropolitan,49
+3,h,1234000,12.1,1,2.0,896,,Northern Metropolitan,59
+3,h,1275000,7.9,2,2.0,834,Banyule,Eastern Metropolitan,73
+3,h,1225000,14.0,1,2.0,553,Monash,Southern Metropolitan,53
+4,h,1315000,7.7,2,3.0,830,Hobsons Bay,Western Metropolitan,103
+4,h,3800000,9.0,1,1.0,858,Boroondara,Southern Metropolitan,54
+1,u,260000,11.8,1,1.0,0,Glen Eira,Southern Metropolitan,48
+4,h,1112000,12.0,2,10.0,1002,,Northern Metropolitan,39
+4,h,1340000,5.9,2,2.0,683,Moonee Valley,Western Metropolitan,45
+2,h,617500,8.4,1,3.0,155,Darebin,Northern Metropolitan,39
+4,h,4005000,5.6,3,3.0,800,Boroondara,Southern Metropolitan,14
+2,u,1360000,2.1,1,2.0,0,Port Phillip,Southern Metropolitan,53
+3,h,883000,8.2,1,1.0,534,Moonee Valley,Western Metropolitan,54
+3,h,712000,13.1,1,2.0,603,Moreland,Northern Metropolitan,64
+3,h,1016000,8.2,2,1.0,304,Moonee Valley,Western Metropolitan,54
+2,u,591000,8.5,1,1.0,815,Glen Eira,Southern Metropolitan,15
+3,h,850000,10.6,2,2.0,285,Banyule,Eastern Metropolitan,13
+3,h,1840000,3.5,1,1.0,311,Yarra,Northern Metropolitan,54
+1,u,385000,7.9,1,1.0,0,Banyule,Eastern Metropolitan,53
+3,h,640000,9.4,1,2.0,476,Banyule,Eastern Metropolitan,68
+3,h,1330000,9.3,1,1.0,312,Glen Eira,Southern Metropolitan,97
+3,h,1925000,5.2,1,4.0,479,Moreland,Northern Metropolitan,99
+5,h,3625000,10.2,3,2.0,1011,,Southern Metropolitan,114
+2,h,1180000,2.5,1,0.0,162,Yarra,Northern Metropolitan,123
+2,u,570000,8.1,1,2.0,0,Glen Eira,Southern Metropolitan,53
+4,h,4750000,8.4,3,2.0,967,Boroondara,Southern Metropolitan,28
+2,h,890000,11.4,1,1.0,282,Glen Eira,Southern Metropolitan,54
+3,t,440000,13.0,2,1.0,215,Moreland,Northern Metropolitan,13
+2,u,315000,13.3,1,1.0,14,Brimbank,Western Metropolitan,53
+5,h,8000000,9.0,5,4.0,2079,Boroondara,Southern Metropolitan,144
+3,h,810000,11.2,2,2.0,279,Darebin,Northern Metropolitan,53
+3,u,542000,15.3,2,2.0,213,Whittlesea,Northern Metropolitan,54
+4,h,1480000,13.9,2,2.0,656,Manningham,Eastern Metropolitan,59
+3,h,571000,12.6,1,2.0,589,Brimbank,Western Metropolitan,63
+3,h,1435000,6.9,1,3.0,633,Moonee Valley,Western Metropolitan,54
+3,h,1350000,13.4,2,1.0,601,Whitehorse,Eastern Metropolitan,54
+2,h,820000,8.4,1,1.0,155,Darebin,Northern Metropolitan,54
+2,u,745000,11.2,1,1.0,161,Whitehorse,Southern Metropolitan,54
+3,h,1210000,2.1,1,2.0,155,,Northern Metropolitan,54
+3,h,1851000,3.5,1,1.0,225,Yarra,Northern Metropolitan,53
+3,h,680000,12.0,1,1.0,237,,Northern Metropolitan,54
+2,u,432500,6.5,1,1.0,748,Darebin,Northern Metropolitan,58
+3,h,1850000,13.8,1,2.0,697,,Southern Metropolitan,54
+1,u,296000,11.8,1,1.0,0,Glen Eira,Southern Metropolitan,53
+4,h,915000,20.5,3,2.0,624,Whittlesea,Northern Metropolitan,19
+2,t,770000,4.2,2,1.0,0,Melbourne,Northern Metropolitan,53
+1,u,385000,6.8,1,1.0,0,Hobsons Bay,Western Metropolitan,57
+2,h,920000,12.0,1,2.0,665,,Northern Metropolitan,69
+3,h,636000,10.5,1,2.0,571,Moonee Valley,Western Metropolitan,53
+3,h,1475000,13.7,1,2.0,251,Bayside,Southern Metropolitan,54
+2,u,680000,12.1,1,2.0,275,Glen Eira,Southern Metropolitan,48
+3,h,2695000,3.3,2,1.0,215,Melbourne,Southern Metropolitan,113
+3,h,661000,32.3,1,3.0,819,,South-Eastern Metropolitan,54
+2,h,516000,1.8,1,2.0,1044,,Northern Metropolitan,54
+4,h,1875000,5.2,2,2.0,657,Moreland,Northern Metropolitan,65
+5,h,912000,12.0,3,4.0,890,Darebin,Northern Metropolitan,64
+4,h,630000,14.7,2,2.0,720,,Western Metropolitan,23
+4,h,770000,16.1,2,2.0,789,Banyule,Northern Metropolitan,49
+3,h,1165000,7.0,1,0.0,191,Maribyrnong,Western Metropolitan,113
+2,u,667000,8.0,1,1.0,206,Moonee Valley,Western Metropolitan,53
+3,h,375000,31.7,2,1.0,637,Melton,Northern Victoria,44
+1,u,503000,1.5,1,1.0,0,Melbourne,Northern Metropolitan,54
+3,t,1810000,7.9,2,2.0,400,Boroondara,Southern Metropolitan,54
+3,t,1250000,11.8,2,2.0,315,Manningham,Eastern Metropolitan,63
+3,t,861000,17.9,2,2.0,305,Kingston,Southern Metropolitan,24
+2,u,330000,6.9,1,1.0,0,Moonee Valley,Western Metropolitan,53
+3,h,898000,6.5,2,2.0,210,Darebin,Northern Metropolitan,13
+2,u,709500,6.3,1,1.0,80,Maribyrnong,Western Metropolitan,54
+3,h,953000,12.0,1,2.0,743,Darebin,Northern Metropolitan,54
+3,u,1000000,4.6,3,2.0,0,Boroondara,Southern Metropolitan,24
+3,h,1880000,9.2,2,2.0,668,Boroondara,Southern Metropolitan,103
+5,h,1940000,9.7,2,1.0,629,Boroondara,Southern Metropolitan,84
+4,h,3020000,7.9,2,1.0,1250,Banyule,Eastern Metropolitan,54
+3,h,487000,31.7,1,1.0,582,Hume,Western Metropolitan,54
+3,h,1530000,14.3,2,2.0,798,Manningham,Eastern Metropolitan,46
+2,h,1699000,9.2,1,2.0,653,Boroondara,Southern Metropolitan,53
+3,u,891000,8.0,2,1.0,0,Moonee Valley,Western Metropolitan,53
+4,h,2625000,9.2,3,2.0,840,Boroondara,Southern Metropolitan,93
+3,h,1850000,6.2,2,2.0,596,Moonee Valley,Western Metropolitan,74
+3,h,1075000,5.2,1,0.0,222,Moreland,Northern Metropolitan,54
+2,h,510000,9.4,1,1.0,170,Hobsons Bay,Western Metropolitan,23
+3,h,920000,1.6,1,0.0,98,Melbourne,Northern Metropolitan,54
+3,h,1240000,17.9,1,4.0,605,Kingston,Southern Metropolitan,64
+4,h,525000,34.9,2,2.0,550,Frankston,South-Eastern Metropolitan,14
+1,u,552000,4.6,1,1.0,0,Stonnington,Southern Metropolitan,54
+3,u,500000,23.2,1,2.0,263,Maroondah,Eastern Metropolitan,54
+5,h,800000,12.1,2,1.0,808,Moreland,Northern Metropolitan,53
+4,h,1302000,11.8,2,2.0,475,Manningham,Eastern Metropolitan,27
+2,u,845000,7.9,2,2.0,147,Banyule,Eastern Metropolitan,43
+3,h,1350000,5.8,1,4.0,553,Darebin,Northern Metropolitan,93
+2,h,1000000,7.0,1,1.0,220,Maribyrnong,Western Metropolitan,114
+3,h,1256000,10.1,2,2.0,335,Glen Eira,Southern Metropolitan,54
+2,u,447000,11.2,1,1.0,0,Stonnington,Southern Metropolitan,34
+5,h,3250000,9.2,4,2.0,886,Boroondara,Southern Metropolitan,10
+2,u,450000,7.9,1,1.0,0,Banyule,Eastern Metropolitan,53
+3,h,1206000,13.9,1,2.0,603,Glen Eira,Southern Metropolitan,53
+4,h,1375000,3.8,1,1.0,190,Port Phillip,Southern Metropolitan,54
+2,u,815000,2.6,2,2.0,0,Yarra,Northern Metropolitan,53
+3,h,591000,13.3,1,2.0,673,Brimbank,Western Metropolitan,53
+3,h,700000,14.5,1,1.0,530,Banyule,Northern Metropolitan,54
+6,h,1660000,17.3,3,4.0,730,Bayside,Southern Metropolitan,54
+3,t,1235000,13.0,2,2.0,0,Glen Eira,Southern Metropolitan,12
+3,h,632000,14.8,1,1.0,562,,Western Metropolitan,64
+5,h,2100000,5.9,3,3.0,468,Moonee Valley,Western Metropolitan,99
+5,h,1951000,9.7,3,3.0,711,,Southern Metropolitan,64
+3,h,880000,13.8,2,4.0,704,Banyule,Eastern Metropolitan,53
+2,h,1160000,13.9,1,2.0,750,Glen Eira,Southern Metropolitan,53
+4,h,2000000,9.7,2,5.0,700,,Southern Metropolitan,17
+4,h,2370000,11.2,3,2.0,773,Boroondara,Southern Metropolitan,124
+2,u,565000,6.1,2,1.0,0,Port Phillip,Southern Metropolitan,10
+3,h,1510000,4.6,2,2.0,264,Boroondara,Southern Metropolitan,53
+3,h,595000,10.5,1,2.0,589,,Western Metropolitan,54
+2,u,653000,10.9,1,1.0,84,,Eastern Metropolitan,54
+3,t,620000,11.2,2,2.0,207,Darebin,Northern Metropolitan,17
+3,h,690000,6.7,1,2.0,479,Moreland,Northern Metropolitan,44
+3,u,1400000,4.5,2,2.0,0,Stonnington,Southern Metropolitan,103
+2,u,372100,6.4,1,1.0,0,Hobsons Bay,Western Metropolitan,24
+2,t,600000,5.2,1,1.0,109,Moreland,Northern Metropolitan,13
+3,h,930000,8.8,1,2.0,518,Darebin,Northern Metropolitan,53
+4,h,1535000,16.0,2,2.0,719,Bayside,Southern Metropolitan,26
+3,h,1960000,3.0,2,2.0,152,,Southern Metropolitan,124
+3,h,2080000,4.6,2,2.0,754,Stonnington,Southern Metropolitan,119
+3,h,820000,3.4,1,0.0,185,,Northern Metropolitan,124
+3,h,806500,13.0,1,2.0,766,Moreland,Northern Metropolitan,58
+2,h,1110000,3.3,1,0.0,147,Port Phillip,Southern Metropolitan,123
+3,h,1530000,4.5,1,0.0,231,Stonnington,Southern Metropolitan,54
+4,h,1550000,9.2,3,4.0,707,Boroondara,Southern Metropolitan,53
+3,h,1085000,4.4,1,1.0,180,Moonee Valley,Northern Metropolitan,33
+2,u,903000,10.7,1,1.0,171,Bayside,Southern Metropolitan,53
+2,u,480000,13.5,1,1.0,128,Moonee Valley,Western Metropolitan,15
+5,h,1705000,12.4,4,2.0,968,Manningham,Eastern Metropolitan,54
+4,h,3001000,2.6,3,1.0,544,Yarra,Northern Metropolitan,103
+3,h,1160000,8.5,2,2.0,480,,Northern Metropolitan,54
+2,h,685000,8.2,1,1.0,173,Moonee Valley,Western Metropolitan,15
+3,t,1721000,9.7,2,2.0,301,Boroondara,Southern Metropolitan,29
+3,h,1150000,14.2,2,3.0,650,Monash,Eastern Metropolitan,54
+5,h,1225000,11.7,1,2.0,633,Whitehorse,Southern Metropolitan,64
+3,h,1100000,7.0,2,0.0,214,Maribyrnong,Western Metropolitan,114
+4,h,1175000,13.9,2,2.0,620,Glen Eira,Southern Metropolitan,44
+3,h,600000,7.0,1,1.0,0,Maribyrnong,Western Metropolitan,53
+2,u,545000,9.2,0,0.0,0,Stonnington,Southern Metropolitan,53
+3,h,1355000,8.8,1,2.0,916,Darebin,Northern Metropolitan,53
+2,t,660000,8.8,1,1.0,113,Darebin,Northern Metropolitan,11
+5,h,4240000,7.4,3,3.0,580,Stonnington,Southern Metropolitan,133
+4,h,1410000,11.0,1,2.0,521,Hobsons Bay,Western Metropolitan,54
+3,h,988000,8.4,1,1.0,450,Hobsons Bay,Western Metropolitan,53
+4,h,990000,8.4,2,2.0,500,Darebin,Northern Metropolitan,54
+3,h,760000,16.1,1,3.0,570,Banyule,Northern Metropolitan,54
+2,u,635000,3.3,1,1.0,855,Stonnington,Southern Metropolitan,54
+3,h,1396500,5.5,1,1.0,302,Darebin,Northern Metropolitan,53
+3,h,2200000,7.3,2,2.0,705,,Southern Metropolitan,89
+3,h,670000,7.0,1,1.0,477,Maribyrnong,Western Metropolitan,63
+3,h,1335000,4.5,1,2.0,308,Moreland,Northern Metropolitan,93
+1,h,964000,3.5,1,0.0,85,Port Phillip,Southern Metropolitan,54
+3,t,640000,23.2,2,1.0,187,Knox,Eastern Metropolitan,14
+4,h,795000,6.5,2,1.0,402,Darebin,Northern Metropolitan,53
+3,h,670500,11.2,1,2.0,654,Darebin,Northern Metropolitan,53
+2,u,438000,5.8,1,1.0,0,Darebin,Northern Metropolitan,53
+2,u,529000,31.2,1,1.0,199,Kingston,South-Eastern Metropolitan,54
+2,u,492500,4.2,1,1.0,0,Melbourne,Northern Metropolitan,15
+2,h,1190000,3.0,2,1.0,147,Yarra,Northern Metropolitan,24
+2,u,520000,3.2,1,1.0,0,Yarra,Northern Metropolitan,83
+3,h,627000,24.7,1,1.0,610,Greater Dandenong,South-Eastern Metropolitan,54
+2,u,650000,3.3,1,1.0,0,Stonnington,Southern Metropolitan,37
+4,h,1600000,21.1,2,2.0,4168,,Eastern Metropolitan,54
+2,u,660000,3.3,1,1.0,0,Stonnington,Southern Metropolitan,53
+3,h,900000,11.5,1,1.0,705,Moreland,Northern Metropolitan,53
+3,h,426000,45.9,1,1.0,412,Macedon Ranges,Northern Victoria,74
+3,h,785000,10.5,1,0.0,592,Banyule,Eastern Metropolitan,73
+3,t,1010000,4.5,2,1.0,0,Moreland,Northern Metropolitan,9
+2,u,695000,10.4,1,1.0,1035,Glen Eira,Southern Metropolitan,60
+3,h,1700000,7.5,2,1.0,646,Boroondara,Southern Metropolitan,43
+3,h,1220000,1.2,1,1.0,0,Melbourne,Southern Metropolitan,53
+4,h,1910000,13.0,2,4.0,736,Glen Eira,Southern Metropolitan,73
+3,h,887000,6.5,2,2.0,540,Darebin,Northern Metropolitan,88
+4,h,1100000,15.4,2,3.0,596,Whitehorse,Eastern Metropolitan,49
+2,u,477000,11.2,1,2.0,115,Darebin,Northern Metropolitan,53
+3,h,900000,8.8,1,1.0,527,Darebin,Northern Metropolitan,53
+3,t,1411000,11.2,2,2.0,0,Bayside,Southern Metropolitan,12
+4,h,793000,13.0,1,2.0,677,Moreland,Northern Metropolitan,54
+2,h,1024000,4.5,1,1.0,148,Moreland,Northern Metropolitan,53
+3,t,1463000,4.6,2,2.0,15,,Southern Metropolitan,26
+3,h,1855000,4.6,1,1.0,304,Boroondara,Southern Metropolitan,123
+3,h,1471000,14.5,2,2.0,732,Bayside,Southern Metropolitan,54
+4,h,950000,16.1,2,3.0,795,,Northern Metropolitan,54
+3,t,702000,11.7,2,1.0,170,Monash,Southern Metropolitan,22
+3,h,1250000,12.2,1,1.0,842,Monash,Southern Metropolitan,53
+2,u,380000,5.1,1,1.0,0,Port Phillip,Southern Metropolitan,53
+4,h,885000,11.2,2,3.0,936,Darebin,Northern Metropolitan,38
+2,u,405000,11.2,1,1.0,171,Darebin,Northern Metropolitan,14
+3,t,530000,11.2,2,1.0,229,Darebin,Northern Metropolitan,15
+4,t,827500,8.4,3,2.0,221,Hobsons Bay,Western Metropolitan,53
+3,h,545000,19.6,1,2.0,400,Whittlesea,Northern Metropolitan,54
+1,u,437500,2.6,1,1.0,778,Yarra,Northern Metropolitan,11
+2,t,700000,4.2,1,3.0,62,Melbourne,Northern Metropolitan,26
+2,u,490000,11.2,1,1.0,142,Moonee Valley,Western Metropolitan,53
+4,h,1155000,16.7,1,1.0,654,,Eastern Metropolitan,54
+4,h,3230000,9.2,4,3.0,1135,Boroondara,Southern Metropolitan,63
+4,h,3270000,9.7,2,4.0,935,Boroondara,Southern Metropolitan,96
+3,h,1125000,3.3,1,0.0,146,Stonnington,Southern Metropolitan,113
+2,h,953000,4.4,1,0.0,274,Moonee Valley,Northern Metropolitan,94
+3,h,1502000,3.6,1,0.0,179,Yarra,Northern Metropolitan,54
+2,h,1015000,6.9,1,1.0,228,Moonee Valley,Western Metropolitan,113
+3,h,706500,25.0,2,3.0,723,Knox,Eastern Metropolitan,54
+3,u,801000,8.2,2,1.0,256,,Western Metropolitan,24
+3,h,1064000,7.8,2,1.0,417,Moreland,Northern Metropolitan,83
+2,u,512000,2.6,1,1.0,0,Yarra,Northern Metropolitan,53
+2,u,740000,10.2,1,2.0,193,Whitehorse,Southern Metropolitan,54
+2,u,450000,11.4,1,1.0,0,Glen Eira,Southern Metropolitan,53
+3,h,1100000,5.1,1,0.0,390,Maribyrnong,Western Metropolitan,54
+2,h,1255000,5.5,1,2.0,314,Darebin,Northern Metropolitan,54
+4,h,1400000,14.2,2,2.0,664,,Eastern Metropolitan,54
+3,h,1215000,13.9,2,3.0,730,Glen Eira,Southern Metropolitan,53
+3,h,1000000,7.5,2,2.0,213,Moonee Valley,Western Metropolitan,54
+2,h,820000,8.4,1,1.0,342,Hobsons Bay,Western Metropolitan,54
+4,h,630000,13.0,2,2.0,602,Moreland,Northern Metropolitan,73
+3,h,370000,17.4,1,1.0,784,,Northern Metropolitan,46
+3,h,678000,13.8,1,2.0,606,Hobsons Bay,Western Metropolitan,73
+4,h,1225000,6.4,2,1.0,319,Maribyrnong,Western Metropolitan,108
+2,h,722000,13.9,2,1.0,201,Glen Eira,Southern Metropolitan,18
+2,u,435000,6.2,1,1.0,1475,,Western Metropolitan,54
+4,h,1468000,13.9,2,2.0,806,Manningham,Eastern Metropolitan,48
+2,t,401500,19.6,2,1.0,149,Whittlesea,Northern Metropolitan,54
+4,h,1250000,25.2,2,2.0,560,Greater Dandenong,South-Eastern Metropolitan,19
+4,h,1520000,7.0,2,0.0,261,Maribyrnong,Western Metropolitan,113
+3,h,930000,14.5,2,2.0,847,Brimbank,Western Metropolitan,54
+2,h,765000,9.2,1,2.0,563,Moreland,Northern Metropolitan,98
+4,t,900000,11.7,3,2.0,381,Whitehorse,Southern Metropolitan,10
+3,h,1190000,8.8,2,2.0,572,Darebin,Northern Metropolitan,89
+2,h,1325000,5.1,1,0.0,140,Port Phillip,Southern Metropolitan,54
+3,h,1000000,8.8,1,2.0,463,Darebin,Northern Metropolitan,53
+3,h,860000,5.2,1,1.0,184,Moreland,Northern Metropolitan,133
+4,h,1875000,9.0,3,2.0,583,Banyule,Eastern Metropolitan,48
+3,h,1617000,13.8,1,2.0,650,Glen Eira,Southern Metropolitan,54
+3,h,988000,17.2,1,1.0,653,Whitehorse,Eastern Metropolitan,54
+4,h,1870000,8.0,1,1.0,700,Moonee Valley,Western Metropolitan,54
+3,h,650000,15.0,1,1.0,706,Banyule,Northern Metropolitan,53
+2,u,860000,13.8,1,1.0,230,Glen Eira,Southern Metropolitan,34
+4,h,1715157,11.2,3,2.0,380,Stonnington,Southern Metropolitan,16
+2,u,580000,13.8,2,1.0,175,Hobsons Bay,Western Metropolitan,10
+2,t,475000,10.8,1,1.0,115,Maribyrnong,Western Metropolitan,44
+4,h,1048700,8.7,2,2.0,452,Maribyrnong,Western Metropolitan,24
+2,t,851000,13.0,1,1.0,140,Glen Eira,Southern Metropolitan,53
+3,h,780000,11.2,1,2.0,697,Moreland,Northern Metropolitan,64
+3,h,2180000,5.4,1,2.0,372,,Southern Metropolitan,119
+3,h,860000,38.0,2,3.0,4780,Frankston,South-Eastern Metropolitan,54
+3,h,1903000,9.2,1,2.0,713,Boroondara,Southern Metropolitan,73
+3,h,740000,12.1,1,2.0,633,Darebin,Northern Metropolitan,54
+2,h,605000,11.2,1,6.0,589,,Northern Metropolitan,54
+2,t,1540000,4.5,2,1.0,113,Stonnington,Southern Metropolitan,78
+3,h,1101000,17.2,1,2.0,774,Whitehorse,Eastern Metropolitan,74
+3,h,528000,19.6,2,1.0,525,Whittlesea,Northern Metropolitan,54
+4,h,1120000,13.8,2,2.0,636,Manningham,Eastern Metropolitan,53
+4,h,932000,23.0,2,2.0,880,Maroondah,Eastern Metropolitan,54
+3,u,591000,7.8,1,1.0,0,Boroondara,Southern Metropolitan,63
+1,u,295000,10.1,1,1.0,0,Glen Eira,Southern Metropolitan,54
+3,h,1605000,9.0,1,1.0,624,Banyule,Eastern Metropolitan,73
+2,u,742000,13.7,3,2.0,245,Bayside,Southern Metropolitan,53
+4,h,1860000,11.0,2,3.0,696,Boroondara,Southern Metropolitan,23
+3,h,752500,20.8,1,2.0,623,Greater Dandenong,South-Eastern Metropolitan,74
+1,u,510000,7.0,1,2.0,0,Maribyrnong,Western Metropolitan,20
+3,h,1342000,3.8,2,2.0,173,Port Phillip,Southern Metropolitan,123
+3,h,560000,19.6,2,1.0,390,Whittlesea,Northern Metropolitan,17
+3,h,1020000,7.0,1,1.0,248,Maribyrnong,Western Metropolitan,54
+3,h,1240000,8.0,2,2.0,307,Moonee Valley,Western Metropolitan,53
+2,u,550000,10.1,2,1.0,1039,Glen Eira,Southern Metropolitan,54
+3,u,805000,2.7,1,1.0,0,Stonnington,Southern Metropolitan,54
+2,u,352500,9.2,1,1.0,15100,Maribyrnong,Western Metropolitan,12
+2,u,435000,4.5,1,1.0,0,Moreland,Northern Metropolitan,13
+3,h,4200000,4.6,4,2.0,565,Stonnington,Southern Metropolitan,18
+3,h,1555000,11.2,2,2.0,691,Stonnington,Southern Metropolitan,73
+3,h,510000,14.7,2,2.0,658,Wyndham,Western Metropolitan,40
+3,h,2380000,7.9,2,2.0,752,Boroondara,Southern Metropolitan,86
+1,u,492000,4.5,1,1.0,1768,Stonnington,Southern Metropolitan,136
+3,t,855000,4.3,1,2.0,159,Moonee Valley,Western Metropolitan,13
+2,h,1210000,2.6,1,0.0,178,Yarra,Northern Metropolitan,54
+5,h,1975000,5.6,2,1.0,531,Boroondara,Southern Metropolitan,133
+4,h,1690000,5.4,2,4.0,350,,Southern Metropolitan,124
+3,h,593000,13.9,2,2.0,605,Brimbank,Western Metropolitan,58
+5,h,883300,17.5,2,2.0,402,,South-Eastern Metropolitan,44
+3,h,921000,14.7,1,2.0,535,Kingston,South-Eastern Metropolitan,54
+4,h,2165000,7.3,3,2.0,409,Boroondara,Southern Metropolitan,8
+2,h,1200000,11.4,1,2.0,397,Glen Eira,Southern Metropolitan,84
+4,h,800000,6.3,2,2.0,277,,Western Metropolitan,74
+2,h,1535000,3.0,1,0.0,171,Port Phillip,Southern Metropolitan,124
+3,u,780000,7.7,1,1.0,0,Port Phillip,Southern Metropolitan,63
+1,u,280000,7.5,1,1.0,28,Moonee Valley,Western Metropolitan,54
+3,u,780000,16.7,2,1.0,318,Monash,South-Eastern Metropolitan,24
+3,h,1230000,3.5,1,0.0,340,,Southern Metropolitan,54
+3,h,1425000,9.2,2,2.0,217,Boroondara,Southern Metropolitan,18
+3,h,2300000,2.1,2,1.0,203,,Northern Metropolitan,134
+5,h,1400000,8.4,2,2.0,558,Darebin,Northern Metropolitan,99
+2,u,617500,11.8,1,1.0,94,Glen Eira,Southern Metropolitan,53
+3,t,1070000,7.0,2,2.0,257,Maribyrnong,Western Metropolitan,12
+4,h,870000,8.8,1,2.0,400,Darebin,Northern Metropolitan,133
+4,h,760000,8.8,8,7.0,1254,Darebin,Northern Metropolitan,95
+3,h,500000,28.8,1,3.0,621,Casey,South-Eastern Metropolitan,69
+3,h,620000,12.6,1,1.0,376,Brimbank,Western Metropolitan,53
+2,u,391000,2.6,1,1.0,0,Yarra,Northern Metropolitan,58
+2,u,450000,6.6,1,1.0,0,Port Phillip,Southern Metropolitan,64
+7,h,2600000,9.2,3,3.0,637,Boroondara,Southern Metropolitan,15
+2,t,731000,12.4,1,1.0,217,Manningham,Eastern Metropolitan,19
+3,h,800000,8.8,2,2.0,319,Darebin,Northern Metropolitan,84
+2,h,900000,8.8,1,1.0,529,Darebin,Northern Metropolitan,54
+4,h,1900000,6.8,2,1.0,448,Hobsons Bay,Western Metropolitan,26
+4,h,2830000,10.5,2,2.0,700,,Southern Metropolitan,94
+3,h,1775000,10.2,2,2.0,721,Boroondara,Southern Metropolitan,54
+3,h,1320000,10.8,1,3.0,902,Manningham,Eastern Metropolitan,54
+3,h,1010000,5.2,2,4.0,413,Moreland,Northern Metropolitan,114
+4,h,2850000,9.2,3,2.0,1184,Boroondara,Southern Metropolitan,88
+2,u,860000,2.7,1,1.0,644,,Southern Metropolitan,54
+3,h,1638000,8.4,1,1.0,697,Stonnington,Southern Metropolitan,54
+4,h,1210000,11.7,4,3.0,429,,Western Metropolitan,54
+2,h,605000,7.8,1,1.0,0,Moreland,Northern Metropolitan,54
+3,t,1137000,9.2,2,2.0,349,Boroondara,Southern Metropolitan,53
+4,h,3600000,4.6,2,2.0,815,Stonnington,Southern Metropolitan,54
+1,u,456000,2.1,1,1.0,0,Yarra,Northern Metropolitan,13
+3,h,630000,12.0,1,2.0,0,Darebin,Northern Metropolitan,54
+4,h,3100000,10.2,2,3.0,832,,Southern Metropolitan,54
+3,h,1150000,15.5,1,2.0,509,Monash,South-Eastern Metropolitan,54
+3,t,1500000,2.4,2,2.0,72,,Northern Metropolitan,13
+2,u,1250000,3.8,2,2.0,0,Port Phillip,Southern Metropolitan,20
+3,h,1390000,8.5,1,2.0,463,Glen Eira,Southern Metropolitan,53
+3,h,1950000,10.5,1,2.0,632,Bayside,Southern Metropolitan,54
+3,h,2850000,3.3,2,0.0,211,Port Phillip,Southern Metropolitan,134
+2,h,438000,8.2,1,2.0,0,Maribyrnong,Western Metropolitan,53
+2,u,680000,10.1,1,1.0,145,Glen Eira,Southern Metropolitan,14
+2,h,650000,6.7,1,1.0,149,Moreland,Northern Metropolitan,54
+3,h,675000,6.4,1,1.0,160,,Western Metropolitan,54
+3,t,950000,17.9,3,2.0,160,Bayside,Southern Metropolitan,11
+3,h,1500000,11.2,1,2.0,888,Stonnington,Southern Metropolitan,138
+3,h,905000,11.8,3,2.0,401,Manningham,Eastern Metropolitan,58
+3,h,1355000,13.9,1,2.0,818,Glen Eira,Southern Metropolitan,53
+3,h,2950000,16.7,1,2.0,1040,,South-Eastern Metropolitan,54
+1,u,275000,2.8,1,0.0,0,Melbourne,Northern Metropolitan,24
+5,h,950000,13.8,3,2.0,700,Manningham,Eastern Metropolitan,50
+2,h,700000,3.4,1,0.0,194,Yarra,Northern Metropolitan,54
+2,u,734600,2.6,2,1.0,2427,Melbourne,Northern Metropolitan,33
+2,u,420000,4.5,1,1.0,0,Moreland,Northern Metropolitan,53
+4,h,1750000,10.4,2,4.0,514,,Southern Metropolitan,24
+3,h,670000,13.3,1,2.0,532,Brimbank,Western Metropolitan,53
+4,t,1750000,11.4,3,2.0,429,Glen Eira,Southern Metropolitan,11
+2,h,780000,7.4,0,0.0,0,Stonnington,Southern Metropolitan,53
+3,h,616000,14.0,1,1.0,695,Hume,Northern Metropolitan,54
+4,h,1230000,11.7,4,2.0,538,,Western Metropolitan,34
+2,h,1000000,10.7,1,2.0,564,Glen Eira,Southern Metropolitan,75
+2,h,1189000,2.6,1,0.0,158,Yarra,Northern Metropolitan,123
+3,h,1012000,4.4,1,1.0,212,Moonee Valley,Northern Metropolitan,93
+4,h,586000,12.9,1,3.0,0,Hume,Western Metropolitan,49
+4,h,1605000,5.1,1,1.0,230,Stonnington,Southern Metropolitan,54
+3,h,663500,24.8,1,2.0,736,Knox,Eastern Metropolitan,54
+4,h,1436000,7.5,3,3.0,511,,Western Metropolitan,102
+2,h,1000000,1.6,1,0.0,128,Yarra,Northern Metropolitan,53
+1,u,365000,4.6,1,1.0,0,Boroondara,Southern Metropolitan,48
+2,u,800000,1.9,2,2.0,0,Melbourne,Southern Metropolitan,53
+3,h,1177000,15.4,2,2.0,561,Whitehorse,Eastern Metropolitan,54
+4,h,635000,12.9,2,2.0,634,Hume,Western Metropolitan,44
+4,h,2575000,9.2,3,2.0,657,Boroondara,Southern Metropolitan,17
+2,u,690000,12.2,1,1.0,216,Monash,Southern Metropolitan,20
+2,h,1805000,2.6,1,1.0,187,Melbourne,Northern Metropolitan,133
+2,h,619000,12.4,1,2.0,640,Moreland,Northern Metropolitan,53
+4,h,1214000,16.7,2,2.0,694,,Eastern Metropolitan,54
+3,h,910000,6.4,1,1.0,361,Maribyrnong,Western Metropolitan,83
+4,h,977000,6.4,2,1.0,154,Maribyrnong,Western Metropolitan,16
+4,t,1060000,13.9,3,1.0,313,Glen Eira,Southern Metropolitan,63
+3,h,940000,8.5,1,1.0,559,Moreland,Northern Metropolitan,69
+3,h,520000,18.4,1,0.0,609,Wyndham,Western Metropolitan,38
+2,u,400000,5.9,1,1.0,73,Moreland,Northern Metropolitan,63
+3,h,540000,12.9,1,1.0,607,,Western Metropolitan,54
+5,h,3400000,9.7,6,4.0,739,Boroondara,Southern Metropolitan,53
+4,h,2550000,3.0,2,2.0,152,,Southern Metropolitan,114
+3,t,860000,13.9,2,1.0,210,Glen Eira,Southern Metropolitan,18
+2,u,615888,6.2,1,1.0,915,Boroondara,Southern Metropolitan,54
+2,u,520000,8.0,1,2.0,0,Moonee Valley,Western Metropolitan,48
+1,u,305000,8.1,1,1.0,750,Glen Eira,Southern Metropolitan,59
+2,u,623500,17.3,1,1.0,159,Bayside,Southern Metropolitan,54
+3,h,1300000,7.5,1,2.0,378,Boroondara,Southern Metropolitan,53
+4,h,1328000,13.0,2,2.0,610,Glen Eira,Southern Metropolitan,83
+4,h,3050000,11.2,4,2.0,578,Bayside,Southern Metropolitan,29
+3,t,1130000,1.9,2,2.0,116,Melbourne,Northern Metropolitan,21
+3,h,1245000,8.0,2,2.0,292,Hobsons Bay,Western Metropolitan,44
+4,h,1680000,13.7,1,1.0,723,Bayside,Southern Metropolitan,68
+2,h,900000,6.5,1,1.0,497,Darebin,Northern Metropolitan,53
+2,t,486500,13.9,1,1.0,0,Glen Eira,Southern Metropolitan,63
+1,u,365000,6.5,1,1.0,0,Darebin,Northern Metropolitan,53
+4,h,792500,34.1,2,2.0,846,,South-Eastern Metropolitan,28
+4,h,875000,11.1,1,4.0,559,Hobsons Bay,Western Metropolitan,58
+4,t,1700000,3.5,3,2.0,127,Yarra,Northern Metropolitan,16
+3,h,1280000,3.2,1,0.0,203,Yarra,Northern Metropolitan,53
+4,h,1650000,13.8,2,2.0,673,Manningham,Eastern Metropolitan,18
+2,u,420000,13.0,1,1.0,0,Monash,Southern Metropolitan,13
+5,h,1300000,5.2,2,0.0,479,Moreland,Northern Metropolitan,54
+6,h,1900000,9.2,1,6.0,691,Boroondara,Southern Metropolitan,53
+2,u,625000,9.7,1,1.0,115,Boroondara,Southern Metropolitan,63
+3,h,1155000,7.8,2,2.0,269,Maribyrnong,Western Metropolitan,108
+4,h,1000000,14.6,3,4.0,581,Kingston,Southern Metropolitan,63
+2,h,940000,5.1,1,0.0,207,Maribyrnong,Western Metropolitan,114
+3,h,1355000,13.9,1,1.0,814,Manningham,Eastern Metropolitan,59
+3,u,460000,13.0,2,1.0,190,Moreland,Northern Metropolitan,53
+3,h,970000,11.2,2,2.0,701,Moreland,Northern Metropolitan,54
+2,t,420000,13.0,1,1.0,307,Moreland,Northern Metropolitan,53
+3,h,1655000,3.8,1,1.0,220,Port Phillip,Southern Metropolitan,54
+2,u,505000,6.5,1,0.0,0,Darebin,Northern Metropolitan,43
+3,h,1462000,16.7,1,1.0,816,Monash,South-Eastern Metropolitan,59
+4,h,770000,11.2,3,3.0,697,Darebin,Northern Metropolitan,54
+3,h,1007500,6.2,1,1.0,450,,Western Metropolitan,54
+3,h,878500,7.7,2,1.0,75,Port Phillip,Southern Metropolitan,21
+3,h,770000,10.5,1,2.0,608,,Western Metropolitan,64
+3,h,917500,8.8,2,2.0,472,Darebin,Northern Metropolitan,59
+3,h,838000,13.8,2,1.0,467,Manningham,Eastern Metropolitan,53
+3,h,1360000,11.0,2,6.0,663,Hobsons Bay,Western Metropolitan,54
+4,h,1790000,11.0,2,2.0,514,Boroondara,Southern Metropolitan,88
+4,h,1126000,8.0,1,1.0,307,Hobsons Bay,Western Metropolitan,123
+2,h,1210000,3.5,1,1.0,223,Yarra,Northern Metropolitan,138
+5,h,850000,19.9,3,2.0,651,Maroondah,Eastern Metropolitan,54
+2,u,891000,5.6,1,1.0,121,Boroondara,Southern Metropolitan,53
+3,h,1600000,11.2,2,2.0,266,Bayside,Southern Metropolitan,23
+3,h,1406000,9.8,1,1.0,34,Moonee Valley,Western Metropolitan,54
+2,h,1150000,3.4,1,0.0,147,Melbourne,Northern Metropolitan,134
+2,u,983500,11.4,1,1.0,333,Glen Eira,Southern Metropolitan,53
+2,u,802500,6.2,1,2.0,966,Boroondara,Southern Metropolitan,54
+3,h,1251000,11.2,2,1.0,536,Boroondara,Southern Metropolitan,93
+3,h,2236000,2.6,2,1.0,154,Melbourne,Northern Metropolitan,133
+2,h,1005000,5.9,1,1.0,284,Moreland,Northern Metropolitan,97
+1,u,380000,4.4,1,1.0,2077,Moonee Valley,Northern Metropolitan,54
+3,h,1085000,34.6,2,2.0,76000,Yarra Ranges,Eastern Victoria,54
+4,h,1610000,12.3,2,2.0,592,Monash,Southern Metropolitan,74
+4,h,1505000,6.9,2,2.0,441,Moonee Valley,Western Metropolitan,114
+5,h,1475000,13.9,2,2.0,729,Glen Eira,Southern Metropolitan,53
+2,h,960000,4.2,1,0.0,179,Melbourne,Northern Metropolitan,123
+3,h,1195000,2.5,2,1.0,120,Yarra,Northern Metropolitan,25
+2,h,701000,6.6,1,0.0,164,Maribyrnong,Western Metropolitan,113
+3,u,830000,5.1,2,2.0,0,Stonnington,Southern Metropolitan,23
+3,u,750000,3.3,2,2.0,0,Melbourne,Southern Metropolitan,53
+3,h,1275000,9.2,2,2.0,669,Boroondara,Southern Metropolitan,53
+2,h,1417000,3.4,1,0.0,197,Yarra,Northern Metropolitan,53
+3,h,1300000,11.7,1,2.0,773,Monash,Southern Metropolitan,63
+4,h,3335000,2.6,2,2.0,319,Yarra,Northern Metropolitan,130
+3,h,1222500,13.0,2,2.0,299,Glen Eira,Southern Metropolitan,23
+2,u,626000,8.5,1,1.0,1764,Glen Eira,Southern Metropolitan,93
+2,h,490000,10.6,1,1.0,187,Banyule,Eastern Metropolitan,43
+4,h,1138000,11.2,2,2.0,697,Moreland,Northern Metropolitan,64
+2,u,390000,6.4,1,1.0,0,Darebin,Northern Metropolitan,63
+4,h,2345000,1.8,1,1.0,284,Melbourne,Northern Metropolitan,53
+3,u,840000,4.6,1,1.0,1678,Stonnington,Southern Metropolitan,84
+3,h,800000,8.4,2,1.0,0,Hobsons Bay,Western Metropolitan,53
+2,h,876000,6.4,1,1.0,369,Maribyrnong,Western Metropolitan,54
+3,h,605000,15.3,1,2.0,533,Whittlesea,Northern Metropolitan,49
+3,h,1170000,9.3,1,1.0,359,Glen Eira,Southern Metropolitan,53
+4,h,720000,14.8,2,2.0,595,Brimbank,Western Metropolitan,54
+2,h,920000,8.8,2,2.0,516,Darebin,Northern Metropolitan,88
+2,h,941000,2.5,1,0.0,181,Yarra,Northern Metropolitan,53
+4,h,720000,25.9,2,2.0,573,,Northern Metropolitan,54
+3,h,660000,11.2,1,1.0,754,Darebin,Northern Metropolitan,53
+3,h,900000,13.8,2,2.0,264,Glen Eira,Southern Metropolitan,54
+3,h,2075000,2.1,2,0.0,141,Port Phillip,Southern Metropolitan,133
+4,h,821000,11.4,1,2.0,403,Banyule,Eastern Metropolitan,73
+3,h,687000,12.4,2,1.0,577,Moreland,Northern Metropolitan,54
+3,h,955000,7.0,2,2.0,206,Maribyrnong,Western Metropolitan,17
+2,u,470000,6.1,1,1.0,0,Port Phillip,Southern Metropolitan,53
+2,t,510000,8.7,2,1.0,176,Maribyrnong,Western Metropolitan,13
+3,h,1291000,5.9,1,2.0,414,Moonee Valley,Western Metropolitan,53
+2,u,905500,11.2,1,1.0,122,Bayside,Southern Metropolitan,53
+3,h,485000,13.6,2,1.0,175,Moreland,Western Metropolitan,19
+2,u,587000,13.7,1,1.0,0,Bayside,Southern Metropolitan,48
+4,h,2042000,5.3,1,0.0,566,Darebin,Northern Metropolitan,54
+2,h,1222500,3.5,1,2.0,487,Moreland,Northern Metropolitan,83
+2,u,588000,11.4,1,1.0,133,Glen Eira,Southern Metropolitan,12
+2,h,810000,11.2,1,2.0,950,Darebin,Northern Metropolitan,54
+3,h,1250000,2.6,2,1.0,120,Yarra,Northern Metropolitan,13
+4,h,2668000,4.6,2,2.0,383,,Southern Metropolitan,54
+2,h,380000,11.2,1,1.0,159,Darebin,Northern Metropolitan,33
+2,u,750000,2.6,1,1.0,2193,Melbourne,Northern Metropolitan,53
+4,h,2188000,9.7,2,2.0,752,Boroondara,Southern Metropolitan,42
+4,h,1822000,5.5,1,8.0,728,Darebin,Northern Metropolitan,124
+3,h,600000,10.5,2,2.0,251,Banyule,Eastern Metropolitan,11
+2,h,791000,11.2,1,3.0,720,Darebin,Northern Metropolitan,53
+2,h,980000,13.0,1,1.0,387,Monash,Southern Metropolitan,128
+2,u,560000,13.1,1,1.0,153,Whitehorse,Eastern Metropolitan,53
+2,u,630000,4.5,1,1.0,0,Stonnington,Southern Metropolitan,54
+2,u,684000,7.7,1,0.0,0,Port Phillip,Southern Metropolitan,93
+3,h,1935000,10.5,2,1.0,385,Bayside,Southern Metropolitan,84
+3,h,2350000,5.8,2,4.0,735,Darebin,Northern Metropolitan,73
+3,t,800000,13.8,2,2.0,280,Hobsons Bay,Western Metropolitan,26
+3,h,1000000,22.2,2,2.0,1088,Knox,Eastern Metropolitan,54
+4,h,2117000,5.6,1,2.0,520,Boroondara,Southern Metropolitan,53
+3,h,1325000,2.3,2,1.0,97,Melbourne,Northern Metropolitan,12
+2,u,500000,2.6,1,1.0,0,Yarra,Northern Metropolitan,12
+3,h,1365000,8.0,1,1.0,754,Moonee Valley,Western Metropolitan,53
+4,h,920000,35.2,5,2.0,638,Casey,Eastern Victoria,10
+3,h,1400000,6.9,2,2.0,394,Moonee Valley,Western Metropolitan,133
+2,u,1300000,11.2,2,2.0,0,Bayside,Southern Metropolitan,54
+3,h,1305000,5.9,1,1.0,278,Moonee Valley,Western Metropolitan,123
+2,t,930000,2.6,1,1.0,97,Yarra,Northern Metropolitan,19
+3,h,855000,12.0,1,2.0,464,,Northern Metropolitan,54
+2,u,560000,4.6,1,0.0,0,Boroondara,Southern Metropolitan,64
+3,h,1588000,10.4,2,2.0,708,,Southern Metropolitan,54
+3,h,1275000,5.2,1,1.0,406,Moreland,Northern Metropolitan,124
+2,u,560000,21.3,1,2.0,217,Maroondah,Eastern Metropolitan,39
+5,h,2980000,13.7,3,2.0,694,Bayside,Southern Metropolitan,12
+5,h,2050000,10.7,3,3.0,669,Bayside,Southern Metropolitan,53
+3,h,1121000,8.8,2,3.0,604,Darebin,Northern Metropolitan,99
+2,h,635000,7.8,2,3.0,339,Moreland,Northern Metropolitan,104
+2,h,920000,10.1,1,1.0,431,Glen Eira,Southern Metropolitan,54
+3,h,1038000,9.2,2,1.0,207,Boroondara,Southern Metropolitan,20
+5,h,1775000,10.4,2,3.0,791,,Southern Metropolitan,64
+1,u,340000,2.3,1,1.0,0,Melbourne,Northern Metropolitan,53
+3,h,632000,14.9,1,2.0,650,Banyule,Northern Metropolitan,54
+4,h,762000,10.5,2,2.0,589,Moonee Valley,Western Metropolitan,62
+3,h,1325000,10.4,1,1.0,756,Monash,Southern Metropolitan,54
+3,h,616000,23.2,2,0.0,586,Maroondah,Eastern Metropolitan,25
+3,h,944000,11.2,1,2.0,597,Moonee Valley,Western Metropolitan,54
+4,h,2800000,11.2,3,3.0,596,Bayside,Southern Metropolitan,53
+2,u,1016000,9.0,1,2.0,0,Boroondara,Southern Metropolitan,53
+2,h,1196000,7.0,1,2.0,451,Maribyrnong,Western Metropolitan,54
+2,h,760000,6.2,1,0.0,251,Moonee Valley,Western Metropolitan,44
+3,h,460000,20.6,2,3.0,266,Hume,Northern Metropolitan,24
+3,h,680000,8.8,1,0.0,544,Banyule,Eastern Metropolitan,54
+3,h,1700000,3.3,1,1.0,178,Stonnington,Southern Metropolitan,129
+2,h,680000,15.4,1,1.0,189,Whitehorse,Eastern Metropolitan,23
+4,h,735000,20.6,2,2.0,771,,Northern Metropolitan,18
+2,h,888000,1.6,1,0.0,112,Yarra,Northern Metropolitan,124
+2,u,820000,3.5,2,2.0,4604,,Southern Metropolitan,54
+2,h,700000,7.8,1,2.0,381,Moreland,Northern Metropolitan,98
+2,h,1723000,9.2,1,1.0,553,Boroondara,Southern Metropolitan,53
+1,u,370000,4.2,1,1.0,0,Melbourne,Northern Metropolitan,11
+2,t,520000,9.9,1,1.0,0,Moreland,Northern Metropolitan,13
+2,h,950000,7.0,1,0.0,94,Maribyrnong,Western Metropolitan,54
+2,u,810000,7.2,1,1.0,0,Port Phillip,Southern Metropolitan,89
+3,h,1365000,12.2,1,1.0,792,Monash,Southern Metropolitan,73
+3,h,1420200,6.9,2,2.0,543,Moonee Valley,Western Metropolitan,54
+1,u,310000,3.3,1,1.0,0,Melbourne,Southern Metropolitan,53
+4,h,1200000,8.0,3,2.0,183,Hobsons Bay,Western Metropolitan,18
+2,u,571750,6.5,1,1.0,0,Darebin,Northern Metropolitan,11
+3,h,899000,13.9,1,1.0,583,Glen Eira,Southern Metropolitan,53
+2,h,1211000,6.5,1,0.0,302,Darebin,Northern Metropolitan,109
+3,h,1230000,6.2,1,1.0,396,Hobsons Bay,Western Metropolitan,124
+3,h,1985000,4.6,2,1.0,254,Boroondara,Southern Metropolitan,114
+3,h,990000,5.2,1,2.0,410,Moreland,Northern Metropolitan,53
+3,h,780000,26.0,2,1.0,862,,Eastern Metropolitan,38
+4,h,1868000,13.9,2,2.0,925,Manningham,Eastern Metropolitan,63
+5,h,1560000,9.2,2,3.0,845,Boroondara,Southern Metropolitan,43
+3,h,1200000,2.1,2,0.0,113,Port Phillip,Southern Metropolitan,113
+2,u,502000,12.0,1,2.0,230,Darebin,Northern Metropolitan,9
+2,u,746000,13.9,1,2.0,281,Glen Eira,Southern Metropolitan,21
+4,h,1780000,6.9,3,2.0,615,Moonee Valley,Western Metropolitan,104
+3,h,700000,16.3,1,1.0,537,,Northern Metropolitan,49
+2,u,660000,4.6,1,1.0,0,Stonnington,Southern Metropolitan,54
+5,h,2020000,25.0,3,0.0,2735,Knox,Eastern Metropolitan,54
+2,u,526000,7.7,1,0.0,0,Port Phillip,Southern Metropolitan,93
+3,u,1150000,5.3,2,1.0,5259,Boroondara,Southern Metropolitan,24
+3,h,1590000,10.3,2,3.0,594,,Southern Metropolitan,54
+4,t,995000,9.7,3,1.0,260,Moonee Valley,Western Metropolitan,54
+4,h,1350000,15.5,2,2.0,1025,Manningham,Eastern Metropolitan,44
+2,h,1570000,9.9,1,1.0,746,Moreland,Northern Metropolitan,73
+3,h,665000,11.2,1,4.0,503,Darebin,Northern Metropolitan,53
+4,h,1131000,7.8,2,2.0,494,Moreland,Northern Metropolitan,22
+2,u,721000,9.2,2,1.0,2696,Stonnington,Southern Metropolitan,54
+2,h,840000,5.2,1,1.0,186,Moreland,Northern Metropolitan,53
+3,h,573000,19.6,2,2.0,637,Whittlesea,Northern Metropolitan,34
+4,h,681000,19.6,2,2.0,647,,Northern Metropolitan,54
+3,h,431250,31.7,2,2.0,650,,Western Metropolitan,54
+2,u,805000,4.6,1,1.0,0,Boroondara,Southern Metropolitan,53
+3,h,920000,11.0,2,2.0,584,,Western Metropolitan,54
+3,t,1225000,7.2,2,2.0,0,Port Phillip,Southern Metropolitan,16
+3,h,1265000,15.5,1,1.0,743,Monash,South-Eastern Metropolitan,54
+4,h,1300000,16.0,2,2.0,604,Bayside,Southern Metropolitan,54
+3,h,918000,11.7,2,2.0,669,Moonee Valley,Western Metropolitan,24
+3,h,1535000,8.2,1,2.0,811,Moonee Valley,Western Metropolitan,99
+1,u,392000,3.4,1,1.0,0,Melbourne,Northern Metropolitan,23
+4,h,1280000,13.4,2,1.0,797,Whitehorse,Eastern Metropolitan,64
+3,h,1280000,11.0,1,1.0,798,Hobsons Bay,Western Metropolitan,54
+2,u,390000,9.2,1,1.0,0,Stonnington,Southern Metropolitan,53
+1,u,290000,8.1,1,1.0,952,Glen Eira,Southern Metropolitan,53
+5,h,1285000,16.7,2,1.0,651,,Eastern Metropolitan,54
+3,h,460000,12.6,1,1.0,306,Brimbank,Western Metropolitan,53
+4,h,1620000,1.6,2,1.0,132,Yarra,Northern Metropolitan,143
+2,h,950000,14.6,1,3.0,649,Kingston,Southern Metropolitan,73
+3,h,1430000,9.7,1,1.0,694,Moonee Valley,Western Metropolitan,73
+3,h,1400000,3.5,2,0.0,107,Yarra,Northern Metropolitan,54
+5,h,2730000,11.2,3,2.0,895,Bayside,Southern Metropolitan,85
+4,h,2450000,7.5,3,2.0,523,Boroondara,Southern Metropolitan,68
+3,h,714000,16.1,1,1.0,594,Nillumbik,Northern Metropolitan,31
+2,h,670000,1.6,1,0.0,118,Yarra,Northern Metropolitan,54
+4,t,1162500,8.0,2,1.0,230,Moonee Valley,Western Metropolitan,54
+3,h,1226000,8.8,1,4.0,707,Darebin,Northern Metropolitan,53
+2,h,730000,5.2,1,0.0,190,Moreland,Northern Metropolitan,54
+3,h,2400000,4.6,2,1.0,224,Stonnington,Southern Metropolitan,74
+2,u,457000,8.0,1,1.0,0,Moonee Valley,Western Metropolitan,53
+4,h,1690000,5.6,3,1.0,358,Boroondara,Southern Metropolitan,54
+4,h,410000,31.7,2,2.0,587,Hume,Western Metropolitan,38
+2,u,432000,11.2,1,1.0,137,Darebin,Northern Metropolitan,53
+1,u,450000,3.3,1,1.0,0,Stonnington,Southern Metropolitan,10
+3,t,865000,8.7,2,2.0,151,Maribyrnong,Western Metropolitan,13
+3,h,1320000,7.5,2,1.0,213,Boroondara,Southern Metropolitan,133
+4,h,2125000,11.2,2,2.0,702,Boroondara,Southern Metropolitan,96
+1,u,395000,5.3,1,1.0,910,Boroondara,Southern Metropolitan,54
+3,h,580000,15.3,1,2.0,538,Whittlesea,Northern Metropolitan,49
+4,h,1421000,13.8,2,2.0,650,Manningham,Eastern Metropolitan,43
+2,h,895000,8.5,1,1.0,147,Glen Eira,Southern Metropolitan,108
+3,t,995000,20.0,3,2.0,248,,South-Eastern Metropolitan,13
+3,h,1020000,8.8,2,2.0,670,Darebin,Northern Metropolitan,54
+3,h,1520000,7.7,2,1.0,362,Port Phillip,Southern Metropolitan,124
+3,t,2200000,13.7,2,3.0,1402,Bayside,Southern Metropolitan,53
+2,u,782000,7.0,1,1.0,1555,Maribyrnong,Western Metropolitan,11
+3,h,1300000,9.2,1,2.0,464,Boroondara,Southern Metropolitan,53
+3,h,660000,10.8,1,0.0,580,Maribyrnong,Western Metropolitan,53
+4,t,1185000,13.9,2,2.0,305,Glen Eira,Southern Metropolitan,11
+2,h,610000,12.1,1,1.0,394,Moreland,Northern Metropolitan,73
+3,u,760000,2.6,2,1.0,0,Yarra,Northern Metropolitan,18
+2,u,390000,11.2,1,1.0,133,Darebin,Northern Metropolitan,11
+3,h,572000,14.8,3,6.0,585,Brimbank,Western Metropolitan,54
+2,h,610000,10.8,1,2.0,555,Maribyrnong,Western Metropolitan,74
+2,u,825000,9.7,2,2.0,288,Boroondara,Southern Metropolitan,54
+2,u,565000,11.2,1,2.0,193,Moreland,Northern Metropolitan,29
+4,h,1475000,11.8,2,2.0,617,Manningham,Eastern Metropolitan,25
+2,t,520000,8.2,1,1.0,148,Maribyrnong,Western Metropolitan,53
+4,h,1210000,5.2,2,1.0,373,Moreland,Northern Metropolitan,15
+4,h,900000,7.5,1,1.0,478,,Western Metropolitan,54
+3,h,1350000,13.4,1,1.0,697,,Eastern Metropolitan,74
+3,h,835000,12.8,2,2.0,700,Moonee Valley,Western Metropolitan,44
+2,u,620000,1.9,1,1.0,0,Melbourne,Northern Metropolitan,21
+3,h,995000,5.9,2,1.0,314,Moonee Valley,Western Metropolitan,13
+3,h,960000,11.2,1,2.0,626,Moonee Valley,Western Metropolitan,54
+3,h,1280000,2.4,1,1.0,185,Yarra,Northern Metropolitan,54
+4,h,465000,20.6,2,1.0,417,,Northern Metropolitan,25
+3,h,2115000,3.3,2,0.0,140,Port Phillip,Southern Metropolitan,54
+2,u,592500,6.3,1,1.0,0,Stonnington,Southern Metropolitan,53
+3,h,1680000,7.9,2,2.0,665,Banyule,Eastern Metropolitan,54
+3,h,1112000,13.4,1,3.0,632,Whitehorse,Eastern Metropolitan,54
+2,h,1366000,7.3,2,1.0,241,,Southern Metropolitan,54
+2,u,902000,6.1,1,0.0,0,Port Phillip,Southern Metropolitan,104
+2,h,860000,7.8,1,1.0,483,Moreland,Northern Metropolitan,53
+3,h,700000,7.8,1,1.0,138,Moreland,Northern Metropolitan,24
+3,t,1040000,7.0,2,0.0,352,Maribyrnong,Western Metropolitan,7
+3,u,616000,14.5,1,2.0,431,Brimbank,Western Metropolitan,54
+2,u,600000,6.9,1,1.0,166,Moonee Valley,Western Metropolitan,58
+3,h,775000,7.7,1,1.0,435,Hobsons Bay,Western Metropolitan,54
+3,h,2000000,7.4,1,2.0,360,Stonnington,Southern Metropolitan,54
+5,h,2000000,7.8,3,2.0,801,Boroondara,Southern Metropolitan,103
+5,h,2425000,5.6,3,1.0,520,Boroondara,Southern Metropolitan,54
+2,h,710000,13.9,1,1.0,0,Glen Eira,Southern Metropolitan,73
+3,h,535000,14.8,2,2.0,472,Melton,Western Metropolitan,19
+4,h,3000000,6.3,3,2.0,474,,Southern Metropolitan,109
+3,h,575000,13.5,1,2.0,686,Brimbank,Western Metropolitan,53
+3,h,1175000,11.7,1,2.0,661,Whitehorse,Southern Metropolitan,53
+2,t,810000,2.6,1,1.0,94,Yarra,Northern Metropolitan,53
+3,h,620000,12.4,1,2.0,604,Moreland,Northern Metropolitan,53
+3,h,840000,13.9,1,0.0,697,Brimbank,Western Metropolitan,103
+4,h,710000,16.3,1,1.0,627,Whittlesea,Northern Metropolitan,54
+3,h,527000,12.4,1,1.0,609,Moreland,Northern Metropolitan,63
+2,h,1172500,2.5,1,1.0,195,Yarra,Northern Metropolitan,53
+2,h,890000,8.4,1,0.0,165,Hobsons Bay,Western Metropolitan,54
+2,h,1350000,3.8,1,1.0,195,Melbourne,Southern Metropolitan,123
+2,u,390000,25.5,1,1.0,197,Whittlesea,Northern Metropolitan,54
+3,h,751000,11.2,1,2.0,604,Darebin,Northern Metropolitan,83
+3,h,985100,14.7,1,2.0,621,Monash,South-Eastern Metropolitan,74
+3,t,750000,7.9,1,1.0,110,Banyule,Eastern Metropolitan,33
+2,u,520000,11.2,1,1.0,1647,Bayside,Southern Metropolitan,20
+5,h,1350000,8.4,3,4.0,525,Darebin,Northern Metropolitan,10
+2,h,955000,5.2,1,0.0,1328,Moreland,Northern Metropolitan,144
+3,t,1405000,5.4,2,2.0,325,Boroondara,Southern Metropolitan,44
+5,h,762500,11.2,2,2.0,548,Darebin,Northern Metropolitan,33
+4,h,1086000,10.5,2,2.0,724,Banyule,Eastern Metropolitan,63
+3,h,1650000,10.2,1,2.0,964,Monash,Southern Metropolitan,54
+2,u,540000,2.3,1,1.0,0,Melbourne,Northern Metropolitan,53
+4,h,2650000,11.0,3,2.0,753,Boroondara,Southern Metropolitan,8
+3,h,637000,9.2,1,4.0,498,Moreland,Northern Metropolitan,73
+2,h,890000,5.6,1,1.0,0,Boroondara,Southern Metropolitan,53
+3,h,1030000,6.1,1,1.0,292,Port Phillip,Southern Metropolitan,53
+4,h,1050000,21.1,2,2.0,1529,Manningham,Eastern Metropolitan,54
+2,u,587500,4.6,1,1.0,1099,Boroondara,Southern Metropolitan,58
+2,u,841000,4.5,2,1.0,0,Stonnington,Southern Metropolitan,174
+3,t,900000,8.5,2,1.0,0,Moreland,Northern Metropolitan,10
+7,h,1300000,9.8,2,2.0,614,Moonee Valley,Western Metropolitan,53
+3,h,2410000,4.6,2,0.0,249,Boroondara,Southern Metropolitan,134
+4,h,540000,31.7,2,2.0,650,,Western Metropolitan,29
+3,h,952000,14.5,2,2.0,246,Bayside,Southern Metropolitan,53
+1,u,350000,7.2,1,0.0,0,Port Phillip,Southern Metropolitan,64
+3,u,765000,9.4,2,1.0,0,Moonee Valley,Western Metropolitan,21
+5,h,2255000,15.2,3,2.0,556,Bayside,Southern Metropolitan,12
+3,h,1340000,11.8,1,2.0,775,Manningham,Eastern Metropolitan,58
+4,h,2000000,9.2,2,2.0,627,Boroondara,Southern Metropolitan,54
+3,h,872500,7.0,1,2.0,189,Maribyrnong,Western Metropolitan,104
+4,t,2250000,11.2,2,2.0,230,Bayside,Southern Metropolitan,11
+3,h,998000,11.2,2,3.0,479,Darebin,Northern Metropolitan,73
+1,u,400000,5.5,1,1.0,0,Darebin,Northern Metropolitan,9
+4,h,1800000,2.4,1,4.0,418,,Northern Metropolitan,54
+2,h,925000,6.5,1,1.0,258,Darebin,Northern Metropolitan,53
+4,t,1680000,9.2,3,1.0,362,Boroondara,Southern Metropolitan,10
+3,h,985500,23.0,1,2.0,973,Maroondah,Eastern Metropolitan,54
+3,h,920000,8.4,1,2.0,693,Darebin,Northern Metropolitan,74
+2,u,462000,6.5,1,1.0,0,Darebin,Northern Metropolitan,54
+2,u,481000,6.1,1,1.0,0,Port Phillip,Southern Metropolitan,57
+4,h,1820000,10.1,2,1.0,632,Glen Eira,Southern Metropolitan,109
+2,h,860000,2.6,1,0.0,111,Yarra,Northern Metropolitan,54
+2,u,600000,5.3,1,1.0,0,Boroondara,Southern Metropolitan,10
+3,h,1005000,23.0,1,8.0,1082,,Eastern Metropolitan,54
+4,h,815000,12.1,2,1.0,525,,Northern Metropolitan,59
+2,u,521000,8.0,1,1.0,0,Moonee Valley,Western Metropolitan,53
+2,u,460000,7.5,1,1.0,0,Boroondara,Southern Metropolitan,56
+3,h,800000,23.2,2,5.0,931,,Eastern Metropolitan,54
+3,h,650000,22.7,1,1.0,603,Greater Dandenong,South-Eastern Metropolitan,54
+3,h,1870000,11.2,2,1.0,400,Stonnington,Southern Metropolitan,93
+2,u,800000,1.2,2,2.0,0,Melbourne,Southern Metropolitan,9
+4,t,855000,13.9,2,2.0,242,Manningham,Eastern Metropolitan,53
+3,h,2150000,9.0,2,2.0,1232,Banyule,Eastern Metropolitan,53
+3,h,928000,23.0,1,1.0,981,Maroondah,Eastern Metropolitan,54
+2,u,515000,13.5,1,1.0,141,Moonee Valley,Western Metropolitan,10
+3,h,2330000,7.9,2,4.0,656,Boroondara,Southern Metropolitan,54
+2,u,450000,8.0,1,2.0,0,Hobsons Bay,Western Metropolitan,53
+4,h,1000000,15.4,2,2.0,624,,Eastern Metropolitan,54
+3,u,763000,5.2,1,1.0,138,Moreland,Northern Metropolitan,54
+4,h,2185000,21.5,2,3.0,220,Kingston,South-Eastern Metropolitan,14
+3,h,1157000,6.7,1,1.0,480,Moreland,Northern Metropolitan,54
+2,h,777000,9.4,1,0.0,649,Banyule,Eastern Metropolitan,54
+3,t,790000,9.9,3,1.0,291,Moreland,Northern Metropolitan,14
+3,u,660000,5.4,1,1.0,1096,Boroondara,Southern Metropolitan,54
+2,u,543000,7.2,1,1.0,0,Port Phillip,Southern Metropolitan,64
+4,t,1450000,7.9,3,2.0,232,Boroondara,Southern Metropolitan,54
+5,h,2520000,17.3,3,2.0,947,Bayside,Southern Metropolitan,54
+3,u,910000,13.9,2,2.0,299,Manningham,Eastern Metropolitan,22
+3,h,1525000,13.8,1,3.0,581,Glen Eira,Southern Metropolitan,84
+3,h,1340000,2.3,1,0.0,83,Melbourne,Northern Metropolitan,44
+4,h,1830000,11.2,2,2.0,436,Bayside,Southern Metropolitan,53
+2,u,750000,7.7,1,1.0,0,Port Phillip,Southern Metropolitan,93
+4,h,2000000,6.1,2,3.0,420,Port Phillip,Southern Metropolitan,114
+4,h,700000,12.6,2,1.0,807,Brimbank,Western Metropolitan,53
+4,h,1400000,6.2,2,1.0,375,Moonee Valley,Western Metropolitan,94
+2,h,1135000,2.0,1,0.0,144,Yarra,Northern Metropolitan,144
+2,h,710000,12.6,1,2.0,619,Brimbank,Western Metropolitan,54
+4,h,1595000,13.8,1,2.0,581,,Southern Metropolitan,64
+4,h,880000,11.7,1,1.0,534,Moonee Valley,Western Metropolitan,54
+2,h,725000,12.4,1,2.0,606,Moreland,Northern Metropolitan,54
+3,h,1150000,13.8,2,2.0,649,Manningham,Eastern Metropolitan,53
+3,h,450000,11.2,2,2.0,185,Darebin,Northern Metropolitan,53
+2,h,1020000,15.4,1,1.0,581,Whitehorse,Eastern Metropolitan,54
+2,u,765000,11.4,1,1.0,134,Glen Eira,Southern Metropolitan,58
+3,t,1060000,11.4,2,2.0,1606,,Southern Metropolitan,54
+3,t,882000,13.9,2,2.0,208,Glen Eira,Southern Metropolitan,53
+4,h,1905000,38.0,2,2.0,1471,,South-Eastern Metropolitan,64
+1,u,320000,6.1,2,1.0,0,Port Phillip,Southern Metropolitan,10
+4,h,1310000,14.3,2,2.0,664,,Eastern Metropolitan,54
+3,h,1097000,5.9,1,1.0,372,Moreland,Northern Metropolitan,54
+2,h,635000,11.2,1,1.0,608,Darebin,Northern Metropolitan,53
+5,h,1562500,11.2,2,2.0,655,Bayside,Southern Metropolitan,98
+1,u,331000,8.0,1,1.0,0,Hobsons Bay,Western Metropolitan,53
+3,u,1336000,10.5,2,1.0,249,Bayside,Southern Metropolitan,54
+3,h,2325000,4.6,2,1.0,373,Boroondara,Southern Metropolitan,53
+3,h,880000,9.2,1,1.0,586,Maribyrnong,Western Metropolitan,54
+4,h,1880000,11.4,2,3.0,932,Glen Eira,Southern Metropolitan,53
+4,h,3310000,1.6,4,2.0,337,Yarra,Northern Metropolitan,169
+4,h,845000,12.8,1,1.0,622,Moonee Valley,Western Metropolitan,58
+2,u,370000,11.4,1,1.0,0,Glen Eira,Southern Metropolitan,73
+4,h,2265000,7.9,2,2.0,925,Banyule,Eastern Metropolitan,99
+5,h,2170000,4.6,1,0.0,333,Stonnington,Southern Metropolitan,53
+5,h,2250000,9.7,3,2.0,600,Boroondara,Southern Metropolitan,17
+3,h,1000000,8.8,1,2.0,621,Darebin,Northern Metropolitan,53
+3,t,664000,24.8,2,1.0,219,Knox,Eastern Metropolitan,14
+3,t,620000,8.2,1,2.0,255,Maribyrnong,Western Metropolitan,22
+3,h,1028000,8.2,2,2.0,520,Maribyrnong,Western Metropolitan,54
+2,h,1114000,12.3,1,1.0,703,Monash,Southern Metropolitan,64
+1,u,310000,4.6,1,1.0,0,Boroondara,Southern Metropolitan,53
+4,h,2700000,13.0,3,2.0,628,Glen Eira,Southern Metropolitan,53
+1,u,355000,2.4,1,0.0,1082,Yarra,Northern Metropolitan,54
+3,h,1300000,9.7,2,2.0,975,Boroondara,Southern Metropolitan,39
+3,h,870000,6.4,1,2.0,417,,Western Metropolitan,74
+3,h,660000,13.8,1,1.0,602,Hobsons Bay,Western Metropolitan,68
+3,h,1285000,7.3,2,2.0,374,,Southern Metropolitan,84
+3,h,1240000,5.3,1,1.0,247,Darebin,Northern Metropolitan,54
+3,h,1605000,5.3,1,0.0,507,Darebin,Northern Metropolitan,54
+4,h,1610000,7.5,2,2.0,763,Boroondara,Southern Metropolitan,53
+4,t,1000000,5.6,3,2.0,317,Boroondara,Southern Metropolitan,53
+4,t,900000,5.9,3,2.0,0,Moonee Valley,Western Metropolitan,13
+2,h,860000,5.2,1,1.0,298,Moreland,Northern Metropolitan,113
+2,u,310000,6.4,1,1.0,0,Maribyrnong,Western Metropolitan,53
+2,t,470000,8.7,2,1.0,0,Maribyrnong,Western Metropolitan,53
+3,h,940000,11.4,2,2.0,581,Banyule,Eastern Metropolitan,54
+4,h,1950000,9.2,3,2.0,665,Boroondara,Southern Metropolitan,53
+3,h,975000,11.2,1,1.0,822,Moonee Valley,Western Metropolitan,53
+3,t,830000,13.9,2,2.0,292,Glen Eira,Southern Metropolitan,11
+1,u,291000,12.1,1,1.0,0,Glen Eira,Southern Metropolitan,53
+3,h,971000,5.9,2,2.0,285,Moonee Valley,Western Metropolitan,123
+3,t,897500,1.6,2,1.0,82,Yarra,Northern Metropolitan,28
+3,h,1300000,7.3,1,2.0,403,,Southern Metropolitan,64
+5,h,1665000,8.9,2,2.0,593,Glen Eira,Southern Metropolitan,53
+1,u,210000,6.4,1,1.0,0,Maribyrnong,Western Metropolitan,54
+3,h,1180000,7.8,2,2.0,588,Moreland,Northern Metropolitan,54
+3,t,781000,8.9,2,2.0,137,Banyule,Eastern Metropolitan,24
+1,u,365000,7.4,1,1.0,0,Stonnington,Southern Metropolitan,64
+3,h,1830000,11.0,2,3.0,724,Boroondara,Southern Metropolitan,84
+4,h,830000,8.4,1,2.0,540,Darebin,Northern Metropolitan,59
+4,h,635000,14.7,2,2.0,334,,Western Metropolitan,24
+3,h,1210000,5.2,2,1.0,280,Moreland,Northern Metropolitan,133
+3,h,1100000,10.3,2,1.0,555,Banyule,Eastern Metropolitan,35
+3,h,1420000,4.6,1,0.0,218,Boroondara,Southern Metropolitan,133
+3,h,1660000,3.4,1,2.0,290,Yarra,Northern Metropolitan,54
+1,u,415000,6.9,1,1.0,0,Moonee Valley,Western Metropolitan,53
+3,u,995000,1.9,1,1.0,0,Melbourne,Northern Metropolitan,84
+4,h,1375000,2.6,2,2.0,58,Yarra,Northern Metropolitan,16
+2,u,902000,6.1,1,1.0,18,Port Phillip,Southern Metropolitan,54
+3,h,880000,12.0,2,3.0,743,Darebin,Northern Metropolitan,54
+3,h,487000,16.3,1,1.0,533,Whittlesea,Northern Metropolitan,54
+2,h,630000,7.0,2,2.0,168,Maribyrnong,Western Metropolitan,23
+2,h,890000,8.0,1,1.0,649,Moonee Valley,Western Metropolitan,73
+3,h,965000,6.2,1,2.0,478,,Western Metropolitan,54
+2,h,950000,5.5,1,1.0,191,Darebin,Northern Metropolitan,103
+1,u,420000,7.4,1,3.0,0,Stonnington,Southern Metropolitan,53
+2,u,525000,11.2,1,2.0,284,Darebin,Northern Metropolitan,9
+3,h,1230000,13.0,1,2.0,676,Glen Eira,Southern Metropolitan,54
+3,h,1199000,11.4,1,2.0,383,Glen Eira,Southern Metropolitan,54
+4,h,1940000,10.7,2,2.0,682,Bayside,Southern Metropolitan,63
+3,t,702000,6.4,2,2.0,189,Maribyrnong,Western Metropolitan,24
+4,h,1920000,6.8,2,0.0,388,Hobsons Bay,Western Metropolitan,124
+2,t,955000,7.3,1,1.0,197,Stonnington,Southern Metropolitan,54
+2,u,600000,3.8,2,1.0,995,Port Phillip,Southern Metropolitan,53
+4,h,810000,20.5,2,2.0,639,Whittlesea,Northern Metropolitan,54
+1,u,481000,5.0,1,1.0,0,Port Phillip,Southern Metropolitan,84
+4,h,640000,15.5,2,1.0,729,Brimbank,Western Metropolitan,37
+4,h,1918000,11.8,2,1.0,678,Glen Eira,Southern Metropolitan,103
+2,h,657000,11.2,2,1.0,268,Moonee Valley,Western Metropolitan,73
+3,h,1320000,7.0,2,2.0,473,Maribyrnong,Western Metropolitan,104
+1,u,241000,8.2,1,1.0,0,Maribyrnong,Western Metropolitan,54
+2,h,1060000,3.8,1,0.0,106,Port Phillip,Southern Metropolitan,113
+3,h,1350000,5.9,1,3.0,575,Moonee Valley,Western Metropolitan,54
+3,h,910000,9.7,1,2.0,692,Moonee Valley,Western Metropolitan,63
+2,u,410000,7.5,1,1.0,0,Moonee Valley,Western Metropolitan,59
+3,u,500000,14.0,1,1.0,388,Brimbank,Western Metropolitan,32
+2,u,444000,8.8,1,1.0,94,Banyule,Eastern Metropolitan,54
+3,h,916000,11.1,1,2.0,606,Hobsons Bay,Western Metropolitan,54
+3,h,825000,9.5,1,4.0,603,Moonee Valley,Western Metropolitan,54
+3,h,504000,13.6,2,1.0,215,Moreland,Western Metropolitan,19
+2,u,630000,4.2,2,1.0,0,Melbourne,Northern Metropolitan,54
+4,h,2400000,7.7,2,2.0,560,Port Phillip,Southern Metropolitan,103
+2,u,275000,9.2,1,1.0,1972,Maribyrnong,Western Metropolitan,63
+4,h,1686500,13.7,2,2.0,664,Bayside,Southern Metropolitan,53
+5,h,1322000,13.9,1,0.0,729,Manningham,Eastern Metropolitan,53
+2,u,411000,8.0,1,1.0,0,Moonee Valley,Western Metropolitan,53
+3,t,545000,13.0,2,1.0,136,Moreland,Northern Metropolitan,9
+4,h,1305000,6.2,1,1.0,449,,Western Metropolitan,114
+4,h,1255000,22.2,2,3.0,624,Kingston,South-Eastern Metropolitan,20
+4,h,1030000,9.4,3,2.0,533,Hobsons Bay,Western Metropolitan,54
+3,h,900000,11.2,2,2.0,634,Darebin,Northern Metropolitan,53
+3,h,625000,12.6,1,1.0,459,Brimbank,Western Metropolitan,68
+2,h,1290000,6.2,2,2.0,0,Stonnington,Southern Metropolitan,53
+3,h,1500000,5.8,1,1.0,0,Darebin,Northern Metropolitan,113
+2,h,770000,3.5,2,1.0,134,Yarra,Northern Metropolitan,118
+3,u,850000,10.4,2,1.0,307,Moonee Valley,Western Metropolitan,54
+3,h,500000,20.6,2,2.0,448,Hume,Northern Metropolitan,16
+2,u,827000,3.3,2,2.0,17200,Stonnington,Southern Metropolitan,23
+2,u,760000,13.7,1,1.0,90,Bayside,Southern Metropolitan,38
+4,h,706000,14.0,1,4.0,752,Hume,Northern Metropolitan,64
+4,h,632500,14.0,2,2.0,592,Brimbank,Western Metropolitan,54
+2,u,488000,8.7,2,2.0,0,Maribyrnong,Western Metropolitan,53
+3,h,1460000,13.7,2,2.0,413,Bayside,Southern Metropolitan,53
+3,h,1450000,5.3,1,0.0,216,,Southern Metropolitan,134
+3,u,820000,8.0,1,1.0,0,Moonee Valley,Western Metropolitan,53
+3,t,640000,7.8,1,2.0,119,Moreland,Northern Metropolitan,28
+3,t,1140000,13.7,2,2.0,224,Bayside,Southern Metropolitan,24
+2,h,640000,12.1,1,1.0,612,Moreland,Northern Metropolitan,53
+2,u,470000,9.5,1,1.0,1150,,Western Metropolitan,54
+2,t,800000,20.0,1,1.0,0,Kingston,South-Eastern Metropolitan,44
+3,h,602000,17.9,1,1.0,546,Whittlesea,Northern Metropolitan,47
+3,t,1400000,4.6,2,2.0,299,Boroondara,Southern Metropolitan,63
+2,h,815000,1.2,1,0.0,0,Melbourne,Southern Metropolitan,53
+2,u,840000,7.5,1,1.0,150,Boroondara,Southern Metropolitan,55
+2,h,1300000,9.1,1,5.0,528,Moonee Valley,Western Metropolitan,53
+3,h,850000,11.2,2,2.0,795,Moonee Valley,Western Metropolitan,54
+3,h,1365000,8.1,1,0.0,513,Glen Eira,Southern Metropolitan,53
+3,h,1155000,6.4,2,1.0,342,Maribyrnong,Western Metropolitan,104
+3,u,570000,4.2,1,2.0,0,Moonee Valley,Northern Metropolitan,34
+3,h,1440000,5.6,1,1.0,298,Boroondara,Southern Metropolitan,123
+2,h,326500,8.2,1,2.0,626,Maribyrnong,Western Metropolitan,54
+3,h,685000,14.5,2,2.0,260,Brimbank,Western Metropolitan,53
+3,h,620000,34.1,2,2.0,668,Casey,South-Eastern Metropolitan,54
+2,u,560000,9.2,1,1.0,0,Boroondara,Southern Metropolitan,73
+3,h,1375000,5.8,1,1.0,496,Darebin,Northern Metropolitan,113
+4,h,1060000,18.0,2,2.0,842,,Eastern Metropolitan,44
+3,h,1055000,8.8,1,2.0,575,Darebin,Northern Metropolitan,54
+4,h,1950000,9.2,2,2.0,775,Boroondara,Southern Metropolitan,64
+3,h,520000,14.7,2,2.0,312,Wyndham,Western Metropolitan,10
+3,h,1346000,2.6,1,1.0,207,Yarra,Northern Metropolitan,53
+2,h,1100000,13.0,1,3.0,579,Glen Eira,Southern Metropolitan,54
+1,u,285000,8.9,1,1.0,0,Hobsons Bay,Western Metropolitan,53
+2,h,685000,9.2,1,1.0,177,Boroondara,Southern Metropolitan,48
+4,h,1215000,11.2,2,2.0,207,Stonnington,Southern Metropolitan,54
+5,h,1660000,9.2,3,2.0,737,Boroondara,Southern Metropolitan,73
+4,h,3460000,7.4,2,2.0,502,Stonnington,Southern Metropolitan,7
+2,u,425000,4.2,1,1.0,0,Melbourne,Northern Metropolitan,17
+1,u,405000,2.5,1,1.0,0,Yarra,Northern Metropolitan,16
+3,h,690000,16.3,1,2.0,535,,Northern Metropolitan,54
+3,h,1190000,12.4,1,1.0,723,,Eastern Metropolitan,54
+4,h,950000,10.4,1,2.0,558,Moonee Valley,Western Metropolitan,54
+3,h,550000,15.3,1,2.0,551,Whittlesea,Northern Metropolitan,54
+3,t,1333000,7.3,2,1.0,344,,Southern Metropolitan,54
+4,h,1900000,4.5,2,1.0,227,Moreland,Northern Metropolitan,53
+2,u,851000,3.3,1,1.0,284,Stonnington,Southern Metropolitan,54
+3,h,2310000,5.6,1,2.0,782,Boroondara,Southern Metropolitan,103
+2,h,1668000,11.8,1,2.0,595,Glen Eira,Southern Metropolitan,53
+3,h,1452000,9.2,2,2.0,269,Stonnington,Southern Metropolitan,27
+2,u,675000,4.5,2,1.0,0,Moreland,Northern Metropolitan,54
+3,h,620000,31.4,2,1.0,863,Yarra Ranges,Northern Victoria,49
+2,h,1035000,5.5,1,0.0,140,Darebin,Northern Metropolitan,54
+2,h,935000,11.2,1,1.0,537,Darebin,Northern Metropolitan,54
+4,h,576000,18.4,2,1.0,570,Wyndham,Western Metropolitan,54
+2,u,483000,2.8,1,1.0,0,Melbourne,Northern Metropolitan,20
+2,h,1220000,2.6,1,1.0,80,Yarra,Northern Metropolitan,53
+2,u,700000,6.4,0,0.0,0,Port Phillip,Southern Metropolitan,54
+2,h,1177000,5.1,2,2.0,521,Stonnington,Southern Metropolitan,24
+4,h,3335000,5.3,2,2.0,371,Boroondara,Southern Metropolitan,134
+5,h,3800000,5.6,5,3.0,609,Boroondara,Southern Metropolitan,54
+2,h,1010000,9.7,0,0.0,1611,Boroondara,Southern Metropolitan,53
+3,h,647000,19.6,2,4.0,614,,Northern Metropolitan,54
+3,h,2500000,3.0,2,1.0,165,Port Phillip,Southern Metropolitan,134
+4,h,2960000,11.2,2,4.0,798,Stonnington,Southern Metropolitan,53
+3,h,1250000,8.9,1,0.0,668,Banyule,Eastern Metropolitan,54
+3,u,720000,6.1,1,1.0,0,Port Phillip,Southern Metropolitan,53
+3,h,1660000,9.2,1,2.0,297,Boroondara,Southern Metropolitan,93
+2,h,621000,21.8,1,0.0,610,Nillumbik,Northern Victoria,85
+4,h,1479000,11.4,2,2.0,603,Glen Eira,Southern Metropolitan,104
+2,h,800000,2.3,2,1.0,55,Melbourne,Northern Metropolitan,12
+2,u,663000,4.6,1,1.0,0,Boroondara,Southern Metropolitan,53
+2,u,506000,4.2,1,1.0,0,Melbourne,Northern Metropolitan,53
+4,h,1100000,8.5,2,0.0,147,Glen Eira,Southern Metropolitan,113
+3,h,871000,11.2,1,3.0,614,Darebin,Northern Metropolitan,53
+3,h,1676000,5.5,1,2.0,401,Darebin,Northern Metropolitan,53
+4,h,1025000,12.7,2,2.0,585,,Northern Metropolitan,10
+3,u,700000,11.2,1,1.0,202,Moonee Valley,Western Metropolitan,53
+3,t,820000,8.5,2,2.0,108,Glen Eira,Southern Metropolitan,21
+3,h,1705000,10.6,1,2.0,1547,Banyule,Eastern Metropolitan,53
+3,t,1200000,11.8,2,2.0,255,Whitehorse,Eastern Metropolitan,23
+4,h,763000,31.7,2,2.0,1011,,Western Metropolitan,54
+2,h,1010000,1.8,1,0.0,101,Melbourne,Northern Metropolitan,144
+3,h,810000,9.4,2,0.0,747,Banyule,Eastern Metropolitan,54
+3,h,755000,12.9,1,1.0,935,Hume,Western Metropolitan,49
+4,h,2600000,13.7,1,2.0,1504,Bayside,Southern Metropolitan,123
+2,h,417000,13.0,1,1.0,172,Moreland,Northern Metropolitan,10
+2,h,594000,24.8,1,1.0,550,,Eastern Metropolitan,54
+1,u,345000,7.0,1,1.0,0,Maribyrnong,Western Metropolitan,53
+1,u,468000,5.0,1,1.0,0,Port Phillip,Southern Metropolitan,24
+3,h,930000,8.8,1,2.0,679,Darebin,Northern Metropolitan,73
+3,h,601000,32.3,2,4.0,604,Casey,South-Eastern Metropolitan,29
+4,h,970000,12.8,2,4.0,659,Moonee Valley,Western Metropolitan,53
+3,h,985000,9.1,1,5.0,669,Hobsons Bay,Western Metropolitan,73
+3,h,1300000,5.7,2,4.0,579,,Northern Metropolitan,64
+3,h,1031100,11.7,1,1.0,602,,Western Metropolitan,54
+1,h,1700000,8.4,1,0.0,622,Hobsons Bay,Western Metropolitan,54
+4,h,1351000,11.8,2,2.0,740,Manningham,Eastern Metropolitan,53
+3,h,1910000,4.1,1,3.0,217,Port Phillip,Southern Metropolitan,123
+3,u,791500,2.6,2,2.0,0,Yarra,Northern Metropolitan,18
+4,h,1136000,7.8,3,1.0,420,Moreland,Northern Metropolitan,104
+2,u,602000,19.9,1,1.0,209,Maroondah,Eastern Metropolitan,28
+3,h,420000,29.8,2,2.0,599,Melton,Western Victoria,54
+3,h,2010000,3.0,1,0.0,207,Port Phillip,Southern Metropolitan,134
+1,u,560000,6.2,1,1.0,803,Boroondara,Southern Metropolitan,54
+5,h,970000,23.5,3,2.0,725,Knox,South-Eastern Metropolitan,54
+3,h,670000,15.3,2,2.0,541,Whittlesea,Northern Metropolitan,44
+2,h,1200500,6.1,1,0.0,201,Port Phillip,Southern Metropolitan,108
+3,h,740000,12.1,1,1.0,568,Moreland,Northern Metropolitan,63
+2,h,906000,8.5,1,1.0,221,Glen Eira,Southern Metropolitan,53
+3,h,700000,8.8,1,2.0,562,Darebin,Northern Metropolitan,53
+3,h,644000,20.5,2,4.0,492,Whittlesea,Northern Metropolitan,17
+3,h,1305000,8.4,1,0.0,357,Hobsons Bay,Western Metropolitan,123
+1,u,541000,4.6,1,1.0,0,Stonnington,Southern Metropolitan,53
+3,h,722000,14.5,1,1.0,695,Brimbank,Western Metropolitan,53
+2,u,305000,6.4,1,1.0,47,Maribyrnong,Western Metropolitan,11
+3,t,881000,20.0,2,1.0,332,,South-Eastern Metropolitan,54
+3,h,2150000,10.3,1,2.0,696,Bayside,Southern Metropolitan,54
+1,u,390500,4.0,1,1.0,0,Moreland,Northern Metropolitan,13
+3,h,1427000,6.5,1,1.0,275,Darebin,Northern Metropolitan,103
+1,u,422000,3.3,1,0.0,0,Stonnington,Southern Metropolitan,54
+2,u,610000,4.6,2,1.0,85,Boroondara,Southern Metropolitan,10
+3,h,737000,11.2,3,6.0,957,Darebin,Northern Metropolitan,53
+2,h,685000,7.8,1,1.0,220,Maribyrnong,Western Metropolitan,133
+4,h,1545000,13.9,3,2.0,647,Manningham,Eastern Metropolitan,54
+2,u,430000,11.2,1,1.0,152,Darebin,Northern Metropolitan,53
+2,u,750000,11.8,2,2.0,0,Whitehorse,Eastern Metropolitan,20
+3,h,716000,12.1,1,2.0,594,Moreland,Northern Metropolitan,53
+5,h,2300000,11.4,2,2.0,904,Glen Eira,Southern Metropolitan,54
+3,t,1060000,7.9,0,0.0,219,Banyule,Eastern Metropolitan,44
+2,u,479000,2.6,1,1.0,534,Yarra,Northern Metropolitan,54
+4,h,1900000,9.2,4,2.0,708,Boroondara,Southern Metropolitan,38
+3,h,1064000,5.8,1,1.0,235,Darebin,Northern Metropolitan,123
+3,h,840000,12.6,1,1.0,462,Brimbank,Western Metropolitan,94
+2,h,910500,12.1,1,2.0,313,Glen Eira,Southern Metropolitan,53
+4,h,807000,45.9,2,3.0,40468,Macedon Ranges,Northern Victoria,54
+3,h,1800000,3.3,1,1.0,253,Port Phillip,Southern Metropolitan,53
+3,h,480000,9.4,1,1.0,338,Banyule,Eastern Metropolitan,43
+5,h,3600000,9.7,3,2.0,678,Boroondara,Southern Metropolitan,53
+3,h,1305000,3.8,2,2.0,303,Port Phillip,Southern Metropolitan,53
+3,h,2415000,7.4,1,3.0,696,Stonnington,Southern Metropolitan,113
+2,u,1400000,4.6,2,2.0,2927,Stonnington,Southern Metropolitan,53
+1,u,520000,7.7,1,1.0,0,Port Phillip,Southern Metropolitan,93
+3,t,1215000,17.3,2,2.0,314,Bayside,Southern Metropolitan,54
+3,h,1205000,11.2,1,2.0,490,Whitehorse,Southern Metropolitan,53
+3,h,1195000,10.6,1,1.0,662,Banyule,Eastern Metropolitan,73
+3,h,755000,11.5,2,1.0,341,Moreland,Northern Metropolitan,21
+4,h,1510000,21.5,2,4.0,387,Kingston,South-Eastern Metropolitan,54
+1,u,455000,1.2,1,0.0,760,Melbourne,Southern Metropolitan,17
+3,h,718500,11.2,1,6.0,807,Darebin,Northern Metropolitan,48
+3,t,865000,6.5,2,2.0,158,Darebin,Northern Metropolitan,53
+3,h,2085000,9.2,1,2.0,715,Boroondara,Southern Metropolitan,54
+2,h,991000,5.1,1,1.0,318,Maribyrnong,Western Metropolitan,114
+2,u,1035000,3.8,2,1.0,0,Port Phillip,Southern Metropolitan,20
+3,h,2450000,11.2,3,2.0,482,Bayside,Southern Metropolitan,54
+3,h,1302500,11.2,2,2.0,0,Bayside,Southern Metropolitan,30
+3,h,963500,11.2,2,6.0,697,Moreland,Northern Metropolitan,64
+2,u,677000,7.7,1,1.0,131,Boroondara,Southern Metropolitan,49
+3,h,725000,10.5,1,4.0,606,Moonee Valley,Western Metropolitan,53
+4,h,850000,11.2,3,2.0,641,Moonee Valley,Western Metropolitan,53
+3,t,968000,11.0,1,1.0,227,Boroondara,Southern Metropolitan,53
+2,h,1145000,2.6,1,1.0,197,Yarra,Northern Metropolitan,63
+3,h,1370000,7.8,1,1.0,233,Moreland,Northern Metropolitan,134
+3,h,1301000,2.4,1,1.0,163,Yarra,Northern Metropolitan,34
+5,h,2250000,15.2,3,2.0,640,Bayside,Southern Metropolitan,44
+2,h,1125000,6.3,1,2.0,169,Stonnington,Southern Metropolitan,53
+2,t,385000,18.4,1,1.0,206,Wyndham,Western Metropolitan,54
+4,h,527000,14.7,2,2.0,400,,Western Metropolitan,13
+2,u,350000,10.4,1,1.0,0,Glen Eira,Southern Metropolitan,63
+4,h,2400000,13.7,2,2.0,663,Bayside,Southern Metropolitan,53
+4,h,3360000,9.2,3,1.0,904,Boroondara,Southern Metropolitan,20
+2,u,695000,7.7,1,1.0,845,Port Phillip,Southern Metropolitan,54
+3,h,2302000,5.1,1,4.0,440,Stonnington,Southern Metropolitan,129
+2,u,655000,8.1,1,1.0,0,Glen Eira,Southern Metropolitan,54
+5,h,791000,11.2,3,1.0,961,Darebin,Northern Metropolitan,53
+2,h,1056000,5.2,1,1.0,315,Moreland,Northern Metropolitan,113
+2,h,1010000,13.9,1,1.0,597,Glen Eira,Southern Metropolitan,53
+2,h,1850000,9.7,1,1.0,1015,Boroondara,Southern Metropolitan,93
+2,t,700000,11.4,2,1.0,106,Glen Eira,Southern Metropolitan,53
+2,t,805000,5.8,1,1.0,140,Darebin,Northern Metropolitan,15
+2,h,1350000,5.1,1,1.0,157,Port Phillip,Southern Metropolitan,123
+2,u,825000,7.7,1,2.0,0,Port Phillip,Southern Metropolitan,93
+2,u,474000,5.1,1,1.0,0,Port Phillip,Southern Metropolitan,38
+1,h,1185000,4.5,1,0.0,365,Moreland,Northern Metropolitan,54
+3,h,778000,14.7,2,2.0,306,Knox,Eastern Metropolitan,12
+2,h,1700000,6.2,1,1.0,223,,Southern Metropolitan,54
+2,u,533000,3.4,1,1.0,0,Yarra,Northern Metropolitan,53
+3,t,455000,12.4,2,1.0,738,Moreland,Northern Metropolitan,14
+3,h,1640000,7.8,1,2.0,617,Banyule,Eastern Metropolitan,94
+4,h,2170000,10.2,2,2.0,697,Boroondara,Southern Metropolitan,54
+1,u,488000,4.6,1,1.0,0,Boroondara,Southern Metropolitan,19
+3,h,600000,8.8,1,2.0,481,Banyule,Eastern Metropolitan,54
+2,u,800000,8.0,1,2.0,502,Moonee Valley,Western Metropolitan,53
+3,t,930000,11.7,2,1.0,0,Monash,Southern Metropolitan,13
+4,h,2408000,8.4,2,2.0,654,Boroondara,Southern Metropolitan,79
+3,h,890000,14.6,1,1.0,698,Kingston,Southern Metropolitan,63
+2,h,677776,7.8,1,2.0,0,Moreland,Northern Metropolitan,44
+4,h,1280000,9.7,2,2.0,689,Moonee Valley,Western Metropolitan,47
+4,h,1200000,16.7,3,3.0,858,Monash,South-Eastern Metropolitan,54
+2,u,720000,13.7,1,1.0,832,Bayside,Southern Metropolitan,53
+4,h,785000,12.0,2,2.0,534,,Northern Metropolitan,54
+2,u,656000,5.9,1,1.0,0,Moreland,Northern Metropolitan,54
+1,u,365000,7.5,1,0.0,2274,Boroondara,Southern Metropolitan,53
+3,h,521000,16.3,1,2.0,589,Whittlesea,Northern Metropolitan,49
+3,h,1335000,13.8,1,1.0,625,,Southern Metropolitan,54
+3,h,600500,15.3,1,1.0,552,,Northern Metropolitan,54
+3,h,2375000,11.2,2,2.0,470,Bayside,Southern Metropolitan,54
+2,u,1010000,4.6,2,2.0,586,Stonnington,Southern Metropolitan,34
+2,h,1300000,1.6,1,1.0,157,Yarra,Northern Metropolitan,123
+2,u,745000,7.0,1,1.0,120,Darebin,Northern Metropolitan,49
+4,t,1575000,9.7,2,2.0,392,Boroondara,Southern Metropolitan,17
+3,h,1301000,16.2,2,2.0,636,Banyule,Eastern Metropolitan,44
+4,h,2200000,11.2,2,2.0,734,Boroondara,Southern Metropolitan,103
+4,h,1445000,6.9,3,2.0,384,Moonee Valley,Western Metropolitan,103
+3,h,767500,6.4,2,0.0,458,Maribyrnong,Western Metropolitan,93
+4,h,455000,14.7,1,4.0,534,Wyndham,Western Metropolitan,41
+2,u,720000,7.2,1,2.0,797,Port Phillip,Southern Metropolitan,104
+2,h,790000,8.2,1,1.0,259,Maribyrnong,Western Metropolitan,53
+3,h,508000,28.8,1,2.0,680,Casey,South-Eastern Metropolitan,54
+3,t,430000,14.8,2,2.0,194,Melton,Western Metropolitan,14
+3,h,900000,9.9,1,1.0,570,Moreland,Northern Metropolitan,73
+4,h,2016000,9.2,2,3.0,733,Boroondara,Southern Metropolitan,54
+1,u,210000,2.8,1,0.0,0,Melbourne,Northern Metropolitan,53
+1,u,535000,4.6,1,1.0,918,Boroondara,Southern Metropolitan,18
+4,h,1580000,10.8,2,2.0,773,Manningham,Eastern Metropolitan,54
+4,h,840000,8.8,1,2.0,390,Darebin,Northern Metropolitan,73
+1,u,420000,7.2,1,1.0,1192,Port Phillip,Southern Metropolitan,15
+2,u,755000,5.2,1,0.0,0,Moreland,Northern Metropolitan,54
+3,u,700000,13.9,2,2.0,0,Manningham,Eastern Metropolitan,16
+3,h,740000,12.8,1,2.0,684,Moonee Valley,Western Metropolitan,53
+1,u,275500,9.3,1,1.0,0,Glen Eira,Southern Metropolitan,63
+2,u,680000,7.7,1,1.0,510,Port Phillip,Southern Metropolitan,54
+3,h,873000,9.2,1,2.0,625,Maribyrnong,Western Metropolitan,54
+2,u,760000,4.6,1,1.0,0,Stonnington,Southern Metropolitan,54
+3,h,1068000,14.7,2,2.0,609,Monash,South-Eastern Metropolitan,53
+3,h,900000,16.1,1,2.0,726,Manningham,Eastern Metropolitan,54
+6,h,1245000,11.4,3,4.0,911,Banyule,Eastern Metropolitan,53
+3,u,730000,13.8,2,1.0,69,Hobsons Bay,Western Metropolitan,9
+2,u,535000,4.2,2,1.0,2592,Melbourne,Northern Metropolitan,12
+3,h,780000,13.9,1,1.0,710,Glen Eira,Southern Metropolitan,57
+3,h,1000000,2.5,1,0.0,198,Yarra,Northern Metropolitan,124
+2,u,625000,14.7,1,1.0,204,Monash,South-Eastern Metropolitan,53
+3,h,582500,20.6,1,0.0,947,,Northern Metropolitan,52
+3,h,1560000,8.0,2,2.0,310,Hobsons Bay,Western Metropolitan,18
+3,h,430000,14.7,1,1.0,454,,Western Metropolitan,54
+1,u,375000,5.3,1,1.0,0,Boroondara,Southern Metropolitan,54
+3,h,550000,12.4,1,1.0,583,Moreland,Northern Metropolitan,53
+2,u,580000,1.2,1,1.0,0,Melbourne,Southern Metropolitan,30
+3,h,2950000,9.7,2,2.0,650,Boroondara,Southern Metropolitan,53
+3,h,1760000,1.6,1,2.0,9405,,Northern Metropolitan,144
+3,h,1000000,3.5,1,0.0,249,Yarra,Northern Metropolitan,54
+3,h,441000,19.6,2,1.0,210,Whittlesea,Northern Metropolitan,54
+3,u,1060000,2.1,2,2.0,6367,Yarra,Northern Metropolitan,54
+4,h,866000,12.0,2,4.0,576,,Northern Metropolitan,84
+4,h,1600000,1.8,2,1.0,635,Melbourne,Northern Metropolitan,53
+3,u,880000,11.2,1,2.0,217,Whitehorse,Southern Metropolitan,54
+2,u,720000,9.2,1,2.0,0,Boroondara,Southern Metropolitan,84
+4,h,1100000,6.4,1,2.0,633,Maribyrnong,Western Metropolitan,53
+2,u,490000,11.2,1,1.0,143,Darebin,Northern Metropolitan,15
+3,h,1131500,7.0,1,1.0,248,Maribyrnong,Western Metropolitan,54
+3,u,835000,12.1,1,1.0,181,Glen Eira,Southern Metropolitan,48
+3,h,1080000,3.8,1,2.0,116,Port Phillip,Southern Metropolitan,113
+3,h,500000,13.0,1,4.0,677,Moreland,Northern Metropolitan,54
+3,h,970000,8.4,1,1.0,345,Darebin,Northern Metropolitan,74
+3,h,572000,11.2,1,2.0,41400,Darebin,Northern Metropolitan,53
+2,u,516000,3.8,1,1.0,0,Port Phillip,Southern Metropolitan,19
+3,h,810000,8.2,1,3.0,492,,Western Metropolitan,54
+4,h,2033000,1.8,2,2.0,123,Melbourne,Northern Metropolitan,53
+2,u,420500,4.4,1,1.0,0,Moonee Valley,Northern Metropolitan,53
+2,h,501000,4.0,1,1.0,71,Moreland,Northern Metropolitan,54
+2,t,701000,5.5,1,1.0,0,Darebin,Northern Metropolitan,23
+2,u,750000,2.6,2,1.0,0,Yarra,Northern Metropolitan,23
+2,u,610000,11.2,1,1.0,102,Whitehorse,Southern Metropolitan,53
+3,h,800000,18.8,2,2.0,324,Monash,South-Eastern Metropolitan,54
+3,t,2050000,4.6,2,2.0,339,Stonnington,Southern Metropolitan,53
+1,u,480000,1.2,1,1.0,3878,Melbourne,Southern Metropolitan,11
+2,h,2210000,2.7,2,1.0,187,Melbourne,Southern Metropolitan,134
+5,h,1700000,7.5,3,2.0,431,Boroondara,Southern Metropolitan,103
+3,h,875000,10.5,1,3.0,812,Moonee Valley,Western Metropolitan,64
+2,u,541000,8.5,1,1.0,133,Moreland,Northern Metropolitan,54
+2,u,950000,3.8,2,1.0,98,Port Phillip,Southern Metropolitan,19
+2,u,400000,5.2,1,1.0,0,Moreland,Northern Metropolitan,53
+3,h,950000,8.4,2,1.0,224,Hobsons Bay,Western Metropolitan,53
+2,u,630000,2.3,1,1.0,0,Melbourne,Northern Metropolitan,21
+3,t,730000,5.6,2,2.0,0,Boroondara,Southern Metropolitan,53
+3,h,1325000,3.5,2,2.0,133,Port Phillip,Southern Metropolitan,54
+3,t,730000,6.2,2,2.0,340,Hobsons Bay,Western Metropolitan,24
+3,h,1346000,2.6,1,0.0,187,Yarra,Northern Metropolitan,53
+2,h,1101000,5.5,1,0.0,229,Darebin,Northern Metropolitan,113
+3,t,935000,13.8,2,2.0,244,Glen Eira,Southern Metropolitan,24
+1,u,375000,9.2,1,1.0,602,Stonnington,Southern Metropolitan,54
+1,u,380000,10.5,1,1.0,1993,Bayside,Southern Metropolitan,24
+3,h,1310000,6.6,2,1.0,229,Maribyrnong,Western Metropolitan,53
+2,h,2100000,9.7,1,1.0,659,Boroondara,Southern Metropolitan,103
+3,h,980000,8.4,1,3.0,397,Darebin,Northern Metropolitan,99
+4,h,1650000,17.2,2,2.0,1250,Whitehorse,Eastern Metropolitan,54
+2,u,393000,9.4,1,1.0,999,Moonee Valley,Western Metropolitan,53
+3,h,884500,8.7,2,2.0,211,Maribyrnong,Western Metropolitan,18
+3,h,810000,38.0,1,2.0,835,Frankston,South-Eastern Metropolitan,64
+4,h,1250000,5.2,2,2.0,600,,Northern Metropolitan,20
+4,h,1250000,11.5,2,3.0,568,Moreland,Northern Metropolitan,54
+3,t,840000,13.9,2,2.0,222,Glen Eira,Southern Metropolitan,53
+3,t,975000,11.8,2,2.0,632,Manningham,Eastern Metropolitan,10
+4,h,480000,20.6,2,2.0,312,,Northern Metropolitan,9
+2,u,960000,16.7,1,1.0,229,Monash,Eastern Metropolitan,34
+4,h,3225000,7.8,3,1.0,632,Boroondara,Southern Metropolitan,133
+2,t,620000,8.2,1,1.0,144,Maribyrnong,Western Metropolitan,53
+3,h,1330000,4.0,2,1.0,161,Moreland,Northern Metropolitan,134
+3,h,910000,12.6,2,2.0,653,Brimbank,Western Metropolitan,32
+2,u,570000,7.7,1,1.0,0,Port Phillip,Southern Metropolitan,83
+3,h,1123000,8.8,1,2.0,504,Darebin,Northern Metropolitan,73
+2,h,875000,8.8,1,3.0,671,Banyule,Eastern Metropolitan,54
+2,h,1480000,2.5,1,1.0,202,Yarra,Northern Metropolitan,53
+3,h,610000,13.0,1,3.0,640,Moreland,Northern Metropolitan,63
+1,h,860000,11.7,1,2.0,472,,Western Metropolitan,54
+2,u,855000,13.0,2,3.0,226,Glen Eira,Southern Metropolitan,18
+4,h,1120000,17.2,2,2.0,981,,Eastern Metropolitan,54
+3,h,700000,10.4,1,1.0,590,Brimbank,Western Metropolitan,54
+4,h,870000,35.4,2,2.0,771,Frankston,South-Eastern Metropolitan,59
+3,h,1422000,11.0,1,2.0,583,Boroondara,Southern Metropolitan,53
+4,h,1700000,11.2,2,4.0,601,Darebin,Northern Metropolitan,53
+3,h,1412000,1.9,1,2.0,128,,Southern Metropolitan,144
+3,u,815000,14.7,1,2.0,393,Monash,South-Eastern Metropolitan,54
+3,h,1000000,8.8,2,2.0,143,Darebin,Northern Metropolitan,53
+3,u,895000,2.8,2,3.0,0,Melbourne,Northern Metropolitan,54
+4,h,1401000,11.8,2,2.0,617,Manningham,Eastern Metropolitan,53
+3,h,1741000,4.6,1,1.0,383,Boroondara,Southern Metropolitan,113
+4,h,1700000,9.7,1,1.0,672,Boroondara,Southern Metropolitan,88
+2,h,2100000,9.0,1,2.0,1003,Banyule,Eastern Metropolitan,54
+4,h,1426000,14.6,2,1.0,720,Kingston,Southern Metropolitan,73
+3,h,1720000,4.5,2,2.0,183,Stonnington,Southern Metropolitan,25
+3,h,565500,41.0,2,2.0,361,Frankston,Eastern Victoria,54
+3,h,1010000,17.9,1,2.0,532,Kingston,Southern Metropolitan,54
+2,h,792000,5.2,1,1.0,149,Moreland,Northern Metropolitan,53
+2,h,740000,8.5,1,1.0,487,Moreland,Northern Metropolitan,84
+2,u,490000,6.6,1,0.0,601,Port Phillip,Southern Metropolitan,54
+1,u,320000,5.9,1,1.0,0,Moreland,Northern Metropolitan,53
+3,h,825000,7.8,1,1.0,374,Moreland,Northern Metropolitan,113
+3,h,1408000,16.7,2,1.0,658,Monash,South-Eastern Metropolitan,54
+2,h,1200000,3.3,1,1.0,163,Stonnington,Southern Metropolitan,123
+5,h,3730000,9.2,3,2.0,919,Stonnington,Southern Metropolitan,98
+1,u,349000,4.6,1,1.0,0,Stonnington,Southern Metropolitan,65
+2,u,795000,1.8,2,1.0,0,Melbourne,Northern Metropolitan,53
+4,h,1500000,5.2,2,1.0,459,Moreland,Northern Metropolitan,54
+3,h,762500,12.6,1,1.0,510,Brimbank,Western Metropolitan,53
+2,u,355000,6.6,1,1.0,0,Maribyrnong,Western Metropolitan,48
+2,u,700000,8.0,1,1.0,251,Moonee Valley,Western Metropolitan,54
+3,h,580000,9.2,1,2.0,278,Maribyrnong,Western Metropolitan,53
+2,h,890000,5.2,1,1.0,259,Moreland,Northern Metropolitan,53
+5,h,1810000,11.2,3,2.0,751,Stonnington,Southern Metropolitan,89
+3,h,880000,9.9,2,2.0,588,Moreland,Northern Metropolitan,63
+2,u,360000,8.0,1,1.0,0,Moonee Valley,Western Metropolitan,53
+2,u,656000,11.2,1,1.0,951,Boroondara,Southern Metropolitan,53
+4,h,630000,11.7,1,2.0,185,,Western Metropolitan,59
+2,u,722000,3.3,1,1.0,0,Stonnington,Southern Metropolitan,20
+5,h,3175000,5.4,4,2.0,769,Boroondara,Southern Metropolitan,84
+4,h,1241000,14.3,2,2.0,886,Manningham,Eastern Metropolitan,44
+3,h,2090000,3.0,1,0.0,199,,Southern Metropolitan,124
+4,h,840000,8.4,1,1.0,313,Darebin,Northern Metropolitan,74
+4,h,976000,11.8,1,1.0,701,Manningham,Eastern Metropolitan,53
+3,t,1475000,11.2,2,2.0,345,Bayside,Southern Metropolitan,23
+1,u,612000,3.3,1,1.0,607,Stonnington,Southern Metropolitan,53
+3,h,1690000,6.6,2,2.0,339,Port Phillip,Southern Metropolitan,134
+3,t,1171000,16.1,2,2.0,247,,Eastern Metropolitan,54
+4,h,1160000,5.8,2,1.0,381,Darebin,Northern Metropolitan,133
+3,h,620500,14.0,1,4.0,764,Hume,Northern Metropolitan,54
+4,h,1020000,6.7,2,2.0,441,Moreland,Northern Metropolitan,22
+6,h,1655000,14.3,3,2.0,692,Manningham,Eastern Metropolitan,54
+2,h,510000,11.7,1,2.0,897,Monash,Southern Metropolitan,54
+2,h,460000,10.5,1,2.0,508,Banyule,Eastern Metropolitan,68
+2,u,747500,2.7,1,1.0,0,Melbourne,Southern Metropolitan,54
+4,h,1300000,9.7,3,2.0,0,Moonee Valley,Western Metropolitan,53
+4,h,770000,25.0,2,2.0,723,Knox,Eastern Metropolitan,54
+3,t,1627000,21.5,2,2.0,304,Kingston,South-Eastern Metropolitan,17
+2,h,770000,8.8,2,1.0,76,Darebin,Northern Metropolitan,10
+2,u,540000,4.6,1,1.0,0,Stonnington,Southern Metropolitan,53
+3,t,785000,12.1,2,2.0,0,Glen Eira,Southern Metropolitan,14
+2,u,395000,8.0,1,1.0,0,Moonee Valley,Western Metropolitan,49
+4,t,1201000,11.4,2,2.0,273,Glen Eira,Southern Metropolitan,24
+3,t,1615000,7.8,1,2.0,389,Boroondara,Southern Metropolitan,53
+2,u,525000,20.0,1,1.0,723,Kingston,South-Eastern Metropolitan,54
+3,h,1102000,2.6,2,0.0,194,Yarra,Northern Metropolitan,53
+3,u,549000,14.9,1,1.0,0,Banyule,Northern Metropolitan,43
+2,h,1320000,7.8,1,0.0,620,Banyule,Eastern Metropolitan,104
+4,h,1635000,6.5,2,2.0,464,Darebin,Northern Metropolitan,54
+2,u,530000,2.6,1,1.0,0,Yarra,Northern Metropolitan,58
+4,h,610000,10.8,2,1.0,283,Maribyrnong,Western Metropolitan,33
+4,h,1100000,18.8,2,2.0,748,,South-Eastern Metropolitan,28
+2,h,633000,11.7,1,1.0,276,Whitehorse,Southern Metropolitan,58
+3,h,1060000,21.5,1,2.0,602,,South-Eastern Metropolitan,54
+4,h,1975000,6.4,2,2.0,600,Darebin,Northern Metropolitan,54
+3,h,495000,14.5,1,2.0,598,Hume,Northern Metropolitan,58
+5,h,1620000,8.7,3,2.0,601,Maribyrnong,Western Metropolitan,23
+2,h,760000,6.5,1,0.0,0,Darebin,Northern Metropolitan,123
+3,h,2030000,3.3,2,0.0,152,Port Phillip,Southern Metropolitan,53
+3,h,583000,12.8,1,1.0,412,Moonee Valley,Western Metropolitan,20
+3,h,1210000,1.9,2,2.0,149,,Southern Metropolitan,54
+1,u,280000,6.3,1,1.0,0,Stonnington,Southern Metropolitan,48
+1,u,345000,11.4,1,1.0,0,Glen Eira,Southern Metropolitan,53
+3,h,471000,18.0,2,1.0,338,Brimbank,Western Metropolitan,24
+3,h,1419000,7.0,1,2.0,270,Maribyrnong,Western Metropolitan,103
+2,h,650000,8.8,1,0.0,683,Banyule,Eastern Metropolitan,54
+3,h,850000,12.6,1,2.0,505,Brimbank,Western Metropolitan,53
+4,h,710000,8.2,1,1.0,255,Maribyrnong,Western Metropolitan,104
+5,h,1018000,13.1,2,2.0,737,Moreland,Northern Metropolitan,34
+2,h,1145000,2.6,1,0.0,170,Yarra,Northern Metropolitan,113
+4,h,1518000,11.4,3,2.0,454,Glen Eira,Southern Metropolitan,23
+2,u,522000,11.5,1,1.0,161,Moreland,Northern Metropolitan,11
+2,u,701000,5.0,1,0.0,0,Port Phillip,Southern Metropolitan,74
+4,h,2450000,3.5,3,2.0,210,Port Phillip,Southern Metropolitan,14
+4,h,1480000,5.9,2,2.0,597,Moonee Valley,Western Metropolitan,84
+3,h,1140000,9.7,2,2.0,175,Boroondara,Southern Metropolitan,47
+3,h,840000,13.8,2,2.0,534,Hobsons Bay,Western Metropolitan,59
+3,t,752000,5.6,2,2.0,0,Boroondara,Southern Metropolitan,44
+2,u,691000,13.7,1,1.0,0,Bayside,Southern Metropolitan,54
+4,h,1050000,16.2,2,1.0,973,Banyule,Eastern Metropolitan,54
+3,h,2567500,10.2,2,2.0,1004,,Southern Metropolitan,54
+4,h,921000,14.6,1,2.0,592,Kingston,Southern Metropolitan,53
+3,h,1085000,5.1,1,1.0,297,Maribyrnong,Western Metropolitan,104
+3,h,2000000,14.2,1,2.0,1028,Monash,Eastern Metropolitan,59
+4,h,1430000,9.7,2,1.0,607,Moonee Valley,Western Metropolitan,33
+2,u,855000,1.6,1,1.0,2886,Yarra,Northern Metropolitan,193
+4,h,665000,9.5,1,1.0,538,Moonee Valley,Western Metropolitan,54
+3,h,1690000,7.3,1,2.0,625,Boroondara,Southern Metropolitan,54
+3,h,625000,12.8,1,2.0,539,Moonee Valley,Western Metropolitan,53
+3,h,1620000,7.8,2,2.0,575,Boroondara,Southern Metropolitan,24
+2,u,440000,8.0,1,1.0,921,Moonee Valley,Western Metropolitan,54
+4,h,1819000,6.6,2,1.0,244,Port Phillip,Southern Metropolitan,123
+3,h,1000000,7.0,2,1.0,448,Maribyrnong,Western Metropolitan,83
+2,u,614000,7.9,1,1.0,0,Boroondara,Southern Metropolitan,54
+2,h,1005000,10.9,1,2.0,780,Hobsons Bay,Western Metropolitan,74
+3,u,1025000,13.9,2,2.0,384,Glen Eira,Southern Metropolitan,25
+2,h,515000,12.1,1,2.0,345,Moreland,Northern Metropolitan,33
+3,h,857000,23.0,2,1.0,1007,,Eastern Metropolitan,44
+3,h,965000,8.5,1,2.0,275,Glen Eira,Southern Metropolitan,123
+4,h,1560000,8.4,2,3.0,480,Hobsons Bay,Western Metropolitan,84
+3,h,1350000,12.4,2,3.0,725,Manningham,Eastern Metropolitan,54
+3,h,1125000,13.9,2,2.0,819,Manningham,Eastern Metropolitan,54
+1,u,309000,21.5,1,1.0,57,Kingston,South-Eastern Metropolitan,46
+4,h,2340000,9.2,2,2.0,586,Boroondara,Southern Metropolitan,54
+2,h,450000,8.2,1,1.0,0,Maribyrnong,Western Metropolitan,43
+1,u,455500,3.8,1,1.0,0,Melbourne,Southern Metropolitan,21
+2,h,1290000,3.5,1,0.0,136,Yarra,Northern Metropolitan,134
+2,u,559000,3.5,1,1.0,712,Port Phillip,Southern Metropolitan,56
+2,h,1260000,5.3,1,1.0,234,Darebin,Northern Metropolitan,124
+2,u,611000,14.2,1,1.0,161,Monash,Eastern Metropolitan,54
+1,u,381000,10.1,1,1.0,2048,,Southern Metropolitan,54
+3,h,1250000,5.2,1,1.0,483,Moreland,Northern Metropolitan,133
+2,u,580000,11.7,1,1.0,153,Whitehorse,Southern Metropolitan,54
+1,u,400000,6.1,1,1.0,0,Port Phillip,Southern Metropolitan,25
+3,h,930000,12.0,1,2.0,735,,Northern Metropolitan,54
+2,h,972000,6.5,1,0.0,229,Darebin,Northern Metropolitan,53
+4,h,1120000,17.9,2,2.0,806,Kingston,Southern Metropolitan,54
+3,t,690000,6.7,1,1.0,64,Moreland,Northern Metropolitan,13
+3,h,2375000,4.6,2,2.0,472,Boroondara,Southern Metropolitan,53
+3,h,1650000,9.3,1,2.0,875,Glen Eira,Southern Metropolitan,53
+4,h,2920000,7.5,3,3.0,726,Boroondara,Southern Metropolitan,53
+3,h,1285000,9.7,2,2.0,616,Moonee Valley,Western Metropolitan,53
+2,u,550000,7.7,1,1.0,0,Port Phillip,Southern Metropolitan,63
+3,h,650000,12.8,2,2.0,3977,Moonee Valley,Western Metropolitan,10
+2,h,1275000,13.0,1,2.0,599,Glen Eira,Southern Metropolitan,53
+3,h,2076000,4.1,1,2.0,302,,Southern Metropolitan,54
+4,h,626800,13.3,1,2.0,581,Brimbank,Western Metropolitan,73
+3,h,1025000,11.2,1,4.0,670,Darebin,Northern Metropolitan,88
+3,h,900500,7.0,1,1.0,208,Maribyrnong,Western Metropolitan,53
+3,h,825000,11.7,1,0.0,534,Moonee Valley,Western Metropolitan,59
+5,h,1410000,9.9,3,4.0,1004,Moreland,Northern Metropolitan,54
+1,u,380500,14.6,1,1.0,106,Kingston,Southern Metropolitan,33
+2,h,502000,11.2,2,0.0,116,Bayside,Southern Metropolitan,53
+3,h,626000,14.0,1,2.0,557,,Western Metropolitan,39
+3,h,1575000,8.0,2,3.0,430,Hobsons Bay,Western Metropolitan,27
+3,h,870000,4.3,2,3.0,388,,Western Metropolitan,74
+5,h,800000,20.4,3,2.0,544,Hume,Northern Metropolitan,16
+3,h,1402500,3.0,1,1.0,270,Yarra,Northern Metropolitan,64
+6,h,1234000,15.4,3,2.0,579,Whitehorse,Eastern Metropolitan,54
+2,h,782500,6.2,1,1.0,243,,Western Metropolitan,54
+3,h,1016000,7.7,1,1.0,320,Hobsons Bay,Western Metropolitan,83
+3,h,1040000,14.9,2,1.0,903,Banyule,Northern Metropolitan,73
+1,u,385000,8.8,1,1.0,896,Darebin,Northern Metropolitan,13
+3,h,595000,12.6,1,1.0,36,Brimbank,Western Metropolitan,53
+2,u,480000,4.5,2,1.0,0,Moreland,Northern Metropolitan,53
+2,h,1337500,8.0,1,0.0,297,Hobsons Bay,Western Metropolitan,54
+4,h,5500000,4.6,3,2.0,691,Stonnington,Southern Metropolitan,23
+4,h,1690000,13.9,2,2.0,700,Glen Eira,Southern Metropolitan,73
+3,h,1030000,9.1,1,1.0,224,Hobsons Bay,Western Metropolitan,53
+3,h,1651000,4.5,1,2.0,294,Stonnington,Southern Metropolitan,53
+3,h,1240000,4.5,1,0.0,223,Stonnington,Southern Metropolitan,54
+4,t,1970000,7.2,2,2.0,470,Glen Eira,Southern Metropolitan,54
+3,h,770000,20.4,2,2.0,775,Hume,Northern Metropolitan,54
+2,u,475000,10.6,1,2.0,247,Banyule,Eastern Metropolitan,49
+2,u,470000,12.0,1,1.0,142,Darebin,Northern Metropolitan,17
+2,u,575000,4.6,2,1.0,0,Boroondara,Southern Metropolitan,53
+4,h,1005000,11.5,1,1.0,780,Moreland,Northern Metropolitan,53
+2,h,858000,6.4,1,1.0,313,Maribyrnong,Western Metropolitan,108
+2,u,632000,4.5,1,2.0,65,Moreland,Northern Metropolitan,64
+3,h,802000,8.5,2,1.0,450,Moreland,Northern Metropolitan,54
+2,h,1575000,11.0,1,2.0,679,Boroondara,Southern Metropolitan,54
+4,h,575000,25.2,1,2.0,384,Greater Dandenong,South-Eastern Metropolitan,49
+5,h,905000,10.5,2,3.0,732,,Western Metropolitan,99
+3,u,940000,2.7,2,3.0,0,Melbourne,Southern Metropolitan,54
+6,h,1591000,11.7,2,2.0,665,Whitehorse,Southern Metropolitan,74
+4,h,860000,5.9,2,3.0,633,,Southern Metropolitan,54
+3,t,730000,8.7,1,2.0,250,Maribyrnong,Western Metropolitan,23
+4,h,1340000,7.0,2,0.0,297,Maribyrnong,Western Metropolitan,124
+3,h,1080000,6.6,1,0.0,234,Maribyrnong,Western Metropolitan,124
+2,u,602000,7.9,1,1.0,1129,Boroondara,Southern Metropolitan,64
+3,h,940000,21.5,2,2.0,454,Kingston,South-Eastern Metropolitan,74
+1,u,495000,10.5,1,1.0,0,Bayside,Southern Metropolitan,54
+3,h,1575000,8.9,1,1.0,860,Hobsons Bay,Western Metropolitan,74
+5,h,1587500,10.5,5,2.0,599,Banyule,Eastern Metropolitan,10
+3,h,690000,38.0,2,2.0,595,,South-Eastern Metropolitan,54
+3,t,840000,20.0,2,2.0,163,,South-Eastern Metropolitan,12
+2,u,613000,3.3,1,1.0,0,Stonnington,Southern Metropolitan,53
+4,t,1197000,11.8,2,2.0,144,Glen Eira,Southern Metropolitan,17
+4,h,1801000,9.7,2,2.0,583,Boroondara,Southern Metropolitan,53
+2,u,470000,9.1,1,1.0,976,Moonee Valley,Western Metropolitan,23
+2,h,761000,13.1,1,2.0,665,Moreland,Northern Metropolitan,54
+4,h,1600000,13.1,2,1.0,692,Whitehorse,Eastern Metropolitan,133
+4,h,1825000,10.7,3,2.0,594,Bayside,Southern Metropolitan,50
+3,h,2009000,11.2,1,2.0,843,Boroondara,Southern Metropolitan,53
+2,h,800000,3.2,1,1.0,73,Yarra,Northern Metropolitan,14
+4,h,580000,31.7,2,2.0,613,Hume,Western Metropolitan,13
+4,h,1270000,12.2,2,1.0,724,Monash,Southern Metropolitan,53
+2,u,390000,6.1,1,1.0,0,Port Phillip,Southern Metropolitan,24
+3,h,1317500,13.0,1,1.0,576,Glen Eira,Southern Metropolitan,78
+2,u,1022000,5.3,1,1.0,2267,Boroondara,Southern Metropolitan,94
+3,h,850000,10.4,1,2.0,551,,Western Metropolitan,74
+2,t,570000,7.8,1,1.0,0,Moreland,Northern Metropolitan,123
+4,t,1420000,9.0,2,2.0,278,Boroondara,Southern Metropolitan,53
+3,h,1465000,2.5,2,0.0,134,Yarra,Northern Metropolitan,124
+2,u,696000,2.6,2,1.0,0,Yarra,Northern Metropolitan,15
+2,h,1015000,5.2,1,0.0,453,Moreland,Northern Metropolitan,104
+3,h,965000,27.0,2,2.0,572,,South-Eastern Metropolitan,74
+4,h,1000000,7.8,2,1.0,381,Moreland,Northern Metropolitan,85
+4,h,800001,12.1,1,2.0,467,Darebin,Northern Metropolitan,54
+2,u,350000,13.5,1,1.0,235,Brimbank,Western Metropolitan,33
+3,h,1033000,14.0,1,2.0,548,Monash,Southern Metropolitan,49
+3,h,1500000,10.1,2,2.0,603,,Southern Metropolitan,54
+1,u,567000,6.3,1,1.0,0,Stonnington,Southern Metropolitan,10
+2,h,1085000,9.9,1,2.0,847,Moreland,Northern Metropolitan,63
+3,h,840000,11.2,1,2.0,603,Moonee Valley,Western Metropolitan,53
+4,h,1002000,11.8,1,2.0,650,Manningham,Eastern Metropolitan,53
+2,h,510000,10.5,1,2.0,244,Banyule,Eastern Metropolitan,54
+2,h,610000,5.8,1,1.0,66,Darebin,Northern Metropolitan,53
+2,u,435000,6.4,2,1.0,0,Maribyrnong,Western Metropolitan,7
+4,h,890000,18.0,2,2.0,1010,,Eastern Metropolitan,54
+3,t,1295000,6.1,2,2.0,0,Port Phillip,Southern Metropolitan,23
+3,h,1240000,6.3,3,6.0,668,Maribyrnong,Western Metropolitan,34
+3,h,961000,4.2,1,1.0,235,Melbourne,Northern Metropolitan,53
+3,h,770000,9.9,1,4.0,560,Moreland,Northern Metropolitan,63
+3,h,1652500,3.4,1,0.0,276,Yarra,Northern Metropolitan,120
+3,h,905000,10.5,1,4.0,697,Brimbank,Western Metropolitan,54
+3,h,1384000,3.8,1,0.0,184,Melbourne,Southern Metropolitan,118
+3,h,2000000,9.2,1,1.0,973,Moreland,Northern Metropolitan,53
+2,t,754000,5.2,2,1.0,177,Moreland,Northern Metropolitan,23
+4,h,2070000,7.0,3,2.0,530,Darebin,Northern Metropolitan,8
+2,u,484000,5.9,1,1.0,0,Moreland,Northern Metropolitan,73
+3,h,710000,21.3,1,2.0,314,Maroondah,Eastern Metropolitan,35
+2,u,640000,2.6,1,2.0,0,Yarra,Northern Metropolitan,23
+3,h,995000,5.9,1,2.0,505,Moreland,Northern Metropolitan,53
+2,u,510000,3.1,1,1.0,75,Melbourne,Northern Metropolitan,17
+4,h,1620000,9.2,2,1.0,654,Boroondara,Southern Metropolitan,63
+4,h,1420000,5.5,1,1.0,465,Darebin,Northern Metropolitan,133
+3,h,1076000,10.6,1,2.0,674,Banyule,Eastern Metropolitan,53
+2,h,905000,5.3,1,0.0,114,Darebin,Northern Metropolitan,54
+2,u,633000,11.4,1,1.0,210,Banyule,Eastern Metropolitan,53
+3,h,1400000,10.7,2,2.0,486,Bayside,Southern Metropolitan,53
+3,t,875000,8.4,2,2.0,214,Darebin,Northern Metropolitan,54
+4,h,500000,15.0,2,2.0,579,Brimbank,Western Metropolitan,53
+5,h,1020000,7.8,2,4.0,381,Moreland,Northern Metropolitan,39
+4,h,1790000,5.2,3,6.0,733,Moreland,Northern Metropolitan,74
+1,u,270000,6.5,1,1.0,0,Darebin,Northern Metropolitan,53
+5,h,1920000,9.2,3,2.0,900,Boroondara,Southern Metropolitan,68
+3,h,1300000,2.5,1,1.0,326,Yarra,Northern Metropolitan,133
+3,h,438000,31.7,2,2.0,575,,Northern Victoria,8
+3,t,1035000,7.2,2,2.0,0,Port Phillip,Southern Metropolitan,14
+3,t,917000,14.6,2,2.0,472,Kingston,Southern Metropolitan,22
+5,h,2210000,7.5,3,2.0,590,Moonee Valley,Western Metropolitan,144
+3,u,662500,8.7,2,2.0,202,Maribyrnong,Western Metropolitan,17
+3,h,900000,6.7,1,0.0,227,Moreland,Northern Metropolitan,104
+3,h,742000,12.9,2,2.0,375,,Western Metropolitan,49
+4,h,647000,34.9,2,4.0,688,Frankston,South-Eastern Metropolitan,22
+3,h,940000,11.8,1,1.0,397,Glen Eira,Southern Metropolitan,83
+3,h,1275000,17.9,2,2.0,656,Kingston,Southern Metropolitan,64
+2,u,505000,23.0,1,1.0,297,Maroondah,Eastern Metropolitan,54
+4,h,1300000,7.9,1,1.0,586,Banyule,Eastern Metropolitan,53
+4,h,1340000,5.5,1,2.0,0,Darebin,Northern Metropolitan,53
+3,h,1005000,11.0,1,4.0,575,Hobsons Bay,Western Metropolitan,64
+5,h,1780000,17.3,3,2.0,613,Bayside,Southern Metropolitan,54
+3,h,1631000,12.2,2,3.0,782,Monash,Southern Metropolitan,73
+2,u,686000,14.5,1,1.0,169,Banyule,Northern Metropolitan,17
+2,t,408000,8.7,1,1.0,85,Maribyrnong,Western Metropolitan,43
+3,h,833800,22.2,1,0.0,730,Knox,Eastern Metropolitan,54
+3,h,1200000,13.0,2,2.0,590,Glen Eira,Southern Metropolitan,53
+3,h,1000000,11.4,1,1.0,826,Banyule,Eastern Metropolitan,54
+1,u,407000,11.2,1,1.0,108,Darebin,Northern Metropolitan,54
+3,h,1205000,14.0,2,1.0,570,Monash,Southern Metropolitan,54
+3,h,975500,10.4,1,1.0,697,,Western Metropolitan,54
+4,h,1075000,7.8,1,4.0,531,Moreland,Northern Metropolitan,99
+2,h,790000,8.8,1,1.0,266,Darebin,Northern Metropolitan,98
+2,u,691000,8.0,1,1.0,201,Moonee Valley,Western Metropolitan,29
+1,u,330000,6.1,1,1.0,653,Port Phillip,Southern Metropolitan,53
+4,h,1662500,3.6,2,0.0,191,Yarra,Northern Metropolitan,54
+2,t,770000,12.2,1,2.0,162,Monash,Southern Metropolitan,14
+3,h,1025000,7.5,2,2.0,203,Moonee Valley,Western Metropolitan,8
+3,h,1200000,13.1,1,2.0,550,Whitehorse,Eastern Metropolitan,73
+3,h,705000,14.5,1,1.0,538,Banyule,Northern Metropolitan,54
+3,h,1410000,5.6,1,2.0,304,Boroondara,Southern Metropolitan,138
+5,h,1730000,11.8,4,4.0,564,Manningham,Eastern Metropolitan,69
+2,u,700000,5.6,1,1.0,0,Boroondara,Southern Metropolitan,54
+2,h,1117000,1.8,1,0.0,128,Melbourne,Northern Metropolitan,133
+2,u,657500,4.6,1,1.0,728,Boroondara,Southern Metropolitan,58
+3,h,2030000,8.4,2,2.0,660,,Southern Metropolitan,84
+2,u,427500,9.9,1,1.0,134,Moreland,Northern Metropolitan,36
+1,u,345000,4.4,1,1.0,0,Moonee Valley,Northern Metropolitan,53
+1,u,351000,5.9,1,1.0,0,Moreland,Northern Metropolitan,53
+3,u,470000,12.4,0,0.0,261,Moreland,Northern Metropolitan,53
+3,h,499000,20.6,2,0.0,598,Hume,Northern Metropolitan,34
+2,h,1515000,3.5,2,2.0,197,,Southern Metropolitan,54
+3,h,2060000,10.3,1,3.0,685,,Southern Metropolitan,74
+3,h,800000,9.4,1,3.0,633,Banyule,Eastern Metropolitan,73
+2,h,1501000,3.5,1,0.0,152,Yarra,Northern Metropolitan,54
+2,u,471000,5.9,1,1.0,564,Moreland,Northern Metropolitan,54
+3,h,915000,11.2,3,2.0,618,Darebin,Northern Metropolitan,63
+2,h,1000000,1.6,1,2.0,159,Yarra,Northern Metropolitan,143
+2,u,440000,11.2,1,2.0,132,Darebin,Northern Metropolitan,43
+3,h,660000,13.0,1,2.0,657,Moreland,Northern Metropolitan,73
+3,h,1750000,7.5,1,3.0,650,Boroondara,Southern Metropolitan,54
+5,h,1518000,11.2,2,1.0,632,Whitehorse,Southern Metropolitan,73
+3,t,1300000,10.7,2,2.0,337,Bayside,Southern Metropolitan,23
+3,h,1072000,14.3,1,3.0,585,,Southern Metropolitan,74
+2,h,1010000,7.0,1,0.0,245,Darebin,Northern Metropolitan,54
+2,h,770000,5.2,1,0.0,152,Moreland,Northern Metropolitan,113
+2,t,1470000,11.2,1,1.0,238,Bayside,Southern Metropolitan,54
+4,h,1082000,8.4,3,2.0,233,Hobsons Bay,Western Metropolitan,12
+3,u,447000,41.0,1,2.0,230,Frankston,Eastern Victoria,22
+3,h,670000,13.1,2,2.0,350,,Northern Metropolitan,54
+4,h,1120000,11.7,2,2.0,599,Moonee Valley,Western Metropolitan,54
+5,h,2070000,9.2,2,1.0,1138,Boroondara,Southern Metropolitan,53
+2,u,680000,13.7,1,2.0,0,Bayside,Southern Metropolitan,54
+1,u,170000,5.2,1,0.0,1250,,Northern Metropolitan,54
+3,t,835000,5.6,2,2.0,247,Boroondara,Southern Metropolitan,17
+3,h,1370000,3.4,2,1.0,176,Yarra,Northern Metropolitan,133
+3,t,815000,5.9,1,2.0,157,Moreland,Northern Metropolitan,24
+3,h,967500,9.2,2,1.0,233,Boroondara,Southern Metropolitan,53
+4,h,1530000,11.2,2,2.0,486,Whitehorse,Southern Metropolitan,133
+3,t,430000,10.9,1,1.0,131,Hobsons Bay,Western Metropolitan,53
+3,h,1222500,5.2,1,0.0,331,Moreland,Northern Metropolitan,133
+2,h,874000,6.5,1,2.0,333,Darebin,Northern Metropolitan,38
+2,u,590000,5.2,1,1.0,0,Moreland,Northern Metropolitan,19
+3,h,802000,22.7,1,1.0,818,Greater Dandenong,South-Eastern Metropolitan,54
+4,h,1470000,7.9,2,1.0,694,Banyule,Eastern Metropolitan,73
+3,t,1680000,9.7,3,1.0,329,Boroondara,Southern Metropolitan,19
+3,t,840000,11.2,2,2.0,374,Moonee Valley,Western Metropolitan,33
+3,t,910000,1.6,1,1.0,171,Yarra,Northern Metropolitan,53
+4,h,1605000,10.3,1,2.0,606,Bayside,Southern Metropolitan,76
+3,h,928000,11.2,1,1.0,696,Darebin,Northern Metropolitan,54
+4,h,1485000,8.4,1,2.0,509,Darebin,Northern Metropolitan,104
+3,h,921000,13.9,2,1.0,291,Glen Eira,Southern Metropolitan,23
+6,h,2200000,6.2,3,3.0,622,Boroondara,Southern Metropolitan,54
+2,u,571000,6.1,1,1.0,7458,Port Phillip,Southern Metropolitan,53
+3,h,998000,4.5,1,2.0,104,Moreland,Northern Metropolitan,23
+4,h,851000,11.2,2,2.0,581,Darebin,Northern Metropolitan,17
+2,u,647000,3.3,1,1.0,0,Port Phillip,Southern Metropolitan,53
+5,h,1400000,14.7,2,2.0,796,,Eastern Metropolitan,54
+3,t,920000,13.9,2,1.0,343,Glen Eira,Southern Metropolitan,53
+3,h,1194000,9.7,1,2.0,650,Moonee Valley,Western Metropolitan,94
+4,h,1292000,13.9,1,2.0,587,Glen Eira,Southern Metropolitan,74
+3,h,586000,14.0,1,1.0,677,Hume,Northern Metropolitan,54
+1,t,503750,21.5,1,1.0,80,Kingston,South-Eastern Metropolitan,17
+6,h,2450000,6.3,3,2.0,1087,Maribyrnong,Western Metropolitan,104
+2,u,437500,11.8,1,1.0,0,Glen Eira,Southern Metropolitan,54
+3,h,1100000,10.8,1,1.0,711,Manningham,Eastern Metropolitan,54
+2,h,1500000,4.5,1,2.0,222,Stonnington,Southern Metropolitan,93
+3,h,1236000,7.0,1,1.0,508,Darebin,Northern Metropolitan,54
+4,h,680000,38.0,2,3.0,767,Frankston,South-Eastern Metropolitan,44
+1,u,400000,4.1,1,1.0,0,Port Phillip,Southern Metropolitan,53
+2,h,478000,8.5,1,1.0,0,Moreland,Northern Metropolitan,64
+3,h,1930000,7.8,1,2.0,643,Boroondara,Southern Metropolitan,104
+2,h,1435000,6.1,1,1.0,225,Port Phillip,Southern Metropolitan,54
+3,h,3550000,11.2,2,0.0,1007,Bayside,Southern Metropolitan,53
+2,u,662000,11.4,2,1.0,0,Glen Eira,Southern Metropolitan,53
+3,h,975000,5.5,1,2.0,274,Darebin,Northern Metropolitan,17
+3,u,495000,10.8,2,1.0,327,Maribyrnong,Western Metropolitan,17
+4,h,1976000,4.6,2,2.0,410,Boroondara,Southern Metropolitan,133
+4,h,850000,8.2,1,3.0,511,Maribyrnong,Western Metropolitan,53
+1,u,260000,7.3,1,1.0,0,Stonnington,Southern Metropolitan,74
+4,h,1630000,6.8,3,2.0,400,,Western Metropolitan,54
+2,h,857000,13.8,2,1.0,675,Hobsons Bay,Western Metropolitan,73
+4,h,435000,47.3,2,2.0,553,Cardinia,Eastern Victoria,19
+3,u,453350,18.4,2,1.0,315,Wyndham,Western Metropolitan,54
+4,h,3110000,9.2,2,4.0,1318,Stonnington,Southern Metropolitan,54
+2,t,515000,13.1,1,2.0,177,,Northern Metropolitan,11
+2,t,795000,7.7,2,1.0,112,Boroondara,Southern Metropolitan,54
+3,h,775000,6.4,2,1.0,197,Maribyrnong,Western Metropolitan,53
+4,h,1180000,8.7,3,2.0,688,Maribyrnong,Western Metropolitan,64
+2,u,830000,10.2,1,1.0,180,Boroondara,Southern Metropolitan,54
+2,u,380000,5.9,1,1.0,0,Moreland,Northern Metropolitan,53
+1,u,375000,11.2,1,1.0,0,Bayside,Southern Metropolitan,58
+2,h,650000,8.5,1,2.0,605,Moreland,Northern Metropolitan,54
+3,h,1001000,6.6,1,1.0,256,Maribyrnong,Western Metropolitan,53
+3,h,720000,11.1,2,1.0,0,Hobsons Bay,Western Metropolitan,11
+3,h,1098000,13.8,2,1.0,649,Manningham,Eastern Metropolitan,53
+5,h,3950000,4.6,2,3.0,1236,Boroondara,Southern Metropolitan,133
+2,u,863000,3.3,2,1.0,742,Melbourne,Southern Metropolitan,74
+3,h,1045000,11.4,1,1.0,401,Glen Eira,Southern Metropolitan,54
+3,h,681000,7.0,1,1.0,446,Maribyrnong,Western Metropolitan,53
+3,h,975000,14.6,1,2.0,650,Kingston,Southern Metropolitan,53
+2,h,825000,13.9,2,1.0,176,Glen Eira,Southern Metropolitan,15
+2,h,615000,10.5,1,0.0,418,Brimbank,Western Metropolitan,84
+3,h,1256000,11.8,2,2.0,378,Glen Eira,Southern Metropolitan,99
+4,h,600000,20.5,2,2.0,505,Whittlesea,Northern Metropolitan,15
+2,u,878000,13.8,1,1.0,128,Bayside,Southern Metropolitan,57
+2,h,573000,5.2,1,1.0,0,Moreland,Northern Metropolitan,54
+4,h,4750000,6.1,3,5.0,648,Port Phillip,Southern Metropolitan,53
+4,h,1530000,10.7,2,1.0,603,Bayside,Southern Metropolitan,103
+3,h,1910000,5.1,3,1.0,143,Stonnington,Southern Metropolitan,133
+3,h,555000,34.7,2,2.0,581,Casey,South-Eastern Metropolitan,54
+2,u,520000,2.8,1,1.0,4051,Melbourne,Northern Metropolitan,18
+5,h,1756000,8.0,2,5.0,963,Moonee Valley,Western Metropolitan,53
+4,h,510000,14.7,2,1.0,531,Wyndham,Western Metropolitan,21
+4,h,1150000,14.7,2,2.0,842,,Eastern Metropolitan,54
+3,h,1171000,8.4,1,2.0,483,Darebin,Northern Metropolitan,94
+3,h,845000,7.8,1,1.0,221,Moreland,Northern Metropolitan,44
+3,h,1640000,11.4,1,3.0,585,Glen Eira,Southern Metropolitan,54
+3,h,1500000,11.2,2,1.0,442,Bayside,Southern Metropolitan,53
+5,h,2600000,13.7,4,2.0,1000,Bayside,Southern Metropolitan,74
+3,h,760000,11.2,1,4.0,625,Moreland,Northern Metropolitan,54
+2,h,887000,6.6,1,1.0,170,Maribyrnong,Western Metropolitan,53
+3,t,938000,10.2,1,2.0,271,Whitehorse,Southern Metropolitan,54
+2,u,302500,14.7,1,2.0,471,Wyndham,Western Metropolitan,54
+4,h,2600000,7.8,2,2.0,600,Boroondara,Southern Metropolitan,126
+2,h,666000,11.8,1,1.0,0,Whitehorse,Eastern Metropolitan,53
+4,h,930000,8.8,2,2.0,604,Darebin,Northern Metropolitan,103
+2,h,1582000,7.5,2,2.0,358,Boroondara,Southern Metropolitan,53
+4,h,3600000,8.4,3,2.0,552,Stonnington,Southern Metropolitan,9
+3,h,1864000,11.2,2,1.0,405,Boroondara,Southern Metropolitan,53
+2,u,2250000,3.8,2,2.0,0,Port Phillip,Southern Metropolitan,54
+3,h,690000,12.4,1,2.0,556,Darebin,Northern Metropolitan,53
+4,h,2100000,8.4,2,4.0,544,Boroondara,Southern Metropolitan,54
+2,h,610000,7.0,0,0.0,94,Maribyrnong,Western Metropolitan,53
+3,t,1238000,9.2,2,2.0,186,Boroondara,Southern Metropolitan,13
+5,h,1336000,11.8,3,3.0,736,Manningham,Eastern Metropolitan,54
+4,h,1950000,9.7,3,1.0,747,,Southern Metropolitan,54
+3,h,900000,11.7,1,1.0,624,,Western Metropolitan,54
+3,h,650000,12.4,1,3.0,602,Moreland,Northern Metropolitan,74
+4,h,885000,11.2,2,2.0,508,Darebin,Northern Metropolitan,73
+3,h,801000,13.9,1,1.0,0,Glen Eira,Southern Metropolitan,53
+2,u,570000,4.5,1,2.0,1188,Moreland,Northern Metropolitan,12
+4,h,1390000,14.3,3,2.0,664,Manningham,Eastern Metropolitan,54
+2,u,635000,8.7,2,1.0,0,Maribyrnong,Western Metropolitan,53
+2,u,710000,15.4,1,1.0,903,,Eastern Metropolitan,39
+4,h,660000,8.8,2,1.0,0,Darebin,Northern Metropolitan,53
+3,h,905000,8.9,2,2.0,331,Banyule,Eastern Metropolitan,23
+4,h,970000,7.0,1,2.0,664,Maribyrnong,Western Metropolitan,63
+2,u,575000,6.1,2,1.0,0,Port Phillip,Southern Metropolitan,10
+2,t,1200000,2.6,2,1.0,170,Yarra,Northern Metropolitan,84
+3,h,885000,7.8,1,2.0,255,Moreland,Northern Metropolitan,103
+2,h,560000,16.5,2,2.0,424,,Northern Metropolitan,54
+3,h,575500,14.0,1,3.0,580,,Northern Metropolitan,54
+4,h,1111000,18.0,2,2.0,2002,,Western Metropolitan,54
+3,h,1400000,3.3,2,2.0,0,Stonnington,Southern Metropolitan,19
+3,h,1435000,5.2,2,0.0,251,Moreland,Northern Metropolitan,134
+3,h,775000,45.9,2,4.0,1290,Macedon Ranges,Northern Victoria,36
+1,u,400000,2.4,1,1.0,4425,,Northern Metropolitan,12
+5,h,680000,20.6,3,2.0,646,Hume,Northern Metropolitan,54
+5,h,1525000,13.8,3,3.0,729,Hobsons Bay,Western Metropolitan,18
+3,h,1071000,17.2,1,2.0,684,Whitehorse,Eastern Metropolitan,54
+3,h,480500,31.7,1,1.0,664,,Western Metropolitan,54
+3,h,470000,14.7,1,2.0,640,,Western Metropolitan,39
+3,h,1025000,11.2,2,2.0,676,Darebin,Northern Metropolitan,73
+2,u,792500,3.3,1,1.0,0,Stonnington,Southern Metropolitan,54
+2,h,811000,8.0,1,2.0,183,Hobsons Bay,Western Metropolitan,54
+4,h,1300000,12.1,2,2.0,637,Whittlesea,Northern Metropolitan,54
+2,h,906000,8.8,1,1.0,617,Banyule,Eastern Metropolitan,64
+3,u,599000,9.3,1,1.0,88,Glen Eira,Southern Metropolitan,53
+4,h,4760000,7.8,2,2.0,903,Boroondara,Southern Metropolitan,54
+4,h,1410000,14.7,2,4.0,590,Monash,South-Eastern Metropolitan,74
+3,h,1635000,14.2,1,2.0,720,Monash,Eastern Metropolitan,64
+3,h,630000,14.8,2,2.0,397,Brimbank,Western Metropolitan,17
+5,h,2570000,9.7,3,2.0,715,Boroondara,Southern Metropolitan,14
+4,h,970000,13.6,2,3.0,737,Moreland,Western Metropolitan,14
+4,h,2130000,5.6,2,2.0,649,Boroondara,Southern Metropolitan,38
+4,h,1000000,5.1,2,1.0,180,Maribyrnong,Western Metropolitan,30
+4,h,730000,11.2,1,2.0,770,Darebin,Northern Metropolitan,53
+3,h,1180000,6.4,1,1.0,335,Maribyrnong,Western Metropolitan,54
+5,h,1525000,6.3,2,2.0,693,Stonnington,Southern Metropolitan,53
+4,h,1670000,13.1,4,4.0,707,Whitehorse,Eastern Metropolitan,97
+2,u,592000,5.5,1,2.0,0,Darebin,Northern Metropolitan,54
+3,h,825000,12.0,2,5.0,537,Darebin,Northern Metropolitan,54
+2,u,750000,3.0,1,1.0,2379,Yarra,Northern Metropolitan,11
+5,h,2275000,7.7,2,1.0,399,Port Phillip,Southern Metropolitan,114
+3,h,1680000,3.4,2,1.0,201,Yarra,Northern Metropolitan,53
+3,h,1040000,13.9,2,2.0,598,Glen Eira,Southern Metropolitan,53
+3,h,900000,9.9,2,2.0,608,Moreland,Northern Metropolitan,83
+3,h,900000,13.8,1,4.0,697,Hobsons Bay,Western Metropolitan,53
+3,h,866000,11.2,1,2.0,569,Darebin,Northern Metropolitan,53
+3,h,822000,13.0,1,2.0,738,Moreland,Northern Metropolitan,64
+4,h,715000,16.3,2,2.0,500,,Northern Metropolitan,54
+3,h,1120000,7.8,2,1.0,293,Moreland,Northern Metropolitan,17
+2,u,620250,13.0,1,2.0,253,Moreland,Northern Metropolitan,11
+4,h,860000,11.5,2,2.0,301,Moreland,Northern Metropolitan,54
+3,h,730000,10.8,1,3.0,586,Maribyrnong,Western Metropolitan,54
+2,u,436000,11.2,1,1.0,140,Darebin,Northern Metropolitan,12
+2,h,716000,7.2,1,1.0,0,Glen Eira,Southern Metropolitan,54
+3,h,1224000,8.9,1,2.0,609,,Eastern Metropolitan,64
+3,t,735000,8.4,2,2.0,0,Hobsons Bay,Western Metropolitan,16
+2,h,820000,9.2,1,4.0,629,Moreland,Northern Metropolitan,63
+2,u,485000,8.4,1,1.0,0,Hobsons Bay,Western Metropolitan,12
+3,h,860000,10.4,2,2.0,593,,Western Metropolitan,54
+1,u,260000,11.4,1,1.0,0,Glen Eira,Southern Metropolitan,55
+3,h,1710000,11.0,1,2.0,806,Boroondara,Southern Metropolitan,73
+4,h,631000,14.0,1,3.0,559,Brimbank,Western Metropolitan,54
+2,h,1160000,2.7,1,0.0,140,Stonnington,Southern Metropolitan,54
+2,h,765000,13.9,1,2.0,672,Brimbank,Western Metropolitan,65
+2,u,840000,3.3,2,1.0,0,Stonnington,Southern Metropolitan,22
+3,h,751000,21.3,1,2.0,693,Maroondah,Eastern Metropolitan,74
+3,h,875000,8.8,2,1.0,650,Darebin,Northern Metropolitan,73
+3,h,1322000,11.8,1,1.0,551,Glen Eira,Southern Metropolitan,83
+3,h,1100000,13.0,1,2.0,632,Glen Eira,Southern Metropolitan,53
+3,t,543500,12.4,3,3.0,247,Moreland,Northern Metropolitan,13
+2,h,1085000,5.5,2,1.0,152,Darebin,Northern Metropolitan,54
+5,h,2800000,9.7,3,2.0,678,Boroondara,Southern Metropolitan,22
+2,u,691500,9.2,1,1.0,0,Boroondara,Southern Metropolitan,55
+4,h,720000,17.9,2,3.0,649,Whittlesea,Northern Metropolitan,39
+2,t,400000,8.7,1,2.0,54,Maribyrnong,Western Metropolitan,23
+4,t,820000,8.4,2,2.0,753,Hobsons Bay,Western Metropolitan,17
+3,h,965000,13.9,1,4.0,574,Glen Eira,Southern Metropolitan,53
+1,u,290000,11.4,1,1.0,0,Glen Eira,Southern Metropolitan,63
+1,u,292000,4.6,1,0.0,0,Boroondara,Southern Metropolitan,57
+4,h,1760000,9.2,3,3.0,622,Boroondara,Southern Metropolitan,84
+4,h,970000,11.1,1,2.0,708,Hobsons Bay,Western Metropolitan,54
+3,h,1369000,14.3,1,2.0,696,Manningham,Eastern Metropolitan,54
+3,u,1210000,13.8,2,2.0,9838,Bayside,Southern Metropolitan,14
+4,h,3290000,9.7,3,2.0,1007,Boroondara,Southern Metropolitan,113
+2,u,692000,10.7,1,1.0,74,Bayside,Southern Metropolitan,63
+4,h,1350000,5.2,1,1.0,370,Moreland,Northern Metropolitan,83
+3,h,560000,8.8,1,2.0,591,Darebin,Northern Metropolitan,53
+3,h,1405000,11.1,1,3.0,655,Hobsons Bay,Western Metropolitan,54
+3,h,785000,11.2,1,1.0,602,Moreland,Northern Metropolitan,54
+4,h,1210000,4.0,2,2.0,425,Moreland,Northern Metropolitan,104
+4,h,1126000,11.2,2,2.0,650,Moonee Valley,Western Metropolitan,63
+3,h,825000,8.0,1,3.0,477,Moonee Valley,Western Metropolitan,53
+4,h,1620000,8.4,3,1.0,425,Hobsons Bay,Western Metropolitan,8
+3,h,906000,3.3,1,0.0,154,Stonnington,Southern Metropolitan,103
+3,u,700000,8.0,1,1.0,227,Moonee Valley,Western Metropolitan,19
+2,h,945000,6.9,1,0.0,225,Moonee Valley,Western Metropolitan,133
+2,u,740000,7.4,1,1.0,0,Stonnington,Southern Metropolitan,57
+5,h,1890000,14.3,2,2.0,659,,Eastern Metropolitan,49
+4,h,530000,25.5,2,2.0,448,Whittlesea,Northern Metropolitan,13
+3,h,1622000,7.8,1,1.0,544,Boroondara,Southern Metropolitan,93
+4,h,1805000,4.6,2,1.0,105,Stonnington,Southern Metropolitan,54
+5,h,900000,23.2,2,2.0,942,Knox,Eastern Metropolitan,54
+3,h,985000,7.8,1,1.0,309,Moreland,Northern Metropolitan,143
+1,h,985000,3.3,1,0.0,81,Port Phillip,Southern Metropolitan,123
+2,h,1690000,3.5,1,1.0,173,Yarra,Northern Metropolitan,54
+3,t,1010000,20.0,1,2.0,309,Kingston,South-Eastern Metropolitan,54
+1,h,1435000,6.3,2,1.0,144,Stonnington,Southern Metropolitan,123
+1,u,440000,6.3,1,1.0,0,Stonnington,Southern Metropolitan,54
+3,h,660000,12.1,1,2.0,582,Banyule,Northern Metropolitan,54
+2,u,725000,9.7,1,1.0,134,Boroondara,Southern Metropolitan,54
+4,h,1080000,6.7,1,1.0,452,,Northern Metropolitan,54
+3,h,715500,15.3,1,2.0,685,Whittlesea,Northern Metropolitan,54
+3,h,457000,17.4,1,2.0,551,,Northern Metropolitan,49
+3,t,1680000,9.0,2,2.0,387,Boroondara,Southern Metropolitan,53
+2,u,521500,9.9,1,1.0,0,Moreland,Northern Metropolitan,53
+4,h,3130000,8.4,2,2.0,618,,Southern Metropolitan,54
+1,u,331000,7.0,1,1.0,0,Maribyrnong,Western Metropolitan,54
+3,h,890000,8.8,1,2.0,495,Darebin,Northern Metropolitan,73
+3,h,1010000,7.8,2,1.0,278,Moreland,Northern Metropolitan,54
+4,h,1280000,8.4,2,1.0,458,Hobsons Bay,Western Metropolitan,93
+3,h,2000000,9.2,1,3.0,772,Boroondara,Southern Metropolitan,54
+2,u,530000,7.8,1,1.0,0,Boroondara,Southern Metropolitan,63
+3,h,958000,13.9,2,2.0,0,Manningham,Eastern Metropolitan,53
+4,h,900000,12.0,1,4.0,646,,Northern Metropolitan,74
+4,h,2220000,5.7,2,3.0,580,Darebin,Northern Metropolitan,94
+4,h,1162000,11.2,3,4.0,695,Darebin,Northern Metropolitan,53
+3,h,960000,17.2,1,0.0,781,Whitehorse,Eastern Metropolitan,54
+2,h,940000,5.9,1,1.0,330,Moonee Valley,Western Metropolitan,53
+4,h,2050000,10.7,2,4.0,678,Bayside,Southern Metropolitan,83
+2,h,1095000,2.0,1,0.0,151,Yarra,Northern Metropolitan,124
+4,h,1740000,9.0,3,3.0,948,Banyule,Eastern Metropolitan,63
+4,h,1800000,13.7,2,1.0,667,Bayside,Southern Metropolitan,88
+3,t,910000,6.5,2,1.0,0,Darebin,Northern Metropolitan,53
+7,h,1005000,13.0,3,4.0,607,Glen Eira,Southern Metropolitan,73
+4,h,615000,20.6,2,2.0,756,Hume,Northern Metropolitan,23
+2,h,2200000,2.6,2,1.0,190,Melbourne,Northern Metropolitan,148
+2,u,645000,8.0,1,1.0,228,Moonee Valley,Western Metropolitan,53
+3,h,1414000,7.0,2,2.0,230,Maribyrnong,Western Metropolitan,123
+1,u,597000,1.6,1,1.0,0,Yarra,Northern Metropolitan,23
+3,h,427500,15.5,2,2.0,189,Brimbank,Western Metropolitan,54
+3,u,1410000,10.5,2,2.0,257,Bayside,Southern Metropolitan,54
+2,u,620000,3.6,1,2.0,0,Yarra,Northern Metropolitan,54
+3,h,800000,22.2,2,4.0,801,Kingston,South-Eastern Metropolitan,44
+3,h,1750000,9.2,1,2.0,854,Boroondara,Southern Metropolitan,75
+2,u,595000,3.3,1,2.0,0,Stonnington,Southern Metropolitan,54
+4,h,1600000,5.0,2,3.0,613,Port Phillip,Southern Metropolitan,114
+3,t,720000,7.8,2,2.0,531,Moreland,Northern Metropolitan,8
+2,u,335000,11.2,1,1.0,0,Darebin,Northern Metropolitan,11
+3,h,1000000,5.5,1,1.0,440,Darebin,Northern Metropolitan,93
+3,t,1205000,6.3,2,2.0,101,Stonnington,Southern Metropolitan,23
+3,h,760000,7.8,1,1.0,350,Maribyrnong,Western Metropolitan,73
+3,h,1100000,8.8,2,4.0,637,Darebin,Northern Metropolitan,74
+3,h,1755000,8.5,2,1.0,391,Glen Eira,Southern Metropolitan,118
+2,h,1250000,6.2,1,1.0,450,Moonee Valley,Western Metropolitan,54
+2,u,316000,6.4,1,1.0,0,Maribyrnong,Western Metropolitan,63
+4,h,2450000,5.6,2,2.0,1012,Boroondara,Southern Metropolitan,123
+4,h,1635000,9.7,2,3.0,0,Moonee Valley,Western Metropolitan,29
+2,h,623500,11.2,1,0.0,452,Darebin,Northern Metropolitan,53
+2,u,1645000,1.6,1,3.0,0,Yarra,Northern Metropolitan,133
+3,u,945000,17.3,2,2.0,749,,Southern Metropolitan,44
+4,h,1011000,6.7,2,2.0,500,Moreland,Northern Metropolitan,94
+2,u,445000,10.4,1,1.0,0,Glen Eira,Southern Metropolitan,53
+3,h,1362000,13.9,1,2.0,798,Manningham,Eastern Metropolitan,63
+4,h,1900000,6.1,2,2.0,507,Port Phillip,Southern Metropolitan,133
+3,h,1780000,9.2,1,2.0,627,Boroondara,Southern Metropolitan,54
+2,u,705000,7.5,2,1.0,78,Boroondara,Southern Metropolitan,13
+2,u,550000,8.1,1,1.0,0,Glen Eira,Southern Metropolitan,12
+3,u,907800,17.2,2,2.0,309,,Eastern Metropolitan,19
+2,h,945000,5.1,1,1.0,126,Maribyrnong,Western Metropolitan,134
+3,u,700000,23.2,2,2.0,535,Maroondah,Eastern Metropolitan,54
+2,u,360000,6.4,1,1.0,0,Maribyrnong,Western Metropolitan,54
+3,h,1200000,14.2,1,4.0,807,Monash,Eastern Metropolitan,828
+3,h,751000,8.8,1,0.0,148,Darebin,Northern Metropolitan,73
+2,h,330000,12.1,1,1.0,249,Moreland,Northern Metropolitan,53
+3,h,1500000,9.7,2,4.0,722,Moonee Valley,Western Metropolitan,73
+3,h,790000,25.0,1,2.0,868,Knox,Eastern Metropolitan,54
+2,h,867000,6.7,1,1.0,208,Moreland,Northern Metropolitan,54
+4,h,1040000,8.7,3,2.0,298,Maribyrnong,Western Metropolitan,53
+4,h,1455000,10.1,2,2.0,608,Glen Eira,Southern Metropolitan,54
+2,u,770000,12.1,1,3.0,194,Glen Eira,Southern Metropolitan,54
+2,u,600000,5.8,1,2.0,0,Darebin,Northern Metropolitan,53
+2,t,660000,8.4,2,1.0,70,Darebin,Northern Metropolitan,84
+1,u,451000,6.1,1,1.0,0,Port Phillip,Southern Metropolitan,14
+3,h,950000,20.0,1,2.0,531,,South-Eastern Metropolitan,54
+1,u,671000,11.2,1,1.0,70,Bayside,Southern Metropolitan,43
+3,h,695000,12.8,1,3.0,0,Brimbank,Western Metropolitan,53
+3,h,5100000,4.6,2,3.0,1038,Boroondara,Southern Metropolitan,53
+3,t,1900000,24.8,2,2.0,1869,Knox,Eastern Metropolitan,54
+4,h,680000,18.4,2,3.0,800,Wyndham,Western Metropolitan,34
+2,h,270000,13.0,1,1.0,155,Moreland,Northern Metropolitan,23
+4,h,921500,5.9,1,1.0,575,Moreland,Northern Metropolitan,93
+2,u,570000,5.5,1,1.0,0,Darebin,Northern Metropolitan,53
+4,h,1290000,11.2,2,2.0,395,Stonnington,Southern Metropolitan,54
+2,h,868000,4.2,1,1.0,97,Melbourne,Northern Metropolitan,24
+1,u,315000,6.5,1,1.0,0,Darebin,Northern Metropolitan,53
+3,h,731000,9.9,1,2.0,568,Moreland,Northern Metropolitan,63
+3,h,1400000,8.0,2,2.0,383,Moonee Valley,Western Metropolitan,53
+3,h,1303500,9.3,1,2.0,699,Glen Eira,Southern Metropolitan,53
+2,h,1575000,5.5,1,3.0,607,Darebin,Northern Metropolitan,78
+3,h,2515000,13.8,2,2.0,604,,Southern Metropolitan,54
+1,u,270000,12.0,1,1.0,0,Darebin,Northern Metropolitan,44
+5,h,2545000,5.2,3,4.0,957,Moreland,Northern Metropolitan,29
+4,h,1070000,13.8,2,2.0,695,Hobsons Bay,Western Metropolitan,53
+5,h,715000,13.5,2,2.0,654,Brimbank,Western Metropolitan,53
+3,h,1402000,3.8,1,0.0,108,Port Phillip,Southern Metropolitan,123
+3,h,1320000,5.1,1,0.0,365,Port Phillip,Southern Metropolitan,53
+4,t,650000,10.5,2,1.0,283,Brimbank,Western Metropolitan,19
+3,h,1320000,8.7,2,2.0,645,Maribyrnong,Western Metropolitan,123
+3,h,635000,16.3,1,4.0,536,Whittlesea,Northern Metropolitan,54
+2,u,432000,5.9,1,1.0,0,Moonee Valley,Western Metropolitan,45
+2,h,953000,8.0,1,1.0,414,Moonee Valley,Western Metropolitan,53
+3,h,683000,11.1,1,2.0,534,Hobsons Bay,Western Metropolitan,56
+2,h,825000,4.2,1,1.0,211,Melbourne,Northern Metropolitan,108
+2,h,1335000,4.1,1,1.0,107,Port Phillip,Southern Metropolitan,124
+1,u,305000,6.4,1,1.0,59,Maribyrnong,Western Metropolitan,58
+2,h,1015000,2.5,1,1.0,131,Yarra,Northern Metropolitan,133
+3,h,341000,29.8,2,4.0,578,Melton,Western Victoria,54
+5,h,1235000,14.7,3,2.0,634,,Eastern Metropolitan,24
+3,h,1450000,13.9,1,1.0,638,Manningham,Eastern Metropolitan,53
+3,h,1116000,11.4,1,2.0,278,Glen Eira,Southern Metropolitan,94
+2,u,500000,1.8,1,1.0,4076,Melbourne,Northern Metropolitan,54
+4,h,2000000,5.8,3,2.0,575,Darebin,Northern Metropolitan,8
+4,h,650000,14.0,3,1.0,693,,Northern Metropolitan,44
+3,h,1425000,2.4,3,3.0,81,Yarra,Northern Metropolitan,24
+3,h,1280000,8.2,3,2.0,571,,Western Metropolitan,64
+2,u,323000,11.2,1,1.0,0,Darebin,Northern Metropolitan,63
+6,h,931000,15.3,3,3.0,646,,Northern Metropolitan,54
+3,h,991000,11.2,1,1.0,716,Moonee Valley,Western Metropolitan,74
+4,h,1250000,17.2,2,2.0,986,,Eastern Metropolitan,54
+3,t,2400000,4.6,3,2.0,425,Stonnington,Southern Metropolitan,25
+3,h,425000,20.6,2,2.0,263,Hume,Northern Metropolitan,16
+1,u,395000,5.6,1,1.0,0,Boroondara,Southern Metropolitan,18
+5,h,3750000,7.5,3,4.0,858,Boroondara,Southern Metropolitan,54
+3,h,1150000,8.0,1,0.0,300,Moonee Valley,Western Metropolitan,123
+2,u,739000,7.9,1,1.0,648,Banyule,Eastern Metropolitan,58
+2,h,1210000,4.5,1,0.0,218,Stonnington,Southern Metropolitan,113
+3,t,900000,17.3,2,2.0,243,Bayside,Southern Metropolitan,54
+4,h,1370000,10.4,3,2.0,634,,Western Metropolitan,7
+4,h,1336000,7.8,2,1.0,343,Maribyrnong,Western Metropolitan,103
+3,h,780000,11.2,2,2.0,274,Moonee Valley,Western Metropolitan,53
+3,h,825000,14.6,1,2.0,538,Kingston,Southern Metropolitan,53
+3,h,2285000,3.3,2,2.0,221,Stonnington,Southern Metropolitan,133
+2,h,1600000,5.3,1,2.0,200,,Southern Metropolitan,134
+3,h,741000,14.9,1,1.0,671,Banyule,Northern Metropolitan,63
+3,h,1070000,8.8,1,2.0,585,Darebin,Northern Metropolitan,54
+3,h,588000,11.1,1,1.0,328,Hobsons Bay,Western Metropolitan,53
+1,u,580000,13.8,2,1.0,486,Bayside,Southern Metropolitan,12
+3,h,801000,11.2,1,1.0,551,Darebin,Northern Metropolitan,74
+3,h,1361000,2.6,2,1.0,99,Yarra,Northern Metropolitan,54
+4,h,3310000,7.5,2,3.0,762,Boroondara,Southern Metropolitan,54
+3,h,1612000,4.5,2,0.0,146,Stonnington,Southern Metropolitan,123
+4,h,570000,31.7,2,2.0,693,,Western Metropolitan,29
+5,h,2000000,6.1,2,2.0,436,Port Phillip,Southern Metropolitan,114
+3,h,805000,13.1,2,2.0,572,Moreland,Northern Metropolitan,54
+4,h,3500000,9.2,2,2.0,859,Stonnington,Southern Metropolitan,53
+2,u,505000,11.2,1,1.0,110,Darebin,Northern Metropolitan,64
+3,h,1590000,5.2,2,1.0,322,Moreland,Northern Metropolitan,54
+3,h,640000,27.1,2,2.0,945,Yarra Ranges,Eastern Victoria,54
+4,h,1165000,17.9,2,2.0,594,,Southern Metropolitan,54
+5,h,2140000,10.7,2,2.0,780,Bayside,Southern Metropolitan,74
+2,u,502000,7.8,1,1.0,0,Boroondara,Southern Metropolitan,58
+3,h,1700000,4.6,1,2.0,338,Boroondara,Southern Metropolitan,114
+3,h,3400000,4.3,1,5.0,2027,,Western Metropolitan,60
+4,h,820000,25.0,2,4.0,719,Knox,Eastern Metropolitan,49
+2,u,800000,3.3,2,2.0,0,Stonnington,Southern Metropolitan,24
+3,h,1430000,16.0,1,0.0,703,Bayside,Southern Metropolitan,54
+4,h,2425000,7.5,2,2.0,729,Boroondara,Southern Metropolitan,54
+3,h,1127000,8.8,2,2.0,590,Darebin,Northern Metropolitan,83
+2,t,475000,11.5,1,1.0,118,Moreland,Northern Metropolitan,13
+3,h,1225000,5.3,1,2.0,260,Darebin,Northern Metropolitan,54
+4,h,1075000,15.4,2,2.0,697,Whitehorse,Eastern Metropolitan,54
+2,h,890000,7.0,1,0.0,166,Maribyrnong,Western Metropolitan,103
+3,h,1410000,10.1,1,1.0,579,Glen Eira,Southern Metropolitan,54
+3,h,1193000,6.6,1,1.0,178,Port Phillip,Southern Metropolitan,103
+4,h,1916000,9.3,2,2.0,630,Glen Eira,Southern Metropolitan,113
+4,h,1550000,8.4,2,1.0,642,Glen Eira,Southern Metropolitan,54
+4,h,925000,16.1,2,2.0,1070,Banyule,Northern Metropolitan,44
+2,h,1023000,4.0,1,2.0,154,,Northern Metropolitan,134
+5,h,1461800,13.9,2,2.0,660,Manningham,Eastern Metropolitan,53
+5,h,2665000,9.7,3,2.0,674,Boroondara,Southern Metropolitan,53
+3,h,2000000,9.2,1,2.0,821,Boroondara,Southern Metropolitan,53
+4,h,890000,12.6,1,2.0,668,Brimbank,Western Metropolitan,93
+2,h,640000,9.2,1,2.0,206,Maribyrnong,Western Metropolitan,54
+2,u,665000,7.8,1,1.0,0,Glen Eira,Southern Metropolitan,54
+2,u,495000,9.9,1,1.0,207,Moreland,Northern Metropolitan,48
+3,h,618500,24.7,1,2.0,540,Greater Dandenong,South-Eastern Metropolitan,54
+2,u,592000,5.9,1,1.0,0,Stonnington,Southern Metropolitan,47
+4,h,2120000,13.0,2,2.0,847,Monash,Southern Metropolitan,98
+2,u,546500,10.6,1,1.0,132,Banyule,Eastern Metropolitan,51
+6,h,1455000,7.8,3,4.0,768,Moreland,Northern Metropolitan,27
+2,u,510000,4.5,1,1.0,0,Moreland,Northern Metropolitan,53
+5,h,2250000,7.5,2,2.0,452,Boroondara,Southern Metropolitan,121
+4,h,2240000,5.6,2,2.0,820,Boroondara,Southern Metropolitan,53
+3,h,715000,14.9,1,2.0,312,Banyule,Northern Metropolitan,54
+2,u,350000,6.5,1,1.0,0,Darebin,Northern Metropolitan,63
+2,u,380000,9.1,1,1.0,78,Hobsons Bay,Western Metropolitan,63
+3,t,1071000,8.5,2,2.0,179,Glen Eira,Southern Metropolitan,23
+3,u,480000,12.4,2,1.0,218,Darebin,Northern Metropolitan,19
+2,t,416000,11.2,1,1.0,159,Darebin,Northern Metropolitan,23
+3,u,616000,6.1,2,2.0,0,Port Phillip,Southern Metropolitan,28
+4,h,1181000,13.8,2,2.0,805,Manningham,Eastern Metropolitan,54
+5,h,1501000,8.5,3,3.0,681,Moreland,Northern Metropolitan,64
+3,u,1000000,1.6,2,2.0,0,Yarra,Northern Metropolitan,19
+2,h,1701000,11.2,1,2.0,0,Bayside,Southern Metropolitan,54
+3,h,1220000,12.1,1,2.0,735,Glen Eira,Southern Metropolitan,53
+4,h,920000,21.3,2,2.0,655,,Eastern Metropolitan,54
+3,t,815000,20.0,3,2.0,93,Kingston,South-Eastern Metropolitan,54
+3,h,529000,14.7,2,2.0,847,Wyndham,Western Metropolitan,44
+2,h,745000,9.2,1,3.0,526,Moreland,Northern Metropolitan,83
+3,h,710000,13.0,1,2.0,587,Moreland,Northern Metropolitan,54
+1,u,517500,6.5,1,0.0,0,Darebin,Northern Metropolitan,113
+4,h,1035000,14.6,1,2.0,688,Kingston,Southern Metropolitan,73
+2,u,585000,1.8,1,1.0,0,Melbourne,Northern Metropolitan,53
+3,t,830000,5.5,3,1.0,55,Darebin,Northern Metropolitan,10
+2,h,767000,7.0,1,0.0,128,Maribyrnong,Western Metropolitan,104
+3,t,1308000,1.6,1,2.0,125,Yarra,Northern Metropolitan,34
+3,h,2225000,6.2,1,2.0,616,Boroondara,Southern Metropolitan,104
+4,h,650000,38.0,2,2.0,710,,South-Eastern Metropolitan,54
+2,h,1150000,5.9,1,1.0,387,Moonee Valley,Western Metropolitan,54
+2,u,682000,4.1,1,1.0,713,Stonnington,Southern Metropolitan,49
+3,h,1570000,2.6,1,2.0,248,Yarra,Northern Metropolitan,53
+3,h,395000,29.8,1,1.0,649,,Western Victoria,49
+2,h,1215000,8.4,1,2.0,482,Hobsons Bay,Western Metropolitan,54
+2,h,801000,8.4,1,1.0,343,Hobsons Bay,Western Metropolitan,103
+3,t,555000,9.2,1,2.0,210,Maribyrnong,Western Metropolitan,11
+3,h,350000,14.5,1,2.0,600,Hume,Northern Metropolitan,73
+2,u,523000,8.1,1,1.0,0,Glen Eira,Southern Metropolitan,63
+2,u,610000,16.1,1,1.0,180,,Eastern Metropolitan,54
+2,u,599999,7.7,1,0.0,0,Port Phillip,Southern Metropolitan,53
+3,u,545000,13.5,2,1.0,240,Brimbank,Western Metropolitan,12
+1,u,295000,8.7,1,1.0,811,Glen Eira,Southern Metropolitan,54
+3,h,446000,18.4,2,2.0,326,Wyndham,Western Metropolitan,12
+2,h,670000,10.8,1,2.0,551,Maribyrnong,Western Metropolitan,53
+3,h,515000,20.6,2,2.0,490,Hume,Northern Metropolitan,54
+4,h,1025000,13.0,2,4.0,1011,Moreland,Northern Metropolitan,53
+2,u,760000,11.2,1,1.0,681,Boroondara,Southern Metropolitan,55
+3,h,1668000,5.6,2,2.0,289,Boroondara,Southern Metropolitan,54
+2,h,740000,7.0,1,0.0,261,Maribyrnong,Western Metropolitan,54
+1,u,510000,3.3,1,1.0,0,Stonnington,Southern Metropolitan,23
+3,h,1410000,5.4,1,1.0,404,Boroondara,Southern Metropolitan,94
+4,h,810000,9.7,1,1.0,543,Moonee Valley,Western Metropolitan,64
+3,h,1780000,8.4,2,2.0,580,Stonnington,Southern Metropolitan,94
+2,u,831000,11.2,1,1.0,982,Boroondara,Southern Metropolitan,53
+2,u,720000,1.6,1,1.0,3481,Melbourne,Northern Metropolitan,54
+2,h,4525000,1.5,2,1.0,220,Melbourne,Northern Metropolitan,53
+2,h,425000,12.6,1,1.0,225,Brimbank,Western Metropolitan,23
+3,h,840000,11.2,1,1.0,722,Moreland,Northern Metropolitan,64
+3,h,1060000,7.2,2,1.0,306,Glen Eira,Southern Metropolitan,54
+4,h,816000,13.9,1,2.0,837,Brimbank,Western Metropolitan,93
+2,h,1065000,3.5,1,2.0,4025,,Northern Metropolitan,54
+4,h,2220000,11.0,3,2.0,480,Boroondara,Southern Metropolitan,8
+2,t,945000,1.6,1,1.0,15900,Yarra,Northern Metropolitan,144
+3,h,1300000,7.8,2,2.0,334,Banyule,Eastern Metropolitan,19
+3,h,940000,11.2,2,5.0,627,Moreland,Northern Metropolitan,64
+2,u,569000,7.4,1,2.0,0,Stonnington,Southern Metropolitan,53
+3,h,830000,14.5,1,2.0,696,Banyule,Northern Metropolitan,54
+3,h,610000,14.0,1,2.0,563,Brimbank,Western Metropolitan,35
+3,h,1286000,7.8,2,2.0,435,Moreland,Northern Metropolitan,53
+5,h,1811000,8.0,3,2.0,657,Moonee Valley,Western Metropolitan,93
+2,u,630000,8.0,1,1.0,0,Moonee Valley,Western Metropolitan,48
+2,u,621500,3.3,1,1.0,0,Stonnington,Southern Metropolitan,53
+3,h,1170000,4.5,2,0.0,185,Moreland,Northern Metropolitan,25
+3,t,830000,11.2,3,2.0,303,Moonee Valley,Western Metropolitan,10
+2,u,642500,0.7,1,1.0,8888,Melbourne,Southern Metropolitan,30
+3,h,1360000,9.2,2,1.0,704,Boroondara,Southern Metropolitan,83
+3,t,875000,20.0,2,2.0,165,,South-Eastern Metropolitan,54
+2,h,2120000,3.3,1,1.0,199,Port Phillip,Southern Metropolitan,123
+3,t,1565000,3.8,1,2.0,188,Port Phillip,Southern Metropolitan,53
+2,u,440000,11.2,1,2.0,132,Darebin,Northern Metropolitan,43
+5,h,1900000,6.9,3,2.0,646,Moonee Valley,Western Metropolitan,98
+2,h,1055000,4.5,1,0.0,203,Stonnington,Southern Metropolitan,123
+3,h,1285000,6.3,1,1.0,284,Maribyrnong,Western Metropolitan,124
+2,u,472000,14.5,1,1.0,215,Kingston,Southern Metropolitan,17
+4,h,1850000,13.4,2,2.0,628,,Eastern Metropolitan,12
+2,u,516000,13.0,1,1.0,0,Monash,Southern Metropolitan,53
+2,u,680500,16.0,1,1.0,158,,Southern Metropolitan,24
+3,t,1115000,13.9,2,2.0,297,Glen Eira,Southern Metropolitan,54
+3,h,1510000,5.9,1,0.0,228,,Southern Metropolitan,124
+3,t,750000,14.6,2,1.0,164,Kingston,Southern Metropolitan,13
+3,h,1760000,13.1,1,0.0,741,Whitehorse,Eastern Metropolitan,113
+5,h,725500,18.0,3,2.0,450,Melton,Western Metropolitan,13
+2,u,505000,3.3,1,1.0,0,Stonnington,Southern Metropolitan,54
+5,h,5065000,5.4,4,2.0,892,,Southern Metropolitan,107
+3,h,1350000,15.5,2,2.0,809,Manningham,Eastern Metropolitan,49
+3,h,910000,11.1,1,3.0,535,Hobsons Bay,Western Metropolitan,54
+4,h,900000,23.2,2,2.0,656,,Eastern Metropolitan,49
+4,h,975000,6.7,2,2.0,301,,Northern Metropolitan,19
+3,h,720000,14.5,1,1.0,696,Brimbank,Western Metropolitan,48
+3,h,1237000,17.2,2,2.0,534,,Eastern Metropolitan,54
+3,h,725000,12.1,2,4.0,560,Moreland,Northern Metropolitan,53
+3,h,1100000,13.0,2,2.0,0,Glen Eira,Southern Metropolitan,53
+2,t,610000,7.8,2,1.0,114,Moreland,Northern Metropolitan,53
+2,u,645000,2.3,1,1.0,0,Melbourne,Northern Metropolitan,53
+4,h,1265000,21.5,2,2.0,604,Kingston,South-Eastern Metropolitan,54
+2,u,1350000,7.4,2,2.0,0,Stonnington,Southern Metropolitan,54
+2,u,650000,9.3,1,1.0,100,Glen Eira,Southern Metropolitan,53
+3,h,961000,10.4,1,2.0,717,Moonee Valley,Western Metropolitan,74
+4,h,1800000,9.2,3,2.0,743,Stonnington,Southern Metropolitan,53
+3,u,597000,6.4,1,1.0,126,Maribyrnong,Western Metropolitan,29
+4,h,2250000,13.7,2,2.0,647,Bayside,Southern Metropolitan,98
+4,h,1550000,16.0,2,2.0,613,,Southern Metropolitan,64
+2,u,760000,15.2,1,1.0,0,Bayside,Southern Metropolitan,54
+1,h,1200000,5.2,1,0.0,225,Moreland,Northern Metropolitan,54
+5,h,1050000,11.2,2,1.0,578,Darebin,Northern Metropolitan,53
+2,t,810000,9.4,2,1.0,175,Moonee Valley,Western Metropolitan,54
+4,h,2513000,5.6,1,2.0,832,Boroondara,Southern Metropolitan,53
+3,h,1060000,8.4,1,4.0,600,Hobsons Bay,Western Metropolitan,53
+3,h,753000,15.0,2,1.0,536,Banyule,Northern Metropolitan,49
+2,h,1220000,11.2,1,2.0,829,Moreland,Northern Metropolitan,54
+3,h,2273000,11.2,3,1.0,376,Stonnington,Southern Metropolitan,93
+2,u,450000,8.9,1,0.0,2020,Banyule,Eastern Metropolitan,26
+2,u,706000,8.5,1,1.0,205,Moreland,Northern Metropolitan,26
+3,h,1275000,16.7,2,2.0,714,,Eastern Metropolitan,51
+3,h,811000,26.0,1,3.0,992,Maroondah,Eastern Metropolitan,67
+4,h,910000,8.8,1,1.0,582,Darebin,Northern Metropolitan,53
+4,h,3200000,2.1,4,0.0,225,Yarra,Northern Metropolitan,162
+2,h,1430000,3.4,1,0.0,151,Yarra,Northern Metropolitan,114
+4,h,1150000,21.5,2,2.0,599,Kingston,South-Eastern Metropolitan,54
+4,h,1210000,6.2,1,0.0,325,,Western Metropolitan,41
+3,h,570000,15.0,1,2.0,557,Brimbank,Western Metropolitan,54
+3,h,540000,19.6,1,4.0,699,Whittlesea,Northern Metropolitan,36
+2,u,665000,3.5,2,1.0,1472,Port Phillip,Southern Metropolitan,14
+1,u,247500,4.6,1,1.0,0,Stonnington,Southern Metropolitan,54
+3,h,2000000,9.2,1,2.0,75100,Boroondara,Southern Metropolitan,53
+4,h,1205000,7.8,1,1.0,318,Maribyrnong,Western Metropolitan,64
+3,h,1135000,13.0,1,2.0,627,Glen Eira,Southern Metropolitan,53
+2,u,598000,2.3,1,1.0,0,Melbourne,Northern Metropolitan,18
+3,u,1072000,3.3,0,0.0,0,Stonnington,Southern Metropolitan,53
+4,h,1450000,11.4,2,2.0,689,,Southern Metropolitan,54
+3,h,840000,13.9,2,2.0,697,Glen Eira,Southern Metropolitan,53
+3,h,875000,9.2,1,1.0,592,Moreland,Northern Metropolitan,54
+2,h,1250000,11.4,1,2.0,368,Glen Eira,Southern Metropolitan,104
+2,h,1385000,7.5,1,2.0,326,Boroondara,Southern Metropolitan,83
+3,h,612500,13.0,2,3.0,635,Moreland,Northern Metropolitan,53
+2,u,700000,11.2,1,1.0,0,Bayside,Southern Metropolitan,71
+4,h,1422000,9.8,2,2.0,505,Moonee Valley,Western Metropolitan,10
+2,u,502000,12.8,1,2.0,0,Moonee Valley,Western Metropolitan,33
+3,h,890000,11.2,2,2.0,634,Darebin,Northern Metropolitan,53
+4,h,1200000,16.7,2,2.0,660,Monash,Eastern Metropolitan,54
+3,u,1096000,13.0,2,2.0,292,Glen Eira,Southern Metropolitan,53
+3,h,1056800,3.3,2,1.0,90,Stonnington,Southern Metropolitan,53
+3,h,1052000,10.4,1,0.0,801,Whitehorse,Southern Metropolitan,54
+3,t,553500,12.4,2,1.0,280,Moreland,Northern Metropolitan,53
+2,u,560000,6.5,1,2.0,0,Darebin,Northern Metropolitan,53
+3,h,2200000,1.9,2,1.0,195,Port Phillip,Southern Metropolitan,167
+2,h,1705000,6.3,2,0.0,195,Stonnington,Southern Metropolitan,54
+4,h,1040000,8.4,2,2.0,299,Hobsons Bay,Western Metropolitan,19
+4,h,597000,31.7,2,4.0,939,Hume,Western Metropolitan,47
+3,t,940000,4.3,2,2.0,366,Maribyrnong,Western Metropolitan,12
+5,h,790000,26.1,2,2.0,1034,Nillumbik,Northern Victoria,39
+4,h,2000000,13.9,3,2.0,507,Manningham,Eastern Metropolitan,53
+5,h,1900000,10.7,3,2.0,583,Bayside,Southern Metropolitan,15
+3,h,386000,14.0,1,1.0,341,Hume,Northern Metropolitan,59
+2,u,380000,12.4,1,1.0,128,Darebin,Northern Metropolitan,54
+3,h,757500,18.8,2,1.0,145,Monash,South-Eastern Metropolitan,54
+3,h,550000,18.0,2,2.0,668,Brimbank,Western Metropolitan,54
+2,t,1050000,1.6,1,1.0,87,Yarra,Northern Metropolitan,24
+4,h,2920000,2.3,3,4.0,310,Melbourne,Northern Metropolitan,143
+2,u,632000,7.7,1,1.0,0,Port Phillip,Southern Metropolitan,53
+2,h,1050000,5.5,1,1.0,181,Darebin,Northern Metropolitan,99
+2,u,640000,11.2,1,1.0,0,Whitehorse,Southern Metropolitan,54
+2,u,743000,4.6,1,2.0,0,Boroondara,Southern Metropolitan,53
+3,h,1570000,3.8,2,1.0,210,Port Phillip,Southern Metropolitan,24
+2,h,1601000,11.2,1,1.0,380,Bayside,Southern Metropolitan,65
+4,h,2000000,6.3,3,4.0,544,Stonnington,Southern Metropolitan,53
+2,h,1350000,1.6,1,0.0,131,Yarra,Northern Metropolitan,124
+3,h,861000,24.8,2,1.0,720,Knox,Eastern Metropolitan,64
+2,h,1031000,4.2,1,1.0,163,Melbourne,Northern Metropolitan,123
+3,h,840000,6.9,1,0.0,307,Moonee Valley,Western Metropolitan,113
+3,h,1865000,11.2,2,2.0,295,Bayside,Southern Metropolitan,53
+2,h,910000,5.5,1,1.0,150,Darebin,Northern Metropolitan,28
+3,h,1600000,2.6,2,2.0,80,Yarra,Northern Metropolitan,173
+3,h,1587000,11.8,2,2.0,624,Whitehorse,Eastern Metropolitan,54
+4,h,990000,12.6,1,6.0,654,Brimbank,Western Metropolitan,74
+3,h,980000,8.4,1,5.0,581,Darebin,Northern Metropolitan,54
+1,u,216000,11.2,1,1.0,0,Darebin,Northern Metropolitan,53
+3,h,1680000,7.5,2,2.0,673,Moonee Valley,Western Metropolitan,59
+4,u,660000,10.5,2,2.0,283,Brimbank,Western Metropolitan,17
+4,t,492000,17.9,1,1.0,199,,Northern Metropolitan,54
+3,h,2600000,5.4,1,2.0,780,,Southern Metropolitan,54
+1,h,482500,7.8,1,1.0,108,Moreland,Northern Metropolitan,53
+4,h,1340000,4.3,1,3.0,697,Maribyrnong,Western Metropolitan,104
+2,u,507000,7.7,1,1.0,0,Port Phillip,Southern Metropolitan,53
+3,h,2775000,5.3,1,2.0,901,Darebin,Northern Metropolitan,54
+2,u,370000,5.1,1,1.0,0,Maribyrnong,Western Metropolitan,64
+2,u,470500,21.5,1,1.0,0,Kingston,South-Eastern Metropolitan,54
+2,u,595000,6.2,1,1.0,0,Boroondara,Southern Metropolitan,54
+2,u,605000,7.5,1,1.0,0,Boroondara,Southern Metropolitan,63
+4,h,1810000,6.2,2,2.0,431,Moonee Valley,Western Metropolitan,130
+3,h,3750000,3.0,2,1.0,411,Port Phillip,Southern Metropolitan,54
+2,h,1301000,6.1,1,1.0,165,Port Phillip,Southern Metropolitan,114
+2,h,760000,10.8,1,1.0,604,Maribyrnong,Western Metropolitan,74
+2,t,817500,10.1,1,1.0,292,Glen Eira,Southern Metropolitan,54
+3,h,750000,7.0,2,1.0,390,Maribyrnong,Western Metropolitan,44
+1,u,410000,2.6,1,1.0,0,Yarra,Northern Metropolitan,15
+3,h,755000,16.2,1,2.0,848,Banyule,Eastern Metropolitan,54
+3,h,2000000,6.4,3,2.0,686,Darebin,Northern Metropolitan,53
+3,h,891500,8.4,1,0.0,344,Hobsons Bay,Western Metropolitan,103
+3,h,1172000,5.9,1,2.0,512,Moreland,Northern Metropolitan,53
+3,h,520000,14.0,1,2.0,570,Brimbank,Western Metropolitan,54
+4,h,1750000,9.7,3,2.0,453,Boroondara,Southern Metropolitan,7
+4,u,1250000,1.2,3,1.0,0,Melbourne,Southern Metropolitan,23
+3,h,1360000,9.7,2,2.0,424,Boroondara,Southern Metropolitan,54
+3,h,1160000,10.8,1,1.0,603,Manningham,Eastern Metropolitan,54
+1,u,515000,4.6,1,2.0,284,,Southern Metropolitan,54
+5,h,2020000,8.0,3,3.0,900,Moonee Valley,Western Metropolitan,54
+4,t,1100000,10.7,3,2.0,302,Bayside,Southern Metropolitan,53
+2,h,855000,7.8,1,2.0,239,Boroondara,Southern Metropolitan,54
+2,t,805000,6.5,1,2.0,164,Darebin,Northern Metropolitan,14
+5,h,3075000,13.7,2,2.0,830,Bayside,Southern Metropolitan,122
+3,h,646000,19.6,2,2.0,716,,Northern Metropolitan,45
+2,u,631500,6.3,1,1.0,0,Stonnington,Southern Metropolitan,54
+2,u,501000,3.4,1,1.0,3957,Melbourne,Northern Metropolitan,16
+5,h,3250000,9.7,5,2.0,651,Boroondara,Southern Metropolitan,53
+3,h,1850000,5.1,1,2.0,361,Stonnington,Southern Metropolitan,53
+4,h,2990000,5.5,1,2.0,557,Darebin,Northern Metropolitan,54
+3,h,1430000,11.4,2,2.0,603,Glen Eira,Southern Metropolitan,78
+4,h,1290000,6.4,1,2.0,411,Maribyrnong,Western Metropolitan,53
+4,h,1650000,7.9,2,1.0,589,Banyule,Eastern Metropolitan,114
+3,h,602500,15.0,2,2.0,586,Banyule,Northern Metropolitan,53
+3,h,1040000,8.2,1,1.0,330,Maribyrnong,Western Metropolitan,54
+4,h,1830000,6.4,2,2.0,606,Darebin,Northern Metropolitan,53
+3,h,927000,7.7,1,0.0,274,Hobsons Bay,Western Metropolitan,113
+3,h,2035000,3.3,1,1.0,185,Port Phillip,Southern Metropolitan,54
+4,h,347500,29.8,2,1.0,587,Melton,Western Victoria,34
+3,h,740000,14.9,1,1.0,591,Banyule,Northern Metropolitan,63
+1,u,549800,4.5,1,1.0,0,Stonnington,Southern Metropolitan,11
+4,h,1631000,3.5,3,2.0,362,,Southern Metropolitan,54
+3,t,560000,8.6,1,1.0,158,Maribyrnong,Western Metropolitan,22
+4,h,1007000,8.5,2,2.0,125,Glen Eira,Southern Metropolitan,23
+3,t,605100,13.8,2,0.0,265,Hobsons Bay,Western Metropolitan,53
+3,h,1292000,12.3,1,1.0,716,Monash,Southern Metropolitan,54
+2,u,360000,4.4,1,1.0,0,Moonee Valley,Northern Metropolitan,53
+2,u,820000,7.8,1,1.0,166,Boroondara,Southern Metropolitan,55
+2,t,625000,16.1,2,1.0,189,,Eastern Metropolitan,54
+2,u,600000,5.5,1,1.0,671,Darebin,Northern Metropolitan,53
+3,u,975000,12.1,2,1.0,277,Glen Eira,Southern Metropolitan,48
+3,h,1100000,13.4,1,1.0,614,Whitehorse,Eastern Metropolitan,54
+5,h,2168000,13.9,5,2.0,669,Manningham,Eastern Metropolitan,7
+1,u,315000,5.2,1,1.0,1403,Moreland,Northern Metropolitan,54
+3,t,550000,7.9,1,1.0,139,Banyule,Eastern Metropolitan,53
+3,h,1310000,8.0,2,1.0,185,Hobsons Bay,Western Metropolitan,123
+3,h,2200000,11.2,2,4.0,816,Boroondara,Southern Metropolitan,53
+5,h,955000,17.9,2,5.0,698,Whittlesea,Northern Metropolitan,29
+4,t,1105000,14.6,2,2.0,220,Kingston,Southern Metropolitan,8
+2,h,1625000,3.5,1,1.0,253,,Northern Metropolitan,54
+3,h,1134000,8.0,1,1.0,551,Moonee Valley,Western Metropolitan,73
+3,t,805000,4.5,1,1.0,0,Moreland,Northern Metropolitan,20
+2,u,620000,14.2,1,1.0,190,Monash,Eastern Metropolitan,54
+3,h,620000,15.5,1,2.0,466,Hobsons Bay,Western Metropolitan,49
+2,h,417500,19.6,1,1.0,157,Whittlesea,Northern Metropolitan,24
+2,t,1037000,11.2,1,2.0,125,Bayside,Southern Metropolitan,15
+2,h,1450000,7.2,2,2.0,213,,Southern Metropolitan,54
+3,u,945000,11.4,1,2.0,1103,Glen Eira,Southern Metropolitan,37
+2,u,440000,8.0,1,1.0,1011,Moonee Valley,Western Metropolitan,53
+5,h,1351000,13.9,2,2.0,652,Glen Eira,Southern Metropolitan,54

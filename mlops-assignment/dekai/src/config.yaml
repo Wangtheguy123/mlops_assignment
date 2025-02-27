@@ -1,0 +1,44 @@
+dataset:
+  raw_path: "dekai/data/raw/01_Melbourne_Residential.csv"
+  processed_train_path: "dekai/processed/train.csv"
+  processed_test_path: "dekai/processed/test.csv"
+  drop_columns_initial:  # Drop these first (safe to remove)
+    - "Postcode"
+    - "Seller"
+    - "Address"
+    - "Method"
+    - "Suburb"
+    - "Lattitude"
+    - "Longtitude"
+    - "Propertycount"
+  drop_columns_final:  # Drop these after calculations
+    - "YearBuilt"
+    - "Date"
+    - "Sale Year"
+    - "Bedroom2"
+    - "BuildingArea"
+  fill_missing:
+    BuildingArea: "median"
+    Car: "median"
+    YearBuilt: "median"
+
+train_test_split:
+  test_size: 0.2
+  random_state: 123
+
+
+pycaret_setup:
+  target: "Price"
+  session_id: 123
+  normalize: True
+  transformation: True
+  remove_outliers: True
+  remove_multicollinearity: True
+  multicollinearity_threshold: 0.9
+
+
+model:
+  auto_select: True
+  type: "rf"  # auto_select is False
+  output_path: "dekai/models/Dekai_Melbourne_Residential_price_predictions"
+  output_path_app: "dekai/app/final_melbourne_model"

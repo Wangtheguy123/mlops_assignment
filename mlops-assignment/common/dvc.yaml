@@ -1,0 +1,90 @@
+stages:
+  preprocess_xr:
+    cmd: poetry run python xinrui/src/preprocess.py
+    deps:
+      - xinrui/data/raw/03_Wheat_Seeds.csv
+      - xinrui/src/preprocess.py
+    outs:
+      - xinrui/data/processed/train.csv
+      - xinrui/data/processed/test.csv
+
+  preprocess_jet:
+    cmd: poetry run python jet/src/preprocess.py
+    deps:
+      - jet/data/raw/02_Used_Car_Prices.xlsx
+      - jet/src/preprocess.py
+    outs:
+      - jet/data/processed/train.csv
+      - jet/data/processed/test.csv
+
+  preprocess_dk:
+    cmd: poetry run python dekai/src/preprocess.py
+    deps:
+      - dekai/data/raw/01_Melbourne_Residential.csv
+      - dekai/src/preprocess.py
+    outs:
+      - dekai/data/processed/train.csv
+      - dekai/data/processed/test.csv
+
+  train_xr:
+    cmd: poetry run python xinrui/src/train.py
+    deps:
+      - xinrui/data/processed/train.csv
+      - xinrui/src/train.py
+      - common/config.yaml
+    outs:
+      - xinrui/app/final_wheat_seeds_model.pkl
+
+  train_jet:
+    cmd: poetry run python jet/src/train.py
+    deps:
+      - jet/data/processed/train.csv
+      - jet/src/train.py
+      - common/config.yaml
+    outs:
+      - jet/app/final_used_car_model.pkl
+
+  train_dk:
+    cmd: poetry run python dekai/src/train.py
+    deps:
+      - dekai/data/processed/train.csv
+      - dekai/src/train.py
+      - common/config.yaml
+    outs:
+      - dekai/app/final_melbourne_model.pkl
+
+  evaluate_xr:
+    cmd: poetry run python xinrui/src/evaluate.py
+    deps:
+      - xinrui/app/final_wheat_seeds_model.pkl
+      - xinrui/data/processed/test.csv
+      - xinrui/src/evaluate.py
+    metrics:
+      - xinrui/metrics.json
+
+  evaluate_jet:
+    cmd: poetry run python jet/src/evaluate.py
+    deps:
+      - jet/app/final_used_car_model.pkl
+      - jet/data/processed/test.csv
+      - jet/src/evaluate.py
+    metrics:
+      - jet/metrics.json
+
+  evaluate_dk:
+    cmd: poetry run python dekai/src/evaluate.py
+    deps:
+      - dekai/app/final_melbourne_model.pkl
+      - dekai/data/processed/test.csv
+      - dekai/src/evaluate.py
+    metrics:
+      - dekai/metrics.json
+
+  deploy:
+    cmd: poetry run python app/app.py
+    deps:
+      - xinrui/app/final_wheat_seeds_model.pkl
+      - jet/app/final_used_car_model.pkl
+      - dekai/app/final_melbourne_model.pkl
+      - app/app.py
+      - app/templates/base.html

@@ -1,0 +1,18 @@
+dataset:
+  raw_path: "xinrui/data/raw/03_Wheat_Seeds.csv"
+  processed_train_path: "xinrui/processed/train.csv"
+  processed_test_path: "xinrui/processed/test.csv"
+  numeric_features: ["Area", "Perimeter", "Compactness", "Length", "Width", "AsymmetryCoeff", "Groove"]
+  test_size: 0.2
+
+training:
+  normalize: True
+  feature_selection: True
+  session_id: 42
+  log_experiment: False
+  bin_features: []  
+
+model:
+  auto_select: True  
+  type: "rf"  # auto_select is False
+  output_path: "xinrui/models/final_wheat_seeds_model"

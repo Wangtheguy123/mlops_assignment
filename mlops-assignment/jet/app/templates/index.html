@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Used Car Price Prediction</title>
+</head>
+<body>
+    <h2>Predict Used Car Price</h2>
+    <form action="/predict" method="post">
+        <label>Brand Model:</label>
+        <input type="text" name="Brand_Model" required><br><br>
+
+        <label>Location:</label>
+        <input type="text" name="Location" required><br><br>
+
+        <label>Year:</label>
+        <input type="number" name="Year" required><br><br>
+
+        <label>Kilometers Driven:</label>
+        <input type="number" name="Kilometers_Driven" required><br><br>
+
+        <label>Fuel Type:</label>
+        <input type="text" name="Fuel_Type" required><br><br>
+
+        <label>Transmission:</label>
+        <input type="text" name="Transmission" required><br><br>
+
+        <label>Owner Type:</label>
+        <input type="text" name="Owner_Type" required><br><br>
+
+        <label>Mileage:</label>
+        <input type="number" step="0.01" name="Mileage" required><br><br>
+
+        <label>Engine:</label>
+        <input type="number" name="Engine" required><br><br>
+
+        <label>Power:</label>
+        <input type="number" step="0.01" name="Power" required><br><br>
+
+        <label>Seats:</label>
+        <input type="number" name="Seats" required><br><br>
+
+        <button type="submit">Predict Price</button>
+    </form>
+</body>
+</html>

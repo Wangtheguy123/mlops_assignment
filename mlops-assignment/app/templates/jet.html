@@ -1,0 +1,80 @@
+{% extends "base.html" %}
+
+{% block title %}Used Car Price Prediction{% endblock %}
+
+{% block content %}
+<div class="container mt-5">
+    <h2 class="text-center">Predict Used Car Price</h2>
+    <form action="/predict" method="post" class="mt-4">
+
+        <input type="hidden" name="model" value="predict_jet">
+
+        <div class="form-group">
+            <label>Brand Model:</label>
+            <input type="text" name="Brand_Model" class="form-control" required>
+        </div>
+
+        <div class="form-group">
+            <label>Location:</label>
+            <input type="text" name="Location" class="form-control" required>
+        </div>
+
+        <div class="form-group">
+            <label>Year:</label>
+            <input type="number" name="Year" class="form-control" required>
+        </div>
+
+        <div class="form-group">
+            <label>Kilometers Driven:</label>
+            <input type="number" name="Kilometers_Driven" class="form-control" required>
+        </div>
+
+        <div class="form-group">
+            <label>Fuel Type:</label>
+            <input type="text" name="Fuel_Type" class="form-control" required>
+        </div>
+
+        <div class="form-group">
+            <label>Transmission:</label>
+            <input type="text" name="Transmission" class="form-control" required>
+        </div>
+
+        <div class="form-group">
+            <label>Owner Type:</label>
+            <input type="text" name="Owner_Type" class="form-control" required>
+        </div>
+
+        <div class="form-group">
+            <label>Mileage:</label>
+            <input type="number" step="0.01" name="Mileage" class="form-control" required>
+        </div>
+
+        <div class="form-group">
+            <label>Engine:</label>
+            <input type="number" name="Engine" class="form-control" required>
+        </div>
+
+        <div class="form-group">
+            <label>Power:</label>
+            <input type="number" step="0.01" name="Power" class="form-control" required>
+        </div>
+
+        <div class="form-group">
+            <label>Seats:</label>
+            <input type="number" name="Seats" class="form-control" required>
+        </div>
+
+        <button type="submit" class="btn btn-primary btn-block">Predict Price</button>
+    </form>
+
+    {% if predicted_price %}
+        <div class="alert alert-success mt-4">
+            <h4>Predicted Price: ${{ predicted_price }}</h4>
+        </div>
+    {% elif prediction_text %}
+        <div class="alert alert-danger mt-4">
+            <h4>{{ prediction_text }}</h4>
+        </div>
+    {% endif %}
+</div>
+{% endblock %}

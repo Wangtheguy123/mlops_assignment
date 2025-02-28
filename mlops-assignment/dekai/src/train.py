@@ -5,7 +5,7 @@ import mlflow
 import shutil
 import logging  # Logging for debugging
 from omegaconf import DictConfig
-from pycaret.regression import (  # ✅ Use regression instead of classification
+from pycaret.regression import (  # Use regression instead of classification
     setup, compare_models, evaluate_model, plot_model,
     predict_model, create_model, save_model, tune_model
 )
@@ -58,7 +58,7 @@ def train_model(cfg: DictConfig):
         # Auto-select best model
         if cfg.model.auto_select:
             logging.info("Auto-selecting best regression model...")
-            best_model = compare_models(sort="RMSE")  # ✅ Use RMSE instead of Accuracy
+            best_model = compare_models(sort="RMSE")  # Use RMSE instead of Accuracy
         else:
             if not cfg.model.type:
                 logging.error("Model type must be specified if auto_select is False.")
@@ -69,7 +69,7 @@ def train_model(cfg: DictConfig):
 
         # Tune the model to optimize hyperparameters
         logging.info("Tuning model hyperparameters...")
-        tuned_model = tune_model(best_model, optimize="RMSE")  # ✅ Optimize for RMSE
+        tuned_model = tune_model(best_model, optimize="RMSE")  # Optimize for RMSE
 
         # Evaluate model
         logging.info("Evaluating model performance...")
@@ -82,7 +82,7 @@ def train_model(cfg: DictConfig):
         save_dir = os.path.join(log_dir, "plots")
         os.makedirs(save_dir, exist_ok=True)
 
-        plot_model(tuned_model, plot="residuals", save=True)  # ✅ Use regression-specific plots
+        plot_model(tuned_model, plot="residuals", save=True)  # Use regression-specific plots
         plot_model(tuned_model, plot="error", save=True)
         plot_model(tuned_model, plot="feature", save=True)
 

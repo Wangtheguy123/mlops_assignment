@@ -1,6 +1,6 @@
 streamlit
 pycaret==3.3.2
-pandas==1.2.5
+pandas==1.5.3
 scikit-learn
 numpy
 joblib
